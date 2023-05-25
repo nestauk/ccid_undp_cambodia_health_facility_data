@@ -1,31 +1,43 @@
-# Cambodian health data
+# Cambodian health facility data
 
-## Data pipeline
+This repository serves as a resource for preparing translations of the provinces, villages, and health centres in Cambodia.
 
-### Prerquisites
+## How to use
 
-- [csvkit](https://csvkit.readthedocs.io/en/latest/)
+- Translation sheets are in CSV format in the `translation/` directory.
+- These can be edited in any spreadsheet tool (including Google Sheets, or Excel).
+- When finished, save the sheet as CSV in the `translation/` directory.
+- Add, commit and push your changes to this repository.
+- This CSV data can be imported into the UNDP Cambodia Yobol application.
 
-To install the prerequisites on a Mac:
+### Manual translation
 
-```bash
-./init.sh
-```
+Key fields in each CSV for translation:
 
-### Health facilities GeoJSON
+| Property                   | Description              |
+| -------------------------- | ------------------------ |
+| `properties/PNAME`         | Province Name in English |
+| `properties/PNAME_km`      | Province Name in Khmer   |
+| `properties/VNAME`         | Village name in English  |
+| `properties/VNAME_km`      | Village name in Khmer    |
+| `properties/FACILITNAM`    | Facility Name in English |
+| `properties/FACILITNAM_km` | Facility Name in Khmer   |
 
-The initial data resource is:
+## About the data
+
+The source data resource is:
 
 - [Health facilities in Cambodia (GeoJSON)](https://data.opendevelopmentcambodia.net/en/dataset/health-facility-of-cambodia-2010/resource/0aeea7e7-b2cc-4214-985b-65617ce8cea0)
 
-This is sourced from the [Health Facilities in Cambodia (2010)](https://data.opendevelopmentcambodia.net/en/dataset/health-facility-of-cambodia-2010) data set provided by [Open Development Cambodia](https://opendevelopmentcambodia.net/), and contains:
+This is sourced from the [Health Facilities in Cambodia (2010)](https://data.opendevelopmentcambodia.net/en/dataset/health-facility-of-cambodia-2010) dataset provided by [Open Development Cambodia](https://opendevelopmentcambodia.net/), and contains:
 
-| National hospitals
-| Health posts
-| Health centres
-| Referral hospitals
+- Health posts
+- Health centres
+- Referral hospitals
 
-#### GeoJSON feature properties
+This data is licensed under the [Create Commons Attribution](https://creativecommons.org/licenses/by/3.0/) license.
+
+### GeoJSON feature properties
 
 The GeoJSON features in this data resource have the following properties:
 
@@ -44,31 +56,31 @@ The GeoJSON features in this data resource have the following properties:
 | `FACILITNAM` | Facility Name             |
 | `COVERNAME`  | Name of Coverage Area     |
 
-The various names are all provided in **English** - but we'll need them in **Khmer.**
+Names are provided in **English**.
 
-### Health facility translation sheet
+## Starting from scratch
 
-First, the GeoJSON records for all features are exported to CSV format so that they can be easily edited in a spreadsheet.
+### Prerquisites
 
-To create the blank translation templates:
+- [csvkit](https://csvkit.readthedocs.io/en/latest/)
 
-```text
+To install the prerequisites on Mac OS:
+
+```bash
+./init.sh
+```
+
+### Create blank templates
+
+First, delete any existing templates and translation data, then
+
+```bash
+rm template/*
+rm translation/*
 ./create-translation-templates.sh
 ```
 
-1. Blank CSV templates are created in the `template/` directory.
-2. Blank CSV templates are copied to the `translation/` directory.
-3. `original-translation-data/khmer-health-select.json` is merged with the tables in the `translation/` directory.
-
-### Manual translation
-
-Key fields for translation:
-
-| Property                   | Description              |
-| -------------------------- | ------------------------ |
-| `properties/PNAME`         | Province Name in English |
-| `properties/PNAME_km`      | Province Name in Khmer   |
-| `properties/VNAME`         | Village name in English  |
-| `properties/VNAME_km`      | Village name in Khmer    |
-| `properties/FACILITNAM`    | Facility Name in English |
-| `properties/FACILITNAM_km` | Facility Name in Khmer   |
+1. The GeoJSON records for all features are exported to CSV format.
+2. Blank CSV translation templates are created in the `template/` directory.
+3. The translation templates are copied to the `translation/` directory.
+4. `original-translation-data/khmer-health-select.json` is merged with the tables in the `translation/` directory.
