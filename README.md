@@ -60,6 +60,8 @@ Names are provided in **English**.
 
 ## Starting from scratch
 
+It's possible to recreate the initial templates from scratch by following this process.
+
 ### Prerquisites
 
 - [csvkit](https://csvkit.readthedocs.io/en/latest/)
@@ -72,7 +74,7 @@ To install the prerequisites on Mac OS:
 
 ### Create blank templates
 
-First, delete any existing templates and translation data, then
+First, delete any existing templates and translation data, then use the creation script to prepare templates:
 
 ```bash
 rm template/*
