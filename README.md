@@ -5,7 +5,7 @@ This repository serves as a resource for preparing translations of the provinces
 ## Licensing
 
 - Source data from [Open Development Cambodia](https://opendevelopmentcambodia.net/) is licensed under the [Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/) license.
-- Derived data, created by Nesta and partner agencies is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+- Translation data, created by Nesta and partner agencies is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 - Scripts in this repository created by Nesta are licensed under the [MIT license](LICENSE).
 
 ## How to use
