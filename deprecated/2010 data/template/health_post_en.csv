@@ -1,0 +1,90 @@
+type,properties/PCODE,properties/PNAME,properties/DCODE,properties/DNAME,properties/CCODE,properties/CNAME,properties/VCODE,properties/VNAME,properties/ODCODE,properties/ODNAME,properties/FACILITCOD,properties/FACILITNAM,geometry/type,geometry/coordinates/0,geometry/coordinates/1
+Feature,10,Kratie,1003,Preaek Prasab,100301.0,Chambak,10030106.0,Stueng Thum,1001,Chhlong,10010201,Stueng Thum,Point,589482.93925619079,1366181.4142398813
+Feature,10,Kratie,1005,Snuol,100501.0,Khsuem,10050107.0,Srae Roneam,1002,Kratie,10021501,Srae Roneam,Point,654847.977726485,1357465.4524768086
+Feature,10,Kratie,1005,Snuol,100504.0,Srae Char,10050404.0,Mean  Chey,1002,Kratie,10021401,Doun Meas,Point,644704.99627385463,1326873.4255161176
+Feature,10,Kratie,1005,Snuol,100505.0,Svay Chreah,10050508.0,Rumpuk,1002,Kratie,10021301,Rumpuk,Point,640356.97419863311,1352191.4381302719
+Feature,11,Mondul Kiri,1101,Kaev Seima,110103.0,Srae Chhuk,11010302.0,Chak Cha,1101,Sen Monorom,110108,Srae Chhouk,Point,687515.98356417101,1368201.4876716963
+Feature,11,Mondul Kiri,1101,Kaev Seima,110104.0,Srae Khtum,11010401.0,Ou Am,1101,Sen Monorom,110108,Ou Am,Point,705301.02277430939,1339600.4911161829
+Feature,11,Mondul Kiri,1102,Kaoh Nheaek,110202.0,Ou Buon Leu,11020201.0,Tuol,1101,Sen Monorom,110108,Tuol,Point,718883.91708595084,1437949.5399654163
+Feature,11,Mondul Kiri,1102,Kaoh Nheaek,110203.0,Roya,11020301.0,Roya,1101,Sen Monorom,110108,Royor,Point,721472.902403938,1450921.5434952255
+Feature,11,Mondul Kiri,1103,Ou Reang,110301.0,Dak Dam,11030101.0,Pu Traeng,1101,Sen Monorom,110108,Dak Dam,Point,750854.00243853242,1374342.5642178748
+Feature,11,Mondul Kiri,1103,Ou Reang,110302.0,Saen Monourom,11030202.0,Andoung Kraloeng,1101,Sen Monorom,110108,AnDaung Kraloeng,Point,726633.00685420434,1362956.5284415337
+Feature,11,Mondul Kiri,1104,Pechr Chenda,110401.0,Krang Teh,11040101.0,Krang Teh,1101,Sen Monorom,110108,Krang Teh,Point,755102.97186641791,1398208.5779032025
+Feature,11,Mondul Kiri,1104,Pechr Chenda,110402.0,Pou Chri,11040202.0,Chrey Yang,1101,Sen Monorom,110108,Pou Chri,Point,743339.96804687439,1398874.5626426868
+Feature,11,Mondul Kiri,1104,Pechr Chenda,110403.0,Srae Ampum,11040302.0,Pu Radaet,1101,Sen Monorom,110108,Srae Ampom,Point,754438.98495690245,1388322.5740747352
+Feature,11,Mondul Kiri,1105,Saen Monourom,110504.0,Romonea,11050403.0,Pu Lung,1101,Sen Monorom,110108,Pu Lung,Point,743105.99035037041,1381439.556774636
+Feature,13,Preah Vihear,1304,Kuleaen,130403.0,Thmei,13040301.0,Thnal Baek,1301,Preah Vihear,13010902,Thnal Baek,Point,477769.90222109744,1528299.4072203601
+Feature,13,Preah Vihear,1307,Tbaeng Mean Chey,130701.0,Kampong Pranak,13070107.0,Srah Chhuk,1301,Preah Vihear,13011301,Psar Kampong Pranak,Point,497147.89574794983,1526916.4065050024
+Feature,15,Pursat,1506,Veal Vaeng,0.0,O Sam,15060101.0,Ou Saom,1502,Sampov Meas,15022201,O Sam,Point,305627.76692546753,1335978.4762511475
+Feature,15,Pursat,1506,Veal Vaeng,150603.0,Anglong Reap,15060303.0,Chamkar Chrey  Cheung,1502,Sampov Meas,15022203,Anglong Reap,Point,284058.77888966561,1358140.5125249827
+Feature,16,Ratanak Kiri,1604,Koun Mom,160402.0,Srae Angkrong,16040201.0,Phum Muoy,1601,Rattanakiri,16011101,Srae Angkrong,Point,677791.86708147672,1489607.4957140905
+Feature,16,Ratanak Kiri,1604,Koun Mom,160404.0,Toen,16040404.0,Kam Bak,1601,Rattanakiri,16011103,Toen,Point,699590.83924577804,1513149.5109899638
+Feature,16,Ratanak Kiri,1605,Lumphat,160506.0,Seda,16050607.0,Samot Kraom,1601,Rattanakiri,16010302,Seda,Point,736929.84790832084,1495823.5567204575
+Feature,16,Ratanak Kiri,1606,Ou Chum,160602.0,Chan,16060206.0,Khmaeng,1601,Rattanakiri,16010201,Pouy,Point,718657.80571558583,1538289.5217439807
+Feature,16,Ratanak Kiri,1606,Ou Chum,160606.0,Sameakki,16060604.0,Nha,1601,Rattanakiri,16010202,Sameakki,Point,727749.81617881858,1525466.5370565807
+Feature,16,Ratanak Kiri,1607,Ou Ya Dav,160701.0,Bar Kham,16070106.0,Pril,1601,Rattanakiri,16010503,Bar Kham,Point,748086.82966790278,1508179.5671618779
+Feature,16,Ratanak Kiri,1607,Ou Ya Dav,160706.0,Saom Thum,16070602.0,Saom Trak,1601,Rattanakiri,16010501,Sesant,Point,759224.81286195514,1518371.5780673076
+Feature,16,Ratanak Kiri,1607,Ou Ya Dav,160707.0,Ya Tung,16070701.0,Ten Ngol,1601,Rattanakiri,16010502,Ya Tung,Point,762122.81838321779,1513354.5835791943
+Feature,16,Ratanak Kiri,1609,Veun Sai,160908.0,Pak Kalan,16090801.0,Pa Kalan,1601,Rattanakiri,16010703,Pa Kalan,Point,689714.81524605153,1541716.4908280224
+Feature,9,Koh Kong,903,Kaoh Kong,90302.0,Kaoh Kapi,9030201.0,Phum Ti Muoy,901,Smach Mean Chey,90120,Kaoh Kapi,Point,283334.6715091262,1267227.4451231118
+Feature,9,Koh Kong,903,Kaoh Kong,90303.0,Ta Tai Kraom,9030302.0,Anlong Vak,901,Smach Mean Chey,90121,Ta Tai Kraom,Point,296157.69791642617,1279217.4419209405
+Feature,4,Kampong Chhnang,408,Tuek Phos,40806.0,Krang Skear,4080601.0,Krang Skear,403,Boribo,4030201,Kdol,Point,421374.84975843481,1353052.4019680759
+Feature,13,Preah Vihear,1302,Chhaeb,130202.0,Chhaeb Pir,13020201.0,Kunakpheap Muoy,1301,Preah Vihear,13010202,Kunkpheap,Point,556824.87484615727,1531246.4131952492
+Feature,13,Preah Vihear,1302,Chhaeb,130207.0,Kampong Sralau Muoy,13020701.0,Kampong Sralau,1301,Preah Vihear,13010201,Kampong Sralau,Point,584097.85422455729,1557259.4118735967
+Feature,15,Pursat,1506,Veal Vaeng,150602.0,Krapeu Pi,15060202.0,Krapeu Pi Kraom,1502,Sampov Meas,15022202,Krapeu Pi,Point,296261.80886774638,1380007.5087139774
+Feature,10,Kratie,1004,Sambour,100410.0,Voadthonak,10041001.0,Anlong Preah Kou,1002,Kratie,10021001,Voadthonak,Point,607773.92937510228,1399099.4373011088
+Feature,10,Kratie,1004,Sambour,100404.0,Kaoh Khnaer,10040403.0,Kaoh Daqmbang,1002,Kratie,10021101,Boeng Char,Point,605745.91685105429,1420593.4418312821
+Feature,1,Banteay Meanchey,102,Mongkol Borei,10203.0,Chamnaom,1020311.0,Khchas,101,Mongkol Borei,1011201,Say Samoan,Point,278317.92119014519,1483798.5403904552
+Feature,1,Banteay Meanchey,105,Ou Chrov,10509.0,Ou Beichoan,1050913.0,Seila Khmaer,102,Ou Chrov,1020902,Seila Khmaer,Point,247771.97215559299,1520180.5674623619
+Feature,1,Banteay Meanchey,108,Svay Chek,10804.0,Svay Chek,1080410.0,Khvav Lech,104,Preah Net Preah,1040901,Khvav Lech,Point,269480.97960407037,1533004.5363643132
+Feature,1,Banteay Meanchey,104,Preah Netr Preah,10407.0,Bos Sbov,1040711.0,Bantoat Baoh,103,Preah Netr Preah,1031401,Pring Koang,Point,290588.95653994416,1518890.5184419269
+Feature,21,Takeo,2103,Bourei Cholsar,210301.0,Bourei Cholsar,21030101.0,Angk Krouch,2104,Kirivong,21041401,Angk Krouch,Point,493294.88534166396,1200316.2334816158
+Feature,21,Takeo,2109,Tram Kak,210907.0,Trapeang Kranhung,21090706.0,Prey Kdouch,2101,Ang Rokar,21010901,Bos Phorng,Point,435844.81361382094,1226603.2802097842
+Feature,18,Sihaknouk Vill,1802,Prey Nup,180209.0,Sameaki,0.0,Praek Kranh,1801,Sihaknouk Vill,18010301,Praek Kranh,Point,375061.7113114578,1190286.2627987179
+Feature,19,Stung Treng,1901,Sesan,190102.0,Kbal Romeas,19010201.0,Kbal Romeas,1901,Stung Treng,19010801,Kbal Romeas,Point,660454.86704123544,1493499.4801265481
+Feature,19,Stung Treng,1901,Sesan,190102.0,Kbal Romeas,19010204.0,Chrab,1901,Stung Treng,19010803,Chrab,Point,636258.87854424398,1483570.4634074697
+Feature,19,Stung Treng,1901,Sesan,190107.0,Ta Lat,19010701.0,Svay Rieng,1901,Stung Treng,19010802,Svay Rieng,Point,666045.84681699541,1516345.4791718598
+Feature,4,Kampong Chhnang,408,Tuek Phos,40804.0,Kbal Tuek,4080401.0,Krasang Doh Laeung,401,Kampong Chhnang,4011201,Krasang Doh Laeung,Point,424780.83819134219,1319675.3784665857
+Feature,4,Kampong Chhnang,401,Boribour,40108.0,Pech Changvar,4010803.0,Lvea,403,Boribo,4030301,Pech Changvar,Point,434111.86209485214,1367418.4047563307
+Feature,13,Preah Vihear,1303,Choam ksant,130306.0,Kantout,13030601.0,Kantout,1301,Preah Vihear,13011201,Kantout,Point,456361.91855651687,1570982.3918037375
+Feature,13,Preah Vihear,1301,Chey Saen,130106.0,Putrea,13010601.0,Putrea,1301,Preah Vihear,13010301,Putrea,Point,521064.89134439977,1494527.4156075479
+Feature,13,Preah Vihear,1303,Choam Ksant,130303.0,Pring Thum,13030301.0,Kralor Peas,1301,Preah Vihear,13011101,Pring Thum,Point,497336.89592699381,1545088.39972966
+Feature,13,Preah Vihear,1305,Rovieng,130509.0,Reaksa,13050901.0,Donma,1301,Preah Vihear,13010501,Donma,Point,513185.89204493898,1503577.4132198112
+Feature,13,Preah Vihear,1307,Tbaeng Mean Chey,130706.0,Preah Khleang,13070602.0,Krang Doung,1301,Preah Vihear,13011302,Preah Khleang,Point,504128.8939035752,1505805.4123262453
+Feature,13,Preah Vihear,1307,Tbaeng Mean Chey,130705.0,Pror me,13070502.0,Pror me,1301,Preah Vihear,13011303,Pou,Point,500415.89467447734,1529721.4055544722
+Feature,13,Preah Vihear,1305,Rovieng,130508.0,Riep Roy,13050802.0,Srae,1301,Preah Vihear,13010701,Riep Roy,Point,530183.89240067801,1477737.4188484652
+Feature,13,Preah Vihear,1305,Rovieng,130510.0,Rum Daoh,13051001.0,Thnal Koang,1301,Preah Vihear,13010601,Rum Daoh,Point,503208.8943026773,1493732.4146010173
+Feature,13,Preah Vihear,1305,Rovieng,130511.0,Romtom,13051106.0,Svay Damnak Thmei,1301,Preah Vihear,13010602,Svay Damnak,Point,487911.89554001181,1474119.4170565994
+Feature,13,Preah Vihear,1306,SangKom Thmei,130605.0,Ronak Se,13060501.0,Ta Seng Kandal,1301,Preah Vihear,13010801,Ronak Se,Point,477084.89708695468,1481863.4173860766
+Feature,13,Preah Vihear,1306,SangKom Thmei,130604.0,Sdao,13060401.0,Ta Boss,1301,Preah Vihear,13010802,Sdao,Point,476232.8987476147,1494938.4157513084
+Feature,13,Preah Vihear,1304,Kuleaen,130405.0,Phnom Tbaeng Pir,13040501.0,Chhuk,1301,Preah Vihear,13011001,Tbaeng Pir,Point,477013.90124470775,1517620.4105910053
+Feature,13,Preah Vihear,1304,Kuleaen,130406.0,Srayang,13040602.0,Srayang Tboung,1301,Preah Vihear,13010901,Srayang,Point,451545.90741106431,1513733.4161600627
+Feature,13,Preah Vihear,1303,Choam Ksant,130306.0,Kantout,0.0,Kor Mouy,1301,Preah Vihear,13011202,Prasat,Point,463495.91801831854,1589726.3792816105
+Feature,9,Koh Kong,907,Thmor Bang,90704.0,Russei Chrum,9070401.0,Russei Chrum,901,Smach Mean Chey,,Russei Chrum,Point,330864.74352084857,1292813.4188385338
+Feature,16,Ratanak Kiri,1609,Veun Sai,160903.0,Hat Pak,16090301.0,Hat Pak,1601,Rattanakiri,,Hat Pak,Point,683167.82894305827,1529918.4895519887
+Feature,16,Ratanak Kiri,1601,Andoung Meas,160104.0,Ta Lav,16010403.0,Ta Lav,1601,Rattanakiri,,Ta Lav,Point,742519.78879889217,1543326.5468454331
+Feature,16,Ratanak Kiri,1603,Bar Kaev,160304.0,Lung Khung,16030401.0,Lung Khung,1601,Rattanakiri,,Lung Khung,Point,731256.83120498527,1511326.5458887403
+Feature,16,Ratanak Kiri,1601,Andoung Meas,160103.0,Nhang,16010313.0,Ket,1601,Rattanakiri,,Nhang,Point,756993.77815239748,1546108.5634637985
+Feature,16,Ratanak Kiri,1604,Koun Mon,160401.0,Serei Monkol,16040102.0,Srae Pok Touch,1601,Rattanakiri,,Serei Monkol,Point,702997.86222853302,1489678.5200951274
+Feature,1,Banteay Meanchey,107,Thma Puok,10701.0,Banteay Chhmar,1070113.0,Prasat Tbaeng,103,Thma Puok,1040501,Prasat Tbaeng,Point,279657.00782642642,1562542.5107256034
+Feature,1,Banteay Meanchey,105,Ou Chrov,10504.0,Nimit,1050415.0,Reaksmei Sereipheap,102,Ou Chrov,1020701,Anlong Svay,Point,249879.94996361822,1503110.5701777174
+Feature,1,Banteay Meanchey,105,Ou Chrov,10505.0,Samrong,1050510.0,Kandal,102,Ou Chrov,1020801,Samrong,Point,265967.94158609642,1499449.5514798868
+Feature,1,Banteay Meanchey,104,Preah Netr Preah,10408.0,Tuek Chour,1040804.0,Kouk Kei,103,Preah Netr Preah,1030601,Kouk Kei,Point,321459.93770659145,1508655.4914833778
+Feature,1,Banteay Meanchey,103,Phnom Srok,10302.0,Paoy Char,0.0,Koun Khlaeng,103,Preah Netr Preah,1031001,Koun Khlaeng,Point,312218.97127432527,1541874.4881950389
+Feature,22,Oddor Meanchey,2204,Samrong,220403.0,Kriel,22040316.0,Ou Pok,2201,Samrong,22011201,OU Pok,Point,356524.98778712295,1591629.4246404273
+Feature,22,Oddor Meanchey,2202,Banteay Ampil,220203.0,Kouk Khpos,22020306.0,Thnal,2201,Samrong,22020801,Chhouk,Point,320335.9998043814,1577988.461841228
+Feature,10,Kratie,1002,Kratie,100202.0,Chang Krang,10020401.0,Kasang,1002,Kratie,10020401,Chang Krang,Point,618165.93522299232,1394832.4420903563
+Feature,10,Kratie,1004,Sambour,100405.0,Ou Krieng,10040501.0,Koh Khnhae,1002,Kratie,10021201,Koh Khnhae,Point,614547.90203692298,1448443.4505968103
+Feature,1,Banteay Meanchey,105,Ou Chrov,10501.0,Changha,1050103.0,Ta Phaok,102,Ou Chrov,1020802,Changha,Point,271499.95262574032,1510128.5421517475
+Feature,1,Banteay Meanchey,104,Preah Netr Preah,10407.0,Bos Sbov,1040713.0,Khchas,103,Preah Netr Preah,1031402,Khchas,Point,295895.94997370162,1514122.514464112
+Feature,17,Siem Reap,1714,Varin,171403.0,Srae Nouy,17140306.0,Voat,1702,Siem Reap,17021101,Srae Nouy,Point,394676.92905832082,1526526.4341100152
+Feature,17,Siem Reap,1713,Svay Leu,171302.0,Kantuot,0.0,Skun,1702,Siem Reap,17021301,Skun,Point,407720.91997032368,1516124.4308986124
+Feature,17,Siem Reap,1709,Prasat Bakong,170904.0,Kampong Phluk,17090403.0,Dei Kraham,1702,Siem Reap,17021601,Kampong Phluk,Point,388689.89381562587,1460496.4485892488
+Feature,17,Siem Reap,1702,Angkor Thum,170201.0,Chob Ta Trav,17020104.0,Toap Svay,1702,Siem Reap,17021001,Chob Ta Trav,Point,368990.92499788984,1507391.4548602831
+Feature,17,Siem Reap,1701,Angkor Chum,170106.0,Srae Khvav,17010603.0,Srae Khvav,1704,Angkor Chum,17041201,Srae Khvav,Point,356768.93936686707,1523313.458660017
+Feature,10,Kratie,1004,Sambuor,100403.0,Kbal Damrei,10040303.0,Ou Ta Noeng,1002,Kratie,10021202,Kbal Damrei,Point,627309.92125246278,1420260.4549085819
+Feature,10,Kratie,1004,Sambuor,100409.0,Srae Chis,10040905.0,Srae Chis,1002,Kratie,10021701,Srae Chis,Point,659973.91800678638,1431478.4812911788
+Feature,10,Kratie,1002,Kratie,100215.0,Thmei,0.0,Chres,1002,Kratie,10020501,105,Point,641965.94907914125,1386639.4555251494
+Feature,2,Battam Bang,209,Sam lot,20905.0,Mean Chey,2090506.0,Boeng Run,204,Battam bang,2042001,Boeng Run,Point,255976.81806295854,1399438.5626648723
+Feature,2,Battam Bang,209,Sam lot,0.0,,0.0,Kampong Tuk,204,Battam bang,2042101,Kampong Tuk,Point,261271.83018160841,1407911.5580746147
+Feature,2,Battam Bang,0,,0.0,,0.0,,204,Battam bang,2041701,Badak,Point,266378.86584252946,1436187.556173089

@@ -1,0 +1,145 @@
+type,properties/PCODE,properties/PNAME_km,properties/DCODE,properties/DNAME,properties/CCODE,properties/CNAME,properties/VCODE,properties/VNAME_km,properties/ODCODE,properties/ODNAME,properties/FACILITCOD,properties/FACILITNAM_km,properties/COVERNAME
+Feature,3,កំពង់ចាម,306,Kampong Siem,30609.0,Krala,3060905.0,ត្រពាំងជ្រៃ,303,Kampong Cham,30312, ក្រឡាំ,Krala and O Svay commune
+Feature,3,កំពង់ចាម,306,Kampong Siem,30614.0,Trean,3061411.0,ទួលត្រាច,303,Kampong Cham,30313, ត្រាំន,Trean and Srork commune
+Feature,3,កំពង់ចាម,306,Kampong Siem,30615.0,Vihear Thum,3061503.0,គោកក្រឹម,303,Kampong Cham,30311, វិហារធំ,Vihea Thum
+Feature,3,កំពង់ចាម,307,Kang Meas,30701.0,Angkor Ban,3070103.0,អង្គរបានទីប៉ី,308,Prey Chhor,30815, អង្គរបាន,"Angkor Ban, Peam chi kang communes (11 villages)"
+Feature,3,កំពង់ចាម,307,Kang Meas,30704.0,Peam Chi Kang,3070403.0,ពាមជីកង,308,Prey Chhor,30813,ពាមជីកាង,"Peam chi kang, Rokar Koy communes (11 villages)"
+Feature,3,កំពង់ចាម,307,Kang Meas,30706.0,Preaek Krabau,3070601.0,ពូសាឡា ទីមួួយ,308,Prey Chhor,30814, ព្រែកក្រប៉ៅ,"Preaek Krabau, Peam chi kang communes (11 villages)"
+Feature,3,កំពង់ចាម,307,Kang Meas,30708.0,Roka Ar,3070806.0,ជ្រោយក្របៅទីពៀរ,309,Srei Santhor,30912, រកាអារ,"Kang Ta Noeng, Roka Ar communes (16 villages)"
+Feature,3,កំពង់ចាម,307,Kang Meas,30710.0,Sdau,3071005.0,ល្វាក្រោម,309,Srei Santhor,30913, ស្ដោះ,"Sdau, Preaek koy, Kang Ta noeng communes (11 villages)"
+Feature,3,កំពង់ចាម,307,Kang Meas,30711.0,Sour Kong,3071101.0,កៅ តាង៉ោ ទីមឿយ,308,Prey Chhor,30816, សោរកុង,Sour Kong commune (11 villages)
+Feature,3,កំពង់ចាម,308,Kaoh Soutin,30801.0,Kampong Reab,3080104.0,កំពង់រាបក្រោម,303,Kampong Cham,30319, កំពង់រែប,Kampong Reab commune (8 villages)
+Feature,3,កំពង់ចាម,308,Kaoh Soutin,30803.0,Lve,3080304.0,បាត់ដំបង,303,Kampong Cham,30318, ល្វែង,Lve commune (10 villages)
+Feature,3,កំពង់ចាម,308,Kaoh Soutin,30804.0,Moha Leaph,3080402.0,មហាលាភ,306,O Reang Ov,30609, ពង្រែមហាឡាប,"Pongro,Moha Leaph communes (18 villages)"
+Feature,3,កំពង់ចាម,308,Kaoh Soutin,30805.0,Moha Khnhoung,3080504.0,កំពង់ចាម,303,Kampong Cham,30315,មហាខញ់,Moha Khnhoung commune (9 villages)
+Feature,3,កំពង់ចាម,308,Kaoh Soutin,30806.0,Peam Prathnuoh,3080601.0,ផ្សារថ្មី,303,Kampong Cham,30317, ពាមប្រធាននោះ,Peam Prathnuoh commune (13 villages)
+Feature,3,កំពង់ចាម,308,Kaoh Soutin,30808.0,Preaek Ta Nong,3080802.0,ភូមិ ទីព,303,Kampong Cham,30314, ព្រែកតាណុង,Preaek Ta Nong commune (13 villages)
+Feature,3,កំពង់ចាម,309,Krouch Chhmar,30903.0,Kampong Treas,3090302.0,ភូមិ ទីព,304,Kroch Chhmar,30408,កំពង់ត្រាស់,"Kampong Treas, Kaoh Pir communes (10 villages)"
+Feature,3,កំពង់ចាម,309,Krouch Chhmar,30905.0,Krouch Chhmar,3090503.0,ក្រូចឆ្មារ,304,Kroch Chhmar,30406, ប្រជែងកណ្តាល,"Krouch Chhmar, Trea communes (8 villages)"
+Feature,3,កំពង់ចាម,309,Krouch Chhmar,30907.0,Peus Pir,3090702.0,Peus,304,Kroch Chhmar,30404, ពិសេប្រ័យ,"Peus Muoy, Peus Pir communes"
+Feature,3,កំពង់ចាម,309,Krouch Chhmar,30909.0,Roka Khnaor,3090905.0,ភូមទីព្រហ្ម,304,Kroch Chhmar,30403, រកាខ្នៅ,"Roka Khnaor, Chumnik communes"
+Feature,3,កំពង់ចាម,310,Memot,31001.0,Chan Mul,3100105.0,ចាន់ មូល,305,Memut,30505, ចាន់មុខ,"Roung, Choam and Chan Mul commune"
+Feature,3,កំពង់ចាម,316,Tboung Khmum,31622.0,Tonle Bet,3162211.0,ទន្លេបេតក្រោម,303,Kampong Cham,30321, ទន្លេបាត់,"Tonle Bet, Chirou Muoy"
+Feature,3,កំពង់ចាម,310,Memot,31004.0,Choam Ta Mau,3100409.0,ថ្មគោល,305,Memut,30508, ថ្មតោចំពោះ,"Choam Tamao, Memong and Tra Maung commune"
+Feature,3,កំពង់ចាម,310,Memot,31005.0,Dar,3100505.0,ផ្សារ,305,Memut,30506, ដារផ្សារ,Dar commune
+Feature,3,កំពង់ចាម,310,Memot,31006.0,Kampoan,3100607.0,ឆ្លូងមួយ,305,Memut,30507, កំពង់បាន,Kampoan and Koki commune
+Feature,3,កំពង់ចាម,310,Memot,31008.0,Memot,3100810.0,ត្បូងឃ្មុំ,305,Memut,30502, កំពង់បាន,Memut and Trieak commune
+Feature,3,កំពង់ចាម,306,Kampong Siem,30605.0,Kaoh Mitt,3060502.0,កៅផានខា,303,Kampong Cham,30308, កោះមិត្ត,Kaoh Mitt
+Feature,3,កំពង់ចាម,310,Memot,31013.0,Tramung,3101304.0,ចោម ទ្រីក,305,Memut,30503, ចោាមត្រាក់,Tramoung and Roung commune
+Feature,3,កំពង់ចាម,310,Memot,31014.0,Tonlung,3101411.0,Pong Tuek,305,Memut,30509,ស្លាក,Tonlung and Choam Kravien commune
+Feature,3,កំពង់ចាម,310,Memot,31015.0,Treak,3101507.0,សំរោងត្បូង,305,Memut,30504,សំរោង,"Triek, Dar, Memot and Roung commune"
+Feature,3,កំពង់ចាម,311,Ou Reang Ov,31101.0,Ampil Ta Pok,3110117.0,លេក ប៊ុនកឿត,306,O Reang Ov,30606,អំពិលតាពក,Village
+Feature,3,កំពង់ចាម,311,Ou Reang Ov,31102.0,Chak,3110207.0,ចក់,306,O Reang Ov,30604,ចាក់,Chak and Tuol Sophy commune
+Feature,3,កំពង់ចាម,311,Ou Reang Ov,31104.0,Kong Chey,3110407.0,ថ្នល់កែង,306,O Reang Ov,30603,ថ្នាល់កែង,Kong Chey and Tuol Sophy commune
+Feature,3,កំពង់ចាម,311,Ou Reang Ov,31104.0,Kong Chey,3110422.0,ស្រែស្ពៃ,306,O Reang Ov,30602,ស្រែស្ពៃ,Village
+Feature,3,កំពង់ចាម,311,Ou Reang Ov,31105.0,Mien,3110513.0,ថ្មសំលៀង,306,O Reang Ov,30607,មៀន,Village
+Feature,3,កំពង់ចាម,312,Ponhea Kraek,31202.0,Doun Tei,3120214.0,Reul Kraom,307,Ponhea Krek,30710,ដូនទី,Village
+Feature,3,កំពង់ចាម,312,Ponhea Kraek,31203.0,Kak,3120304.0,Ponley,307,Ponhea Krek,30711,ពន្លី,Village
+Feature,3,កំពង់ចាម,312,Ponhea Kraek,31204.0,Kandaol Chrum,3120401.0,កណ្តោលជ្រុំ,307,Ponhea Krek,30709,កណ្តោលជ្រំ,Village
+Feature,3,កំពង់ចាម,312,Ponhea Kraek,31206.0,Kraek,3120604.0,Chimoan Cheung,307,Ponhea Krek,30703,ក្រែកេះ​ទី១,Village
+Feature,3,កំពង់ចាម,312,Ponhea Kraek,31208.0,Trapeang Phlong,3120804.0,ត្រពាំងព្រីងទីព,307,Ponhea Krek,30702,ត្រពាំងព្រិង,Village
+Feature,3,កំពង់ចាម,313,Prey Chhor,31301.0,Baray,3130102.0,ទួលចំបក់,308,Prey Chhor,30808,បារាយ៉ាយ,Village
+Feature,3,កំពង់ចាម,313,Prey Chhor,31303.0,Chrey Vien,3130317.0,ព្រៃទទឹង,308,Prey Chhor,30806,ឆ្លីវៀន,Village
+Feature,3,កំពង់ចាម,313,Prey Chhor,31305.0,Kor,3130506.0,តាម៉ុត,308,Prey Chhor,30807,កោះ,Village
+Feature,3,កំពង់ចាម,313,Prey Chhor,31306.0,Krouch,3130601.0,អូរជ្រៅ,308,Prey Chhor,30809,គ្រូច,Village
+Feature,3,កំពង់ចាម,313,Prey Chhor,31307.0,Lvea,3130709.0,Lvea,308,Prey Chhor,30811,ល្វា,Village
+Feature,3,កំពង់ចាម,314,Srei Santhor,31405.0,Mean Chey,3140501.0,សាច់,309,Srei Santhor,30908,មានជ័យ,Mean Chey and Prek Por commune
+Feature,3,កំពង់ចាម,314,Srei Santhor,31409.0,Preaek Pou,3140901.0,រកា Tvear,309,Srei Santhor,30906,ព្រែកពោធ័,Prek Pou and Phteah Kandal commune
+Feature,3,កំពង់ចាម,314,Srei Santhor,31410.0,Preaek Rumdeng,3141010.0,ស្វាយតានាន់កា,309,Srei Santhor,30902,ព្រែករុំដេង,Village
+Feature,3,កំពង់ចាម,314,Srei Santhor,31412.0,Svay Pou,3141201.0,ពូ,309,Srei Santhor,30909,ស្វាយពោធ័,Village
+Feature,3,កំពង់ចាម,314,Srei Santhor,31413.0,Svay Sach Phnum,3141302.0,ស្វាយកណ្តាល,309,Srei Santhor,30903,ស្វាយសាច់ភ្នំ,Village
+Feature,3,កំពង់ចាម,315,Stueng Trang,31505.0,Me Sar Chrey,3150503.0,បុស្បា,301,Chamkar Leu,30111,មេសារឆ្លីវៀន,"Bos Leu, Ou Leu, Kbarl Ou, Ou Beng and Trapeang Chhuk village"
+Feature,3,កំពង់ចាម,315,Stueng Trang,31507.0,Peam Kaoh Sna,3150702.0,ពាមក្នុង,304,Kroch Chhmar,30410,ពាមកោះស្នា,Village
+Feature,3,កំពង់ចាម,315,Stueng Trang,31510.0,Preaek Kak,3151004.0,Tnaot Ta Say,303,Kampong Cham,30320,ព្រែកកាក់,Village
+Feature,3,កំពង់ចាម,313,Prey Chhor,31308.0,Mien,3130804.0,ត្រពាំងឈូក,308,Prey Chhor,30803,មៀន,Village
+Feature,3,កំពង់ចាម,313,Prey Chhor,31310.0,Sour Saen,3131001.0,សួស សែន,308,Prey Chhor,30805,សូរសែន,Village
+Feature,3,កំពង់ចាម,313,Prey Chhor,31311.0,Samraong,3131107.0,ស៊ូឌី,308,Prey Chhor,30804,ស្រងៀ,Village
+Feature,3,កំពង់ចាម,313,Prey Chhor,31313.0,Thma Pun,3131302.0,អណ្តូងតាពេជ្រ,308,Prey Chhor,30810,ថ្មពុន,Village
+Feature,3,កំពង់ចាម,313,Prey Chhor,31314.0,Tong Rong,3131408.0,ទ្រូ Mukh Ti Muoy,308,Prey Chhor,30812,ទង្រង់,Village
+Feature,3,កំពង់ចាម,313,Prey Chhor,31315.0,Trapeang Preah,3131524.0,ត្រពាំងក្រសាំង,308,Prey Chhor,30802,ត្រពាំងព្រះ,Village
+Feature,3,កំពង់ចាម,315,Stueng Trang,31512.0,Soupheas,3151201.0,សុភា,301,Chamkar Leu,30113,សូផាស់,Village
+Feature,3,កំពង់ចាម,316,Tboung Khmum,31601.0,Anhchaeum,3160105.0,Koun Tmaat,310,Tbong Khmum,31011,អញ្ចើម,Village
+Feature,3,កំពង់ចាម,316,Tboung Khmum,31604.0,Chikor,3160409.0,ទួលកណ្តាលជើង,310,Tbong Khmum,31007,ជីគរ-មោងរៀវ,Village
+Feature,3,កំពង់ចាម,316,Tboung Khmum,31606.0,Chirou Pir,3160602.0,ស្រែសៀម,310,Tbong Khmum,31009,ជីរូបពីរ,Village
+Feature,3,កំពង់ចាម,316,Tboung Khmum,31608.0,Chob,3160803.0,ជប់ក្រវ៉ា,310,Tbong Khmum,31008,ចុប-មោងរៀង,Village
+Feature,3,កំពង់ចាម,316,Tboung Khmum,31612.0,Kor,3161207.0,ទួលថ្មី,310,Tbong Khmum,31004,កោះឡង់កេង,Village
+Feature,3,កំពង់ចាម,316,Tboung Khmum,31615.0,Peam Chileang,3161503.0,កំពង់ច័ន្ទលិច,303,Kampong Cham,30322,ពាមជីលាង,Village
+Feature,3,កំពង់ចាម,316,Tboung Khmum,31616.0,Roka Po Pram,3161613.0,ត្រពាំងឬស្សី,310,Tbong Khmum,31003,រកាទ័ពបូប្រាំ២,Village
+Feature,3,កំពង់ចាម,316,Tboung Khmum,31618.0,Sralab,3161813.0,វាលខ្នាច,310,Tbong Khmum,31012,ស្រឡាប់,Village
+Feature,3,កំពង់ចាម,316,Tboung Khmum,31619.0,Suong,3161901.0,ពូ កែល,310,Tbong Khmum,31006,សួង,Village
+Feature,3,កំពង់ចាម,316,Tboung Khmum,31621.0,Thma Pechr,3162102.0,ថ្មពេជ្រទីភរ,310,Tbong Khmum,31010,ថ្មពិច,Village
+Feature,3,កំពង់ចាម,316,Tboung Khmum,31623.0,Vihear Luong,3162303.0,កណ្តាល,310,Tbong Khmum,31005,វិហារលួង,Village
+Feature,3,កំពង់ចាម,301,Batheay,30104.0,Cheung Prey,3010401.0,ជើងព្រៃ,302,Choeung Prey,30202,ជើងព្រៃ,"Cheung Prey, An Daung Snay, Tra Yang Pong, Pra Sautr Kar, Pra Sautr Khar village"
+Feature,3,កំពង់ចាម,301,Batheay,30106.0,Ph'av,3010601.0,ផាវ,302,Choeung Prey,30211,ផាវ,Ph'av and Mei Pring commune
+Feature,3,កំពង់ចាម,301,Batheay,30108.0,Sandaek,3010801.0,Kampal,302,Choeung Prey,30214,សណ្ដែក,Sandek and Trab commune
+Feature,3,កំពង់ចាម,301,Batheay,30109.0,Tang Krang,3010902.0,ជើងមាន់,302,Choeung Prey,30212,ជើងឆ្នុក,"Taing Trang, Chbar Ampau, Chea Lea and Sambau commune"
+Feature,3,កំពង់ចាម,301,Batheay,30112.0,Tumnob,3011203.0,Doun Paen,302,Choeung Prey,30210,ទុម្នាប់,Tumnob and Taing Krasang commune
+Feature,3,កំពង់ចាម,302,Chamkar Leu,30201.0,Bos Khnaor,3020105.0,បុសខ្នារ,301,Chamkar Leu,30103,បុស្តិ៍ខ្នៅអំបិល,"Bos Khnaor, 10 Makara, Chamkar Kabas, Pra Soeur, Phlok Kravan, Samseb Pram village"
+Feature,3,កំពង់ចាម,302,Chamkar Leu,30205.0,Spueu,3020507.0,ស្ពឺកឿត,301,Chamkar Leu,30107,ស្ពឺ,"Spueu Kaeut, Spueu Lech, Peang Meas Thbaung, Peang Meas Choeung, Veal, Po Preng, Banteay Chey and O Chay village"
+Feature,3,កំពង់ចាម,302,Chamkar Leu,30206.0,Svay Teab,3020612.0,ថ្នល់បំបែក,301,Chamkar Leu,30106,ស្វាយទាប,"Thnal Baek Kaeut, Thnal Baek Lech, Pramat Dei, Sre Proal, Preak, Svay Teab and 77 village"
+Feature,3,កំពង់ចាម,302,Chamkar Leu,30207.0,Ta Ong,3020701.0,តាអុង,301,Chamkar Leu,30104,តាអំង,"Ta Ong, Lum Por Cham Char, Trapeang Chhauk, Chamroeun Phal, Toul Meas, Toul Prak, Toul Pen, and Toul Srav village"
+Feature,3,កំពង់ចាម,303,Cheung Prey,30301.0,Khnor Dambang,3030102.0,Knaor Dambang,302,Choeung Prey,30209,ខ្នុរដំបង,"Phadau Chum, Knaor Dambang and Kork Roveang commune"
+Feature,3,កំពង់ចាម,303,Cheung Prey,30305.0,Pring Chrum,3030502.0,ត្រពាំងទួល,302,Choeung Prey,30204,ព្រៃងជ្រំ,"Sdeurng Chey, Sampong Chey and Pring Chrum commune"
+Feature,3,កំពង់ចាម,303,Cheung Prey,30306.0,Sampong Chey,3030609.0,Bakham,302,Choeung Prey,30203,សំពងជ័យ,Sampong Chey commune
+Feature,3,កំពង់ចាម,303,Cheung Prey,30307.0,Sdaeung Chey,3030701.0,Pongro,302,Choeung Prey,30205,ស្ដើងជ័យ,"Sramar, Sdaeung Chey and Trapeang Kor commune"
+Feature,3,កំពង់ចាម,303,Cheung Prey,30308.0,Soutip,3030802.0,Skon,302,Choeung Prey,30207,ស្គុន,"Soutip, Prey Char, and Sramar commune"
+Feature,3,កំពង់ចាម,303,Cheung Prey,30308.0,Soutip,3030806.0,Doun Dom,302,Choeung Prey,30208,ដើមដំបូម,"Soutip, Prey Char, and Phdau Dom commune"
+Feature,3,កំពង់ចាម,303,Cheung Prey,30310.0,Trapeang Kor,3031002.0,ច្រៀង,302,Choeung Prey,30206,សាអង្គ,Trapeang Kor and Sramar commune
+Feature,3,កំពង់ចាម,304,Dambae,30401.0,Chong Cheach,3040111.0,ជា ធុំ,307,Ponhea Krek,30715,ចុងជាច័យ,Chong Cheach and Kouk Srok commune
+Feature,3,កំពង់ចាម,304,Dambae,30402.0,Dambae,3040201.0,ដាមបា,307,Ponhea Krek,30714,ដំបែ្យា,
+Feature,3,កំពង់ចាម,305,Kampong Cham,30502.0,Kampong Cham,3050201.0,ភូមិទី ព្រំព្រី,303,Kampong Cham,30302,បឹងកុក,Kampong Cham and Beung Kok commune
+Feature,3,កំពង់ចាម,305,Kampong Cham,30503.0,Sambuor Meas,3050307.0,ព្រែកដើមចាន់,303,Kampong Cham,30303,សំបួរមាស,VILLAGE
+Feature,3,កំពង់ចាម,305,Kampong Cham,30504.0,Veal Vong,3050403.0,ភូមិ ទីប៉ី,303,Kampong Cham,30304,វាលវង់,VILLAGE
+Feature,3,កំពង់ចាម,306,Kampong Siem,30601.0,Ampil,3060101.0,អណ្តូងជ្រា,303,Kampong Cham,30310,អំពិល,Ampil and Ro Ang commune
+Feature,3,កំពង់ចាម,306,Kampong Siem,30602.0,Han Cheay,3060203.0,Lvea Ter,303,Kampong Cham,30305,ហានជាយ,Han Cheay and Rom Chek commune
+Feature,3,កំពង់ចាម,306,Kampong Siem,30603.0,Kien Chrey,3060303.0,ស្ពានថ្មី,303,Kampong Cham,30306,គៀនជ្រៃ,Kien Chrey and Ro Ang commune
+Feature,3,កំពង់ចាម,306,Kampong Siem,30606.0,Kaoh Roka,3060603.0,ទំនប់ដាច់,303,Kampong Cham,30309,កោះរកា,"Kaoh Roka, Kaoh Kanteam and Kokor commune"
+Feature,3,កំពង់ចាម,306,Kampong Siem,30607.0,Kaoh Samraong,3060704.0,ភូមិ ទីប៊ុន,303,Kampong Cham,30307,កោះសំរោង,VILLAGE
+Feature,3,កំពង់ចាម,302,Chamkar Leu,30201.0,Bos Khnaor,3020102.0,ដូនធី,301,Chamkar Leu,30102,ដើមធៀ,Doun Thi
+Feature,3,កំពង់ចាម,302,Chamkar Leu,30202.0,Chamkar Andoung,3020202.0,សូចី,301,Chamkar Leu,30109,ចាំការអានដូង,Chamkar AnDaung
+Feature,3,កំពង់ចាម,302,Chamkar Leu,30203.0,Cheyyou,3020303.0,អ៊ូប៉េ,301,Chamkar Leu,30108,ជីយ៉ូ,Cheyyou
+Feature,3,កំពង់ចាម,302,Chamkar Leu,30204.0,Lvea Leu,3020405.0,ល្វាជើង,301,Chamkar Leu,30110,ល្វាល់លើ,Lvea Leu
+Feature,3,កំពង់ចាម,302,Chamkar Leu,30206.0,Svay Teab,3020607.0,តាំងក្រាំង,301,Chamkar Leu,30105,តាងក្រាំង,Svay Teab
+Feature,3,កំពង់ចាម,304,Dambae,30406.0,Tuek Chrov,3040602.0,Tuek Chrov,307,Ponhea Krek,30713,ទឹកជ្រូវ,"Tuek Chrov, Neang Tuet"
+Feature,3,កំពង់ចាម,307,Kang Meas,30703.0,Khchau,3070307.0,Khchau Ti Bei,309,Srei Santhor,30911,ក្ចៅ,"Khchau, Roka Ar"
+Feature,3,កំពង់ចាម,307,Kang Meas,30707.0,Reay Pay,3070705.0,Reay Pay Leu,309,Srei Santhor,30914,រាយបាយ,"Reay Pay,Preaek Koy"
+Feature,3,កំពង់ចាម,309,Krouch Chhmar,30901.0,Chhuk,3090101.0,ឈូក,310,Tbong Khmum,31014,ឈុក,Chhuk
+Feature,3,កំពង់ចាម,309,Krouch Chhmar,30902.0,Chumnik,3090203.0,ស្វាយដង្គុំ,304,Kroch Chhmar,30402,ជុម្និក,"Chumnik, Roka Khnaor"
+Feature,3,កំពង់ចាម,309,Krouch Chhmar,30908.0,Preaek A Chi,3090803.0,ភូមិ ទីប៉ី,304,Kroch Chhmar,30407,ព្រែកអាជី,"Preaek A Chi, Trea"
+Feature,3,កំពង់ចាម,309,Krouch Chhmar,30910.0,Svay Khleang,3091004.0,ភូមិ ទីប៊ុន,304,Kroch Chhmar,30405,ស្វាយខ្លាំង,"Svay Khleang, Kroch Chhmar"
+Feature,3,កំពង់ចាម,309,Krouch Chhmar,30912.0,Tuol Snuol,3091210.0,បៀម៉ាត,310,Tbong Khmum,31013,ទួលស្នួល,Tuol Snuol
+Feature,3,កំពង់ចាម,311,Ou Reang Ov,31103.0,Damrel,3110305.0,យក្សជើង,306,O Reang Ov,30605,ដាំរែល,Damrel
+Feature,3,កំពង់ចាម,311,Ou Reang Ov,31107.0,Preah Theat,3110714.0,ភូមិ​កណ្តាល,306,O Reang Ov,30608,ព្រះថៃ,Preah Theat
+Feature,3,កំពង់ចាម,312,Ponhea Kraek,31203.0,Kak,3120308.0,តាមាម,307,Ponhea Krek,30712,Ta Am,តាអំ
+Feature,3,កំពង់ចាម,312,Ponhea Kraek,31204.0,Kandaol Chrum,3120408.0,ជ័យ និគម,307,Ponhea Krek,30708,ជ័យនីគុម,Chey Nikom
+Feature,3,កំពង់ចាម,312,Ponhea Kraek,31205.0,Kaong Kang,3120515.0,ពូស្រុក,307,Ponhea Krek,30706,កោះកង,Kaong Kang
+Feature,3,កំពង់ចាម,312,Ponhea Kraek,31206.0,Kraek,3120618.0,ជីប៉េង,307,Ponhea Krek,30704,ជីពាំង,Kraek
+Feature,3,កំពង់ចាម,312,Ponhea Kraek,31207.0,Popel,3120702.0,ទួលកណ្តាល,307,Ponhea Krek,30707,ពោពេល,Popel
+Feature,3,កំពង់ចាម,312,Ponhea Kraek,31209.0,Veal Mlu,3120903.0,វាលស្រែ,307,Ponhea Krek,30705,វាលម្លូ,"Veal Mlu, Koang Kang, Kraek"
+Feature,3,កំពង់ចាម,314,Srei Santhor,31401.0,Baray,3140103.0,បន្ទាយ,309,Srei Santhor,30907,បារាយ៉ា,Baray
+Feature,3,កំពង់ចាម,314,Srei Santhor,31407.0,Pram Yam,3140701.0,Pram Yam,309,Srei Santhor,30910,ប្រាំយ៉ាម,Pram Yam
+Feature,3,កំពង់ចាម,314,Srei Santhor,31408.0,Preaek Dambouk,3140805.0,ព្រែកដំបូកក្រោម,309,Srei Santhor,30904,ព្រែកដម្បូក,"Preaek Dambouk, Pteah Kandal"
+Feature,3,កំពង់ចាម,314,Srei Santhor,31414.0,Tong Tralach,3141401.0,តុង ត្រឡាច,309,Srei Santhor,30905,ទូងត្រឡាច,"Tong Tralach, Chi Bal, Knar S"
+Feature,3,កំពង់ចាម,315,Stueng Trang,31503.0,Dang Kdar,3150301.0,សន្តិភាព,301,Chamkar Leu,30112,ដងក្ដារ,"Dang Kdar, Ou Mlu"
+Feature,3,កំពង់ចាម,315,Stueng Trang,31504.0,Khpob Ta Nguon,3150404.0,ខ្ពប តាងួន,304,Kroch Chhmar,30409,ខ្ពបតាងហ្គន់,"Khpob Ta Nguon, Tuol Sambuor,"
+Feature,3,កំពង់ចាម,316,Tboung Khmum,31616.0,Roka Po Pram,3161602.0,វាលវង់,310,Tbong Khmum,31002,រកពិភ្ជុំ I,Roka Po Pram
+Feature,3,កំពង់ចាម,316,Tboung Khmum,31619.0,Suong,3161907.0,សួង កឿត,310,Tbong Khmum,31015,សួង II,"Chikor, Suong, Vihear Luong,"
+Feature,3,កំពង់ចាម,310,Memot,31003.0,Choam Kravien,3100301.0,ក្រវៀនធុំ,305,Memut,30511,ជាំក្រាវែន,
+Feature,3,កំពង់ចាម,304,Dambae,30407.0,Trapean Pring,3040701.0,Banghaeur Khaeng,307,Ponhea Krek,30716,បង្ហើរខ្វាំង,
+Feature,3,កំពង់ចាម,304,Dambae,30405.0,Seda,3040502.0,វាលប៉ះ,307,Ponhea Krek,30717,សេដា,
+Feature,3,កំពង់ចាម,310,Memot,31011.0,Rumchek,3101103.0,ឃុំខ្ពប,305,Memut,30510,រំចេក,
+Feature,3,កំពង់ចាម,302,Chamkar Leu,30208.0,Ta Prok,3020801.0,ស្រះប្រាង្គ,301,Chamkar Leu,30114,តាព្រក់,
+Feature,3,កំពង់ចាម,301,Batheay,30107.0,Sambour,3010701.0,សំបួរ,302,Choeung Prey,30215,សំបូរ,
+Feature,3,កំពង់ចាម,315,Stueng Trang,31513.0,Toul Preah Khlang,3151305.0,Doun Tor,303,Kampong Cham,30323,ទន្លេបេត្យ,
+Feature,3,កំពង់ចាម,315,Stueng Trang,31501.0,Areak Tnoat,3150105.0,បាកអន្លង់,304,Kroch Chhmar,30411,អារៀកត្នោត,
+Feature,3,កំពង់ចាម,303,Cheung Prey,30308.0,Soutip,3030802.0,ស្កុន,302,Choeung Prey - Batheay,30201,មន្ទីរពេទ្យជើងព្រៃ,
+Feature,3,កំពង់ចាម,305,Kampong Cham,30502.0,Kampong Cham,3050201.0,ភូមិទីប្រំពិរ៉ាមីរ,303,Kampong Cham - Kampong.Siem,30301,មន្ទីរពេទ្យខេត្ត,
+Feature,3,កំពង់ចាម,302,Chamkar Leu,30206.0,Svay Teab,3020612.0,ថ្នាល់បែកកើត,301,Chamkar Leu - Stueng Trang,30101,ចំការលើ,
+Feature,3,កំពង់ចាម,301,Batheay,30101.0,Batheay,3010102.0,បាធាយ,302,Choeung Prey,30213,មន្ទីរពេទ្យបាធាយ,
+Feature,3,កំពង់ចាម,316,Tboung Khmum,31619.0,Suong,3161907.0,សួងកើត,310,Tbong Khmum - Kroch Chhmar,31001,មន្ទីរពេទ្យត្បូងឃ្មុំ,
+Feature,3,កំពង់ចាម,309,Krouch Chhmar,30905.0,Krouch Chhmar,3090503.0,ក្រចេះឆ្មារលើ,304,Kroch Chhmar - Stueng Trang,30401,មន្ទីរក្រចេះឆ្មារ,
+Feature,3,កំពង់ចាម,310,Memot,31008.0,Memot,3100810.0,ត្បូងវត្ត,305,Memut,30501,មន្ទីរមេម៉ុត,
+Feature,3,កំពង់ចាម,311,Ou Reang Ov,31101.0,Ampil Ta Pok,3110117.0,លេខបូណ្ឌូកើត,306,O Reang Ov - Kaoh Soutin,30601,មន្ទីរអូររាំងអូវ,
+Feature,3,កំពង់ចាម,312,Ponhea Kraek,31205.0,Kaong Kang,3120502.0,តាហេវលើ,307,Ponhea Krek - Dambae,30701,មន្ទីរពេទ្យពញាក្រេក,
+Feature,3,កំពង់ចាម,313,Prey Chhor,31303.0,Chrey Vien,3130317.0,ព្រៃទទឹង,308,Prey Chhor - Kang Meas,30801,មន្ទីរពេទ្យព្រៃជុំ,
+Feature,3,កំពង់ចាម,314,Srei Santhor,31409.0,Preaek Pou,3140901.0,រកទ្វារ,309,Srei Santhor - Kang Meas,30901,ស្រែសន្ធរ,

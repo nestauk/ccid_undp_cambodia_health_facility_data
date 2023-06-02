@@ -1,0 +1,78 @@
+type,properties/PCODE,properties/PNAME,properties/DCODE,properties/DNAME,properties/CCODE,properties/CNAME,properties/VCODE,properties/VNAME,properties/ODCODE,properties/ODNAME,properties/COVERNAME,geometry/type,geometry/coordinates/0,geometry/coordinates/1
+Feature,1,Banteay Meanchey,104,Preah Netr Preah,10402.0,Chob Veari,1040201.0,Chob,103,Preah Net Preah,"Preah Netr Preah, -- Distric, 14 Commune, 152 Vill",Point,302890.94083833153,1506961.5094648411
+Feature,1,Banteay Meanchey,105,Ou Chrov,10508.0,Paoy Paet,1050808.0,Prachea Thoam,102,Ou Chrov,"Ou Chrov, --,Distric , 15 Copmmune, 121 Vill",Point,239015.96487809028,1512324.5814062541
+Feature,1,Banteay Meanchey,107,Thma Puok,10704.0,Thma Puok,1070404.0,Kasen,104,Thmar Puok,"Thma Puok, --  , Distric, 14 Commune, 127 Vill",Point,289449.9815567435,1542361.5104546642
+Feature,1,Banteay Meanchey,102,Mongkol Borei,10209.0,Ruessei Kraok,1020914.0,Kaoh Kaev,101,Mongkol Borei,"Mongkol Borei, --- Distric, 19 Commune, 222 Vill",Point,285969.93581085978,1498285.529139305
+Feature,2,Battambang,202,Thma Koul,20201.0,Ta Pung,2020102.0,Paoy Yong,201,Thmar Koul,"Thmar Koul, Bor Veal, Distic, 16 Commune, 17 Health Center 143 Vill",Point,293354.90023036837,1465956.5259377924
+Feature,3,Kampong Cham,309,Krouch Chhmar,30905.0,Krouch Chhmar,3090503.0,Krouch Chhmar Leu,304,Kroch Chhmar - Stueng Trang,2 districts (15 communes),Point,567299.93086874182,1359215.4013030976
+Feature,3,Kampong Cham,310,Memot,31008.0,Memot,3100811.0,Memot Phsar,305,Memut,commnune,Point,628508.99837495538,1307936.3992433231
+Feature,3,Kampong Cham,311,Ou Reang Ov,31101.0,Ampil Ta Pok,3110117.0,Lekh Buon Kaeut,306,O Reang Ov - Kaoh Soutin,Ou Reang Ov and Koah Sotin district,Point,554818.940512178,1304145.3591840682
+Feature,3,Kampong Cham,312,Ponhea Kraek,31205.0,Kaong Kang,3120502.0,Ta Hiev Leu,307,Ponhea Krek - Dambae,Commune,Point,595117.9735912804,1304507.3760351958
+Feature,3,Kampong Cham,313,Prey Chhor,31303.0,Chrey Vien,3130317.0,Prey Totueng,308,Prey Chhor - Kang Meas,Commune,Point,527614.91356341215,1333009.3750613749
+Feature,3,Kampong Cham,314,Srei Santhor,31409.0,Preaek Pou,3140901.0,Roka Tvear,309,Srei Santhor - Kang Meas,Srei Santhor and Kang Meas district,Point,512363.90492342412,1307548.3541564115
+Feature,6,Kampong Thom,603,Stueng Saen,60302.0,Kampong Thum,6030207.0,Phum Ti Prampir,602,Kampong Thom,5 districts,Point,487220.89102243708,1405161.4088544722
+Feature,2,Battambang,203,Bat Dambang,20310.0,Svay Pao,2031001.0,Preaek Moha Tep,204,Bat Dambang,"Bat Dambang, Banan, Rotonak Mondol, Samlot District, 32 Commune, 238 Vill",Point,304618.88322040474,1449536.5145819844
+Feature,2,Battambang,206,Moung Ruessei,20601.0,Moung Ruessei,2060110.0,Moung,202,Mong Russei,"Moung Ruessei, Koas Kro lor, Distric, 17 Commune, 161 Vill",Point,331628.85203834163,1412509.4842868091
+Feature,3,Kampong Cham,316,Tboung Khmum,31619.0,Suong,3161907.0,Suong Kaeut,310,Tbong Khmum - Kroch Chhmar,Commune,Point,572092.95017723285,1315981.3747320811
+Feature,6,Kampong Thom,601,Baray,60102.0,Ballangk,6010212.0,Trapeang Svay,601,Baray and Santuk,Baray and Santuk district,Point,513205.90044591908,1380425.399904423
+Feature,6,Kampong Thom,608,Stoung,60805.0,Kampong Chen Tboung,6080503.0,Kampong Kdei,603,Stong,"Stoung, Prasat Balang district",Point,453482.88718351437,1430701.4199181348
+Feature,10,Kratie,1001,Chhloung,100101.0,Chhloung,10010103.0,Chrouy Thma Leu,1001,Chhlong,"Chhloung, Snuol, Preak Brasab District_17 Commune_100 Village",Point,605877.95363144379,1354835.4168291923
+Feature,10,Kratie,1002,Kracheh,100209.0,Kracheh,10020902.0,Kracheh,1002,Kratie,"Kracheh, Sambo, Preak Prasab, Snoul District",Point,610929.94185172091,1379445.4318185933
+Feature,2,Battambang,208,Bat Dambang,20801.0,Anlong Vil,2080101.0,Chrab Veal,205,Sangkae,"Sangkae, oek Phnum, Distric, 15 Commune, 104 Vill",Point,307526.88110986451,1447292.5115992266
+Feature,24,Pailin,2401,Pailin,240101.0,Sangkat Pailin,24010106.0,Voat,2401,Pailin Ville,,Point,240630.84482524119,1422297.5875643413
+Feature,18,Sihanoukville,1801,Mittakpheap,180104.0,Sangkat Buon,18010403.0,Phum Bei,1801,Sihanouk Ville,"Mittakpheap,Prey Nob.Stueng Hav Commune",Point,338929.64383458276,1174185.2678656755
+Feature,11,Mondul Kiri,1105,Saen Monourom,110503.0,Spean Mean Chey,11050301.0,Ou Spean,1101,Sen Monorom,"Saen Monorum, Ou Reang, Pechr Chenda, Kaoh Nheaek, Kaev Seima",Point,737799.99324561306,1377684.5485891043
+Feature,22,Oddar Meanchey,2204,Samraong,220404.0,Samraong,22040404.0,Chhuk,2201,Samraong,"5 districts(Samroang, Chongkal, Banteay Ampil, Andlongvaeng, Trapeang Prasat)",Point,340022.9810539441,1569084.450741207
+Feature,13,Preah Vihear,1307,Tbaeng Mean Chey,130701.0,Kampong Pranak,13070104.0,Andoung Pou,1301,Preah Vihear,,Point,497534.89560475759,1525552.4069422695
+Feature,14,Prey Veng,1402,Kamchay Mear,140203.0,Kranhung,14020302.0,Chour Ti Pir,1401,Kamchay Mear,"Kamchay Mear,Kanh Chreak Commune",Point,572575.96468944906,1280283.3438209293
+Feature,14,Prey Veng,1407,Peam Ro,140706.0,Preaek Khsay Kha,14070703.0,Phum Bei,1404,Neak Loeung,District,Point,531053.93089085235,1244835.2938911086
+Feature,14,Prey Veng,1403,Kampong Trabaek,140309.0,Prasat,14030901.0,Prasat,1402,Kampong Trabek,"Kampong Trabaek,Phreah Sdach District",Point,558828.96713506139,1232389.2859233334
+Feature,14,Prey Veng,1405,Me Sang,140503.0,Chi Phoch,14050313.0,Veang,1403,Mesang,"Me Sang,Ba Phnom Commune",Point,559701.96162019914,1252186.3096323451
+Feature,14,Prey Veng,1411,Kampong Leav,141103.0,Kampong Leav,14110302.0,Lekh Pir,1407,Prey Veng,"Kampong Leav,Prey Veang,Kanhchriech,Sithor Kandal, Ba Phnom,Peam Ro District",Point,536892.93262119009,1269491.3221780488
+Feature,14,Prey Veng,1408,Pea Reang,140811.0,Roka,14081101.0,Snay Pol,1405,Pea Reang,"Pea Reang,Sithor Kandal District",Point,524815.91753656394,1289473.3396506466
+Feature,2,Battambang,210,Sampov Lun,21003.0,Ta Sda,2100302.0,Ta Sda,203,Sampov Luon,17Commune,Point,215968.93452898174,1486172.62000883
+Feature,14,Prey Veng,1409,Preah Sdach,140901.0,Angkor Reach,14090117.0,Krasang Tong,1406,Preah Sdach,"Preah Sdach,Peam Chor District",Point,542056.94806203712,1226030.2731537037
+Feature,15,Pursat,1505,Sampov Meas,150504.0,Phteah Prey,15050402.0,Peal Nheaek Pir,1502,Sampov Meas,5 district,Point,382707.84900646587,1387154.4382636705
+Feature,15,Pursat,1501,Bakan,150102.0,Boeng Khnar,15010202.0,Boeng Khnar,1501,Bakan,Bakan communce,Point,361258.84829673753,1397423.4563012859
+Feature,23,Kep,2302,Kaeb,230202.0,Prey Thum,23020201.0,Damnak Chang'aeur,2301,Kep Ville,"Damnak Chang'aeur, Kaeb District_ 5 Communes_ 16 Villages",Point,425703.77503828541,1165402.1958042136
+Feature,20,Svay Rieng,2001,Chantrea,200107.0,Prey Angkunh,20010701.0,Kouk Lvieng,2001,Chi Phu,"Chan Trea, Kampong Rou, Svay Teap district",Point,610266.03730586683,1220321.2951031455
+Feature,17,Siemreap,1706,Kralanh,170602.0,Kampong Thkov,17060202.0,Kampong Thkov Pir,1701,Kralanh,"2 districts, 17 communes, 149 villages",Point,328791.93086776801,1502897.4864850645
+Feature,17,Siemreap,1710,Siem Reab,171002.0,Svay Dangkum,17100212.0,Mondol Muoy,1702,Siem Reap,"7 districts, 56 communes, 458 villages",Point,376046.90406752867,1476729.4554447816
+Feature,7,Kampot,701,Angkor Chey,70108.0,Phnum Kong,7010808.0,Phnum Trael,701,Angkor Chey,"Angkor Chey, Banteay Mes District_ 17 Communes_ 110 Villages",Point,462812.84026444197,1190903.2235522701
+Feature,17,Siemreap,1711,Soutr Nikom,171102.0,Dam Daek,17110210.0,Banteay Srei,1703,Sotr Nikum,"3 districts, 27 communes, 288 villages",Point,404767.89587693568,1464538.4400677406
+Feature,20,Svay Rieng,2004,Romeas Haek,200408.0,Kampong Trach,20040809.0,Ta Trav,2002,Romeas Hek,"Romeas Hek, Rodoul district",Point,586865.98713071691,1261924.3314217709
+Feature,21,Takeo,2102,Bati,210201.0,Chambak,21020102.0,Bacham,2102,Bati,"19 comune, 245  villages",Point,479726.87105843337,1243353.2904887663
+Feature,19,Stung Treng,1904,Stueng Traeng,190401.0,Stueng Traeng,19040101.0,Preaek,1901,Steung Treng,"Stueng Traeng, Thala Barivat, Sesan, Siem Buok, Siem Pang District, 34 commune, 128 Village",Point,604938.8760887942,1495938.4422786334
+Feature,7,Kampot,703,Chhuk,70304.0,Chhuk,7030402.0,Chheu Teal,702,Chhouk,"Chhuk, Chum Kiri, Dantong District_ 29 Communes, 157 Villages",Point,440643.81016888516,1198125.2400653276
+Feature,16,Ratanak Kiri,1602,Ban Lung,160202.0,Labansiek,16020206.0,Phum Prammuoy,1601,Rattanakiri,VILLAGE,Point,714389.8259476088,1521160.5238016075
+Feature,20,Svay Rieng,2006,Svay Rieng,200601.0,Svay Rieng,20060106.0,Kien Sang,2003,Svay Rieng,"Kampong Rou, Svay Chum, Svay Reing, Romdoul, Svay Teab district",Point,586847.00443844683,1226087.2895061618
+Feature,21,Takeo,2104,Kiri Vong,210402.0,Preah Bat Choan Chum,21040202.0,Kampong,2104,Kirivong,"31 comune, 290 villages",Point,485906.8730366659,1177035.1992149474
+Feature,21,Takeo,2106,Prey Kabbas,210610.0,Prey Lvea,21061002.0,Prey Lvea Lech,2105,Prey Kabass,"21 comune, 161  villages",Point,495223.88897034794,1233941.2780850367
+Feature,21,Takeo,2108,Doun Kaev,210802.0,Roka Knong,21080202.0,Phsar Ta Kao,2103,Daun Keo,"19 comune, 236  villages",Point,474325.86058727803,1214550.2548512579
+Feature,21,Takeo,2109,Tram Kak,210901.0,Angk Ta Saom,21090107.0,Angk Ta Saom,2101,Ang Rokar,"12 comune, 186  villages",Point,464430.84793882124,1217293.2601911626
+Feature,7,Kampot,706,Kampong Trach,70605.0,Kampong Trach Khang Kaeut,7060501.0,Kampong Trach Ti  Muoy,703,Kampong Trach,"Kampong Trach, Dang Tong, Banteay Meas District_ 25 Communes_ 136 Villages",Point,441906.80185820372,1167528.1931358045
+Feature,5,Kampong Speu,502,Chbar Mon,50203.0,Roka Thum,5020307.0,Angk Serei,501,Kampong Speu.,"7 districts, 45 communes 611 villages",Point,450219.84332428453,1268213.323735422
+Feature,5,Kampong Speu,505,Odongk,50511.0,Veang Chas,5051109.0,Krang Ponley,503,OuDaung,"2 districts , 14 communes, 219 villages",Point,471657.87155093299,1307141.3554971914
+Feature,12,Phnom Penh,1201,Chamkar Mon,120101.0,Tonle Basak,12010105.0,Phum  5,1202,Kandal,,Point,492274.88721331448,1277209.3263050364
+Feature,7,Kampot,708,Kampong Bay,70803.0,Kampong Bay,7080302.0,Kampong Bay Khang Tboung,704,Kampot,"Kampot, Kampong Bay District_ 21 Communes_ 84 Villages",Point,410039.75382210151,1173199.2155514858
+Feature,12,Phnom Penh,1205,Dangkao,120506.0,Kakab,12050607.0,Ta Nguon,1203,Lech,Dangkao districk,Point,483475.878616762,1277947.3276019841
+Feature,12,Phnom Penh,1206,Mean Chey,120604.0,Chbar Ampov Muoy,12060402.0,Daeum Makkloea,1204,Tbong,Mean Chey district,Point,493143.88797021878,1274598.3236636335
+Feature,12,Phnom Penh,1207,Ruessei Kaev,120704.0,Kiloumaetr Lekh Prammuoy,12070402.0,Spean Khpos,1201,Cheung,"Ruessei Kaev, Doun Penh district",Point,490476.88582341775,1284475.3334465213
+Feature,8,Kandal,802,Kien Svay,80206.0,Kokir,8020601.0,Tuol Tnaot,802,Kean Svay,"3 District. 31 Communes, 103 Villages",Point,505673.90054773161,1272409.321435696
+Feature,8,Kandal,803,Khsach Kandal,80310.0,Preaek Ta Meak,8031004.0,Preaek Ta Meak,804,Ksach Kandal,"1District. 18 Communes, 93 Villages",Point,500968.89565475535,1298823.3463119254
+Feature,8,Kandal,804,Kaoh Thum,80411.0,Preaek Thmei,8041108.0,Preaek Thmei,803,Kaoh Thum,"1District. 11 Communes, 93 Villages",Point,506262.90260743484,1230286.2736115507
+Feature,8,Kandal,807,Mukh Kampul,80703.0,Preaek Anhchanh,8070302.0,Preaek Thmei,805,Mukh Kampul,"6 District. 9 Communes, 47 Villages",Point,496725.89194082137,1296513.3442983949
+Feature,8,Kandal,808,Angk Snuol,80801.0,Baek Chan,8080109.0,Borei Kammeakkar,801,Ang Snuol,"1 District. 16 Communes, 307 Villages",Point,473609.86818497133,1272754.3235428357
+Feature,8,Kandal,809,Ponhea Lueu,80914.0,Vihear Luong,8091412.0,Chakto Tis,806,Ponhea Lueu,"1 District. 14 Communes, 141 Villages",Point,474402.87379533949,1307069.3550410676
+Feature,8,Kandal,810,S'ang,81008.0,Preaek Koy,8100802.0,Preaek Run,807,Saang,"1 District. 11 Communes, 101 Villages",Point,500918.89583055058,1255487.3033080311
+Feature,8,Kandal,811,Ta Khmau,81102.0,Preaek Ruessei,8110201.0,Krapeu Ha,808,Takhmau,"2 District. 36 Communes, 202 Villages",Point,493789.88843123615,1269218.3181477177
+Feature,9,Koh Kong,904,Smach Mean Chey,90401.0,Smach Mean Chey,9040105.0,Smach Mean Chey,901,Smach Mean Chey,"Smach Mean Chey, Kaoh Kong, Mondol Seima, Kiri Sakor",Point,280063.68950058054,1284801.4657642057
+Feature,9,Koh Kong,906,Srae Ambel,90601.0,Boeng Preav,9060107.0,Tuek Paong,902,Sre Ambel,"Srae Ambel, Kampong Seila, Botum Sakor, Thma Bang",Point,367786.72780384682,1226675.3175823791
+Feature,4,Kampong Chhnang,403,Kampong Chhnang,40302.0,Kampong Chhnang,4030203.0,La Tuek Trei,401,Kampong Chhnang.,"6 districts,50 communes,356 villages",Point,463951.87439039419,1354294.3897149411
+Feature,4,Kampong Chhnang,405,Kampong Tralach,40507.0,Peani,4050701.0,Ka At,402,Kampong Tralach,"3 districts, 20 communes, 197 villages",Point,468738.87128267979,1319687.3658978336
+Feature,3,Kampong Cham,303,Cheung Prey,30308.0,Soutip,3030802.0,Skon,302,Choeung Prey - Batheay,Cheung Prey and Batheay district,Point,507935.90022602968,1332657.3728898121
+Feature,3,Kampong Cham,305,Kampong Cham,30504.0,Veal Vong,3050403.0,Phum Ti Bei,303,Kampong Cham - Kampong Siem,Commune,Point,550296.93112759583,1324776.3740636606
+Feature,3,Kampong Cham,302,Chamkar Leu,30206.0,Svay Teab,3020606.0,Thnal Baek Lech,301,Chamkar Leu - Stueng Trang,Chamkar Leu and Steung Trang,Point,530245.91080826893,1360989.3925315326
+Feature,5,Kampong Speu,503,Kong Pisei,50306.0,Prey Nheat,5030610.0,Svay Char,502,Kong Pisey,"2 districts , 27 commune, 459village",Point,459232.84816660115,1248364.2997612432
+Feature,17,Siemreap,1701,Angkor Chum,170101.0,Char Chhuk,17010106.0,Kbal Cham,1704,Angkor Chum,,Point,362127.91200085275,1486402.4635808049
+Feature,4,Kampong Chhnang,401,Boribo,40109.0,Popel,4010906.0,Sala Khum,403,Boribo,"20 Commun ,148 Villages",Point,441855.86798697535,1374053.4053998445
