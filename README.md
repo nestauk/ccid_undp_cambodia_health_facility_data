@@ -1,4 +1,4 @@
-# cambodia-health-facility-data
+# cambodia-health-facility-data
 
 This repository contains scripts to manage information about health centre data in Cambodia for the UNDP Cambodia feedback project.
 
