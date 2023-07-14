@@ -4,7 +4,25 @@ This repository contains scripts to manage information about health centre data 
 
 ## migrator
 
-The data structures for the Yobol application have been iterated several times. The [migrator/](migrator/) directory contains a simple application, `YobolMigrator`, to migrate existing feedback data from one format to the next.
+The data structures for the Yobol application have iterated several times. The [migrator/](migrator/) directory contains console applications for maanging data and the data structures stored in our DynamoDB table.
+
+- The current format is: `SortableSemanticFeedback`
+- All data has been migrated to this format.
+
+### scripts
+
+| script       | purpose                                                                                         |
+| ------------ | ----------------------------------------------------------------------------------------------- |
+| `migrate.sh` | Launches the YobolMigrator console application with parameters to migrate data between formats. |
+| `repair.sh`  | Repairs errors in the recorded data.                                                            |
+
+### repairing data
+
+The current repair modes available are:
+
+| mode                          | purpose                                                                                                                                                                                                    |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `ReIndexFriendlinessAndSpeed` | The `friendliness` and `speed` values were indexed `0-4` but should have been indexed `1-5`. This repair increments all values for these aspects of feedback that were submitted before a given timestamp. |
 
 ## deprecated
 

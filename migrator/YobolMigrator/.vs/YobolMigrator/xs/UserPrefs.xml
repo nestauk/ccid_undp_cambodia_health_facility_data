@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{7BA37B05-E6DB-4A0D-A19E-91A16102FFDB}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.YobolMigrator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../DataRepair/Program.cs">
+    <Files>
+      <File FileName="../DataRepair/Program.cs" Line="12" Column="1" />
+      <File FileName="Program.cs" Line="16" Column="39" />
+      <File FileName="../DataRepair/RepairMode.cs" Line="4" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="YobolMigrator" expanded="True">
+            <Node name="YobolMigrator">
+              <Node name="Dependencies" expanded="True" selected="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -8,12 +8,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\YobolShared\YobolShared.csproj" />
+  </ItemGroup>
+  <ItemGroup>
     <PackageReference Include="AWSSDK.DynamoDBv2" Version="3.7.105.6" />
     <PackageReference Include="AWSSDK.S3" Version="3.7.108" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\YobolShared\YobolShared.csproj" />
   </ItemGroup>
 </Project>
