@@ -4,11 +4,13 @@ using DataRepair;
 var mode = Enum.Parse<RepairMode>(args[0]);
 var table = args[1];
 var write = bool.Parse(args[2]);
+var param = args.Length >= 4 ? args[3] : null;
 
 Console.WriteLine("Preparing to repair...");
 Console.WriteLine("Mode:  " + mode);
 Console.WriteLine("Table: " + table);
 Console.WriteLine("Write: " + (write ? "enabled" : "disabled"));
+Console.WriteLine("Param: " + param ?? "(null)");
 Console.WriteLine();
 
 switch (mode)
@@ -20,9 +22,26 @@ switch (mode)
 
     case RepairMode.ReIndexFriendlinessAndSpeed:
         Console.WriteLine("Repairing values for friendliness and speed...");
-        var date = DateTime.Parse(args[3]);
+        var date = DateTime.Parse(param!);
         Console.WriteLine("Before: " + date.ToString());
         Console.WriteLine();
         await ReIndexFriendlinessAndSpeed.RepairAsync(table, date, write);
+        break;
+
+    case RepairMode.AddConflictResolutionValues:
+        Console.WriteLine("Adding missing conflict resolution values...");
+        Console.WriteLine();
+        await AddConflictResolutionValues.RepairAsync(table, write);
+        break;
+
+    case RepairMode.MigrateToYobolHealthCentreFeedback:
+        Console.WriteLine("Migrating to HealthCentreFeedback...");
+        Console.WriteLine();
+        var target_table = args[3]!;
+        await MigrateToYobolHealthCentreFeedback.RepairAsync(table, target_table, write);
+        break;
+
+    default:
+        Console.WriteLine($"{mode} not supported.");
         break;
 }

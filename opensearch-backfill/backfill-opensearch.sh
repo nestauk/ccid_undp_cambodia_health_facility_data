@@ -4,7 +4,7 @@
 # Runs the associated backfill-opensearch.py python script
 # See: https://docs.amplify.aws/cli/graphql/troubleshooting/#backfill-opensearch-index-from-dynamodb-table
 
-# Remove these lines to re-enable the script
+# Comment these lines to re-enable the script
 echo "This script has already been run - and should not be needed again."
 exit 0
 

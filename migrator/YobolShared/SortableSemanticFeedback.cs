@@ -1,6 +1,12 @@
 public class SortableSemanticFeedback
 {
     public string? __typename { get; set; }
+
+    public int? _version { get; set; }
+    public int? _lastChangedAt { get; set; }
+    //public DateTime? _lastChangedAt { get; set; }
+    public bool? _deleted { get; set; }
+
     public Guid id { get; set; }
     public int? version { get; set; }
     public string? updatedAt { get; set; }
