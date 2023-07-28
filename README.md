@@ -2,6 +2,12 @@
 
 This repository contains scripts to manage information about health centre data in Cambodia for the UNDP Cambodia feedback project.
 
+## `health-centre-data/`
+
+This directory contains a copy of our most current health centre data for the currently supported provinces.
+
+See [health-centre-data/README.md](health-centre-data/README.md) for more information.
+
 ## `migrator/`
 
 The data structures for the Yobol application have iterated several times. The [migrator/](migrator/) directory contains a console application for managing and repairing the data structures stored in our DynamoDB table.

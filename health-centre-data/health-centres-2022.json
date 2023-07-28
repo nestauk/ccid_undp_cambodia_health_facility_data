@@ -1,0 +1,2392 @@
+[
+  {
+    "index": 0.0,
+    "hash": "0f4170c689c4a0eea19f1ab7ee97ecf8fa302428",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ព្រៃឈរ",
+    "health_centre_km": "ស្រុកប្រតិបត្តិព្រៃឈរ",
+    "province_en": "Kampong Cham",
+    "district_en": "Prey Chhor",
+    "health_centre_en": "Prey Chhor Operational District"
+  },
+  {
+    "index": 1.0,
+    "hash": "798495a52f2b2e2c59efec393d0f6d637ee3670f",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ព្រៃឈរ",
+    "health_centre_km": "មន្ទីរពេទ្យបង្អែកព្រៃឈរ",
+    "province_en": "Kampong Cham",
+    "district_en": "Prey Chhor",
+    "health_centre_en": "Prey Chhor Referral Hospital"
+  },
+  {
+    "index": 2.0,
+    "hash": "f61862ae858de893c0be5604c0ddbe8f64561b7c",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ព្រៃឈរ",
+    "health_centre_km": "មណ្ឌលសុខភាពស្រង៉ែ",
+    "province_en": "Kampong Cham",
+    "district_en": "Prey Chhor",
+    "health_centre_en": "Sragnae Health Center"
+  },
+  {
+    "index": 3.0,
+    "hash": "4f47dab6cfc55e2ac8a0013c6bdbe2e961107357",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ព្រៃឈរ",
+    "health_centre_km": "មណ្ឌលសុខភាពជ្រៃវៀន",
+    "province_en": "Kampong Cham",
+    "district_en": "Prey Chhor",
+    "health_centre_en": "Chrey Vien Health Center"
+  },
+  {
+    "index": 4.0,
+    "hash": "2c04eb08fd72ed4a22d0e102278e763303e64b5e",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ព្រៃឈរ",
+    "health_centre_km": "មណ្ឌលសុខភាពល្វា",
+    "province_en": "Kampong Cham",
+    "district_en": "Prey Chhor",
+    "health_centre_en": "Lvea Health Center"
+  },
+  {
+    "index": 5.0,
+    "hash": "0f732caf28ea919a1f7b0c89ceac4566f93f3d38",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ព្រៃឈរ",
+    "health_centre_km": "មណ្ឌលសុខភាពគរ",
+    "province_en": "Kampong Cham",
+    "district_en": "Prey Chhor",
+    "health_centre_en": "Kor Health Center"
+  },
+  {
+    "index": 6.0,
+    "hash": "24d77c0e08c83d21b54b6f913ad8d2dae171ca3a",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ព្រៃឈរ",
+    "health_centre_km": "មណ្ឌលសុខភាពថ្មពូន",
+    "province_en": "Kampong Cham",
+    "district_en": "Prey Chhor",
+    "health_centre_en": "Thma Pun Health Center"
+  },
+  {
+    "index": 7.0,
+    "hash": "dacb68a5b6b0a8b271050e8928e8e2c75fa3ee16",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ព្រៃឈរ",
+    "health_centre_km": "មណ្ឌលសុខភាពក្រូច",
+    "province_en": "Kampong Cham",
+    "district_en": "Prey Chhor",
+    "health_centre_en": "Krouch Health Center"
+  },
+  {
+    "index": 8.0,
+    "hash": "d86fd0c508121c4db367f567cd5450885f1d7ba2",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ព្រៃឈរ",
+    "health_centre_km": "មណ្ឌលសុខភាពតុងរ៉ុង",
+    "province_en": "Kampong Cham",
+    "district_en": "Prey Chhor",
+    "health_centre_en": "Tong Rong Health Center"
+  },
+  {
+    "index": 9.0,
+    "hash": "02ebd157954f95892670405be3174432921f7423",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ព្រៃឈរ",
+    "health_centre_km": "មណ្ឌលសុខភាពសូរសែន្យ",
+    "province_en": "Kampong Cham",
+    "district_en": "Prey Chhor",
+    "health_centre_en": "Sour Saen Health Center"
+  },
+  {
+    "index": 10.0,
+    "hash": "78c88880dc953fbd6f7748315d5a5d6e44a54835",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ព្រៃឈរ",
+    "health_centre_km": "មណ្ឌលសុខភាពមៀន",
+    "province_en": "Kampong Cham",
+    "district_en": "Prey Chhor",
+    "health_centre_en": "Mien Health Center"
+  },
+  {
+    "index": 11.0,
+    "hash": "42c20212c90bf1d57fb72c05a924485a3e3752bc",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ព្រៃឈរ",
+    "health_centre_km": "មណ្ឌលសុខភាពត្រពាំងព្រះ",
+    "province_en": "Kampong Cham",
+    "district_en": "Prey Chhor",
+    "health_centre_en": "Trapeang Preah Health Center"
+  },
+  {
+    "index": 12.0,
+    "hash": "583cd757090721af3bb5a4a53fb947376d4b5354",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កំពង់ចាម/កំពង់សៀម",
+    "health_centre_km": "ប្រធានការិ.សុខាភិបាលស្រុកប្រតិ កច-កំពង់សៀម",
+    "province_en": "Kampong Cham",
+    "district_en": "Kampong Cham / Kampong Cham",
+    "health_centre_en": "Head of Office of Heath, Operational District of Kampong Siem, Kampong Cham Province"
+  },
+  {
+    "index": 13.0,
+    "hash": "29971c17a442e3f150495dc07e746a5d62a4d819",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កំពង់ចាម/កំពង់សៀម",
+    "health_centre_km": "ស្រុកប្រតិ កច-កំពង់សៀម",
+    "province_en": "Kampong Cham",
+    "district_en": "Kampong Cham / Kampong Cham",
+    "health_centre_en": "Operational District of Kampong Siem"
+  },
+  {
+    "index": 14.0,
+    "hash": "4bf2d063b3bd9d4029e085092c4ef7ce60a159a7",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កំពង់ចាម/កំពង់សៀម",
+    "health_centre_km": "មណ្ឌលសុខភាព វាលវង់",
+    "province_en": "Kampong Cham",
+    "district_en": "Kampong Cham / Kampong Cham",
+    "health_centre_en": "Veal Vong Health Center"
+  },
+  {
+    "index": 15.0,
+    "hash": "e15ec6312580e929926af8bbd42e6c497d74cc19",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កំពង់ចាម/កំពង់សៀម",
+    "health_centre_km": "មណ្ឌលសុខភាព បឹងកុក",
+    "province_en": "Kampong Cham",
+    "district_en": "Kampong Cham / Kampong Cham",
+    "health_centre_en": "Boeng Kok Health Center"
+  },
+  {
+    "index": 16.0,
+    "hash": "697b3ff7e840c57ea6c5d7aa1ca8b6c31ab8ecbe",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កំពង់ចាម/កំពង់សៀម",
+    "health_centre_km": "មណ្ឌលសុខភាពសំបួរមាស",
+    "province_en": "Kampong Cham",
+    "district_en": "Kampong Cham / Kampong Cham",
+    "health_centre_en": "Sambuor Meas Health Center"
+  },
+  {
+    "index": 17.0,
+    "hash": "0f0ec1e09a9070df16edc273b08e4723dc09f52c",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កំពង់ចាម/កំពង់សៀម",
+    "health_centre_km": "មណ្ឌលសុខភាព កោះរកា",
+    "province_en": "Kampong Cham",
+    "district_en": "Kampong Cham / Kampong Cham",
+    "health_centre_en": "Kaoh Roka Health Center"
+  },
+  {
+    "index": 18.0,
+    "hash": "81fba3157315e9bedaad25ac3a576ebe45526421",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កំពង់ចាម/កំពង់សៀម",
+    "health_centre_km": "មណ្ឌលសុខភាព គគរ",
+    "province_en": "Kampong Cham",
+    "district_en": "Kampong Cham / Kampong Cham",
+    "health_centre_en": "Kokor Health Center"
+  },
+  {
+    "index": 19.0,
+    "hash": "f2000e7bd587b8e0915d05a60530a79f959122ed",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កំពង់ចាម/កំពង់សៀម",
+    "health_centre_km": "មណ្ឌលសុខភាព កោះមិត្ត",
+    "province_en": "Kampong Cham",
+    "district_en": "Kampong Cham / Kampong Cham",
+    "health_centre_en": "Kaoh Mitt Health Center"
+  },
+  {
+    "index": 20.0,
+    "hash": "62231da64188a6bbb788440f6ccb00aac96eff34",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កំពង់ចាម/កំពង់សៀម",
+    "health_centre_km": "មណ្ឌលសុខភាពហាន់ជ័យ",
+    "province_en": "Kampong Cham",
+    "district_en": "Kampong Cham / Kampong Cham",
+    "health_centre_en": "Hanchey Health Center"
+  },
+  {
+    "index": 21.0,
+    "hash": "6cc3c4d1ec99d917b35d21ef4919a15edf7216f6",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កំពង់ចាម/កំពង់សៀម",
+    "health_centre_km": "មណ្ឌលសុខភាពកោះសំរោង",
+    "province_en": "Kampong Cham",
+    "district_en": "Kampong Cham / Kampong Cham",
+    "health_centre_en": "Kaoh Samraong Health Center"
+  },
+  {
+    "index": 22.0,
+    "hash": "6f2f6843c7e7a0dfa53278387351f160a91e9984",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កំពង់ចាម/កំពង់សៀម",
+    "health_centre_km": "មណ្ឌលសុខភាព​ក្រឡា",
+    "province_en": "Kampong Cham",
+    "district_en": "Kampong Cham / Kampong Cham",
+    "health_centre_en": "Krala Health Center"
+  },
+  {
+    "index": 23.0,
+    "hash": "ac2a58907165977cf0c2208f8e1758eb76ea9d77",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កំពង់ចាម/កំពង់សៀម",
+    "health_centre_km": "មណ្ឌលសុខភាព​ទ្រាន",
+    "province_en": "Kampong Cham",
+    "district_en": "Kampong Cham / Kampong Cham",
+    "health_centre_en": "Trean Health Center"
+  },
+  {
+    "index": 24.0,
+    "hash": "a6032766b317a38b153d6ebf6b7db966f763e30b",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កំពង់ចាម/កំពង់សៀម",
+    "health_centre_km": "មណ្ឌលសុខភាព​វិហារធំ",
+    "province_en": "Kampong Cham",
+    "district_en": "Kampong Cham / Kampong Cham",
+    "health_centre_en": "Vihear Thum Health Center"
+  },
+  {
+    "index": 25.0,
+    "hash": "019efdeffc7334f6586d130dcaf2f117dc958266",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កំពង់ចាម/កំពង់សៀម",
+    "health_centre_km": "មណ្ឌលសុខភាព​អំពិល",
+    "province_en": "Kampong Cham",
+    "district_en": "Kampong Cham / Kampong Cham",
+    "health_centre_en": "Ampil Health Center"
+  },
+  {
+    "index": 26.0,
+    "hash": "4b9dd205437ee1ac840d2ed4bcb2ddb0fcf74ddf",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កំពង់ចាម/កំពង់សៀម",
+    "health_centre_km": "មណ្ឌលសុខភាព​ស្រក",
+    "province_en": "Kampong Cham",
+    "district_en": "Kampong Cham / Kampong Cham",
+    "health_centre_en": "Srak Health Center"
+  },
+  {
+    "index": 27.0,
+    "hash": "8913977d39cb4dbef3f5def5fe4116a907cc9916",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កំពង់ចាម/កំពង់សៀម",
+    "health_centre_km": "មណ្ឌលសុខភាពកៀនជ្រៃ",
+    "province_en": "Kampong Cham",
+    "district_en": "Kampong Cham / Kampong Cham",
+    "health_centre_en": "Kien Chrey Health Center"
+  },
+  {
+    "index": 28.0,
+    "hash": "603b40506945785874305798057de704b1f66248",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កំពង់ចាម/កំពង់សៀម",
+    "health_centre_km": "មណ្ឌលសុខភាពអូរស្វាយ",
+    "province_en": "Kampong Cham",
+    "district_en": "Kampong Cham / Kampong Cham",
+    "health_centre_en": "Ou Svay Health Center"
+  },
+  {
+    "index": 29.0,
+    "hash": "688114bb1615b33366d853467194635fd1bdb305",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ចំការលើ",
+    "health_centre_km": "ស្រុកប្រតិបត្តិចំការលើ",
+    "province_en": "Kampong Cham",
+    "district_en": "Chamkar Leu",
+    "health_centre_en": "Chamkar Leu Operational District"
+  },
+  {
+    "index": 30.0,
+    "hash": "af9aadb27ca966934a4ac56a48d8359d5dccbb76",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ចំការលើ",
+    "health_centre_km": "ប្រធានមន្ទីរពេទ្យបង្អែកចំការលើ",
+    "province_en": "Kampong Cham",
+    "district_en": "Chamkar Leu",
+    "health_centre_en": "Head of Chamkar Leu Referral Hospital"
+  },
+  {
+    "index": 31.0,
+    "hash": "59aa9e3a10e51934bd039f6517d1a9a633e453b0",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ចំការលើ",
+    "health_centre_km": "មន្ទីរពេទ្យបង្អែកចំការលើ",
+    "province_en": "Kampong Cham",
+    "district_en": "Chamkar Leu",
+    "health_centre_en": "Chamkar Leu Referral Hospital"
+  },
+  {
+    "index": 32.0,
+    "hash": "c1adcc8fdb2f00e8231e73d5cd285e22c63d35e5",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ចំការលើ",
+    "health_centre_km": "មណ្ឌលសុខភាពដូនធី",
+    "province_en": "Kampong Cham",
+    "district_en": "Chamkar Leu",
+    "health_centre_en": "Doun Thi Health Center"
+  },
+  {
+    "index": 33.0,
+    "hash": "1f7bfbf365ca4c5095f1d151ea7610398e5063bd",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ចំការលើ",
+    "health_centre_km": "មណ្ឌលសុខភាពបុសខ្នុរ",
+    "province_en": "Kampong Cham",
+    "district_en": "Chamkar Leu",
+    "health_centre_en": "Bos Khnor Health Center"
+  },
+  {
+    "index": 34.0,
+    "hash": "0d5191b7d332e21516b9ff68950edbeb2f7142c2",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ចំការលើ",
+    "health_centre_km": "មណ្ឌលសុខភាពស្វាយមាស",
+    "province_en": "Kampong Cham",
+    "district_en": "Chamkar Leu",
+    "health_centre_en": "Svay Meas Health Center "
+  },
+  {
+    "index": 35.0,
+    "hash": "610b3173bbb646fe9503c52616faba470a387c23",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ចំការលើ",
+    "health_centre_km": "មណ្ឌលសុខភាព តាអុង",
+    "province_en": "Kampong Cham",
+    "district_en": "Chamkar Leu",
+    "health_centre_en": "Ta Ong Health Center"
+  },
+  {
+    "index": 36.0,
+    "hash": "85671902d98e7b6aa69ae17a91d420055f5c6bd3",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ចំការលើ",
+    "health_centre_km": "មណ្ឌលសុខភាព តាំងក្រង់",
+    "province_en": "Kampong Cham",
+    "district_en": "Chamkar Leu",
+    "health_centre_en": "Taing Krong Health Center"
+  },
+  {
+    "index": 37.0,
+    "hash": "001770d9aafb406121a069a36fde52d32f147083",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ចំការលើ",
+    "health_centre_km": "មណ្ឌលសុខភាព ស្វាយទាប",
+    "province_en": "Kampong Cham",
+    "district_en": "Chamkar Leu",
+    "health_centre_en": "Svay Teab Health Center "
+  },
+  {
+    "index": 38.0,
+    "hash": "8d81583b0e5f24454f76f4e7d3fbcf8136c1d237",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ចំការលើ",
+    "health_centre_km": "មណ្ឌលសុខភាព តាប្រុក",
+    "province_en": "Kampong Cham",
+    "district_en": "Chamkar Leu",
+    "health_centre_en": "Ta Prok Health Center"
+  },
+  {
+    "index": 39.0,
+    "hash": "d8a971ef4e6156e14e6fc08385761663499499ea",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ចំការលើ",
+    "health_centre_km": "មណ្ឌលសុខភាព ចំការអណ្តូង",
+    "province_en": "Kampong Cham",
+    "district_en": "Chamkar Leu",
+    "health_centre_en": "Chamkar Andoung Health Center"
+  },
+  {
+    "index": 40.0,
+    "hash": "d1aa35c8a77d9ed24c59de61651919e93a2e5c49",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ចំការលើ",
+    "health_centre_km": "មណ្ឌលសុខភាព ល្វាលើ",
+    "province_en": "Kampong Cham",
+    "district_en": "Chamkar Leu",
+    "health_centre_en": "Lvea Leu Health Center"
+  },
+  {
+    "index": 41.0,
+    "hash": "4ce18eddede5dafa26399971b532cb5900bdecf6",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ចំការលើ",
+    "health_centre_km": "មណ្គលសុខភាព ស្ពី",
+    "province_en": "Kampong Cham",
+    "district_en": "Chamkar Leu",
+    "health_centre_en": "Spueu Health Center"
+  },
+  {
+    "index": 42.0,
+    "hash": "ab878369ee0d63c4d3dac9f01882a2e3c6002a2d",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ចំការលើ",
+    "health_centre_km": "មណ្ឌលសុខភាព ជយោ",
+    "province_en": "Kampong Cham",
+    "district_en": "Chamkar Leu",
+    "health_centre_en": "Cheyyou Health Center"
+  },
+  {
+    "index": 43.0,
+    "hash": "e9fd61230dc017d87fa645579199f00c65efa565",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កងមាស",
+    "health_centre_km": "មន្ទីរពេទ្យបង្អែកកងមាស",
+    "province_en": "Kampong Cham",
+    "district_en": "Kang Meas",
+    "health_centre_en": "Kang Meas Referral Hospital"
+  },
+  {
+    "index": 44.0,
+    "hash": "0c58372d16a963def4779da75ef743e7460e038a",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កងមាស",
+    "health_centre_km": "មណ្ឌលសុខភាពពាមជីកង",
+    "province_en": "Kampong Cham",
+    "district_en": "Kang Meas",
+    "health_centre_en": "Peam Chi Kang Health Center"
+  },
+  {
+    "index": 45.0,
+    "hash": "9e13433a43cc0dff5edac87ed2cc3d4b58369e36",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កងមាស",
+    "health_centre_km": "មណ្ឌលសុខភាពព្រែកក្របៅ",
+    "province_en": "Kampong Cham",
+    "district_en": "Kang Meas",
+    "health_centre_en": "Preaek Krabau Health Center"
+  },
+  {
+    "index": 46.0,
+    "hash": "23df5fa5bd74836965cf834f1f56c2d312ea360b",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កងមាស",
+    "health_centre_km": "មណ្ឌលសុខភាពអង្គរបាន",
+    "province_en": "Kampong Cham",
+    "district_en": "Kang Meas",
+    "health_centre_en": "Angkor Ban Health Center"
+  },
+  {
+    "index": 47.0,
+    "hash": "0cf37935219302385f5e2df6c35cd87a2ad8aa44",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កងមាស",
+    "health_centre_km": "មណ្ឌលសុខភាពសូរគង",
+    "province_en": "Kampong Cham",
+    "district_en": "Kang Meas",
+    "health_centre_en": "Sour Kong Health Center"
+  },
+  {
+    "index": 48.0,
+    "hash": "29859da030c54dd53ed499d44b7b57784e32e11d",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កងមាស",
+    "health_centre_km": "មណ្ឌលសុខភាពរាយប៉ាយ",
+    "province_en": "Kampong Cham",
+    "district_en": "Kang Meas",
+    "health_centre_en": "Reay Pay Health Center"
+  },
+  {
+    "index": 49.0,
+    "hash": "7e6013facb6277c0efa0f4322c6f7d4cb8bf0298",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កងមាស",
+    "health_centre_km": "មណ្ឌលសុខភាពខ្ចៅ",
+    "province_en": "Kampong Cham",
+    "district_en": "Kang Meas",
+    "health_centre_en": "Khchau Health Center"
+  },
+  {
+    "index": 50.0,
+    "hash": "d4b7e82bfc911d6c4c5370039073b09f023e9784",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កងមាស",
+    "health_centre_km": "មណ្ឌលសុខភាពរកាអារ",
+    "province_en": "Kampong Cham",
+    "district_en": "Kang Meas",
+    "health_centre_en": "Roka Ar Health Center"
+  },
+  {
+    "index": 51.0,
+    "hash": "5bb0a8837852d78d87627f8ae67b23d4f91f5c6a",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កងមាស",
+    "health_centre_km": "មណ្ឌលសុខភាពស្តៅ",
+    "province_en": "Kampong Cham",
+    "district_en": "Kang Meas",
+    "health_centre_en": "Sdau Health Center"
+  },
+  {
+    "index": 52.0,
+    "hash": "52b65129fbb4bdd347fc50ae9d8f543b185c66f6",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កោះសូទិន",
+    "health_centre_km": "ស្រុកប្រតិបត្តិកោះសូទិន",
+    "province_en": "Kampong Cham",
+    "district_en": "Koh Sotin",
+    "health_centre_en": "Kaoh Soutin Health Operational District"
+  },
+  {
+    "index": 53.0,
+    "hash": "361d81140e40dcd737d7d5ac3161663fddcfb97c",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កោះសូទិន",
+    "health_centre_km": "មណ្ឌលសុខភាពព្រែកតានង់",
+    "province_en": "Kampong Cham",
+    "district_en": "Koh Sotin",
+    "health_centre_en": "Preaek Ta Nong Health Center"
+  },
+  {
+    "index": 54.0,
+    "hash": "099373797f9569f33b16b7d482d2a8ad4003fd25",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កោះសូទិន",
+    "health_centre_km": "មណ្ឌលសុខភាពមហាខ្ញូង",
+    "province_en": "Kampong Cham",
+    "district_en": "Koh Sotin",
+    "health_centre_en": "Moha Khnhoung Health Center"
+  },
+  {
+    "index": 55.0,
+    "hash": "41a7322f43cd09e47bf7b5fbab628bacc8e06276",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កោះសូទិន",
+    "health_centre_km": "មណ្ឌលសុខភាពកោះសូទិន",
+    "province_en": "Kampong Cham",
+    "district_en": "Koh Sotin",
+    "health_centre_en": "Kaoh Sotin Health Center"
+  },
+  {
+    "index": 56.0,
+    "hash": "5869bd79a3485e50b4d5f5f20d7dc91da5569d35",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កោះសូទិន",
+    "health_centre_km": "មណ្ឌលសុខភាពពាមប្រធ្នោះ",
+    "province_en": "Kampong Cham",
+    "district_en": "Koh Sotin",
+    "health_centre_en": "Peamor Health Center"
+  },
+  {
+    "index": 57.0,
+    "hash": "9837b562013624fabcb6ca2ba13c9a0ce9312335",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កោះសូទិន",
+    "health_centre_km": "មណ្ឌលសុខភាពល្វេ",
+    "province_en": "Kampong Cham",
+    "district_en": "Koh Sotin",
+    "health_centre_en": "Lve Health Center"
+  },
+  {
+    "index": 58.0,
+    "hash": "53ccce209788b846f33ef137b398685d6eeffda0",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កោះសូទិន",
+    "health_centre_km": "មណ្ឌលសុខភាពកំពង់រាប",
+    "province_en": "Kampong Cham",
+    "district_en": "Koh Sotin",
+    "health_centre_en": "Kampong Reab Health Center"
+  },
+  {
+    "index": 59.0,
+    "hash": "f3a0139587eff11dc7517e8c9599e91e405fdf78",
+    "province_km": "កំពង់ចាម",
+    "district_km": "កោះសូទិន",
+    "health_centre_km": "មណ្ឌលសុខភាពពង្រ មហាលាភ",
+    "province_en": "Kampong Cham",
+    "district_en": "Koh Sotin",
+    "health_centre_en": "Pongro Health Center"
+  },
+  {
+    "index": 60.0,
+    "hash": "cbe2e74386512b3d5f3b665e6e05c28930baa9ed",
+    "province_km": "កំពង់ចាម",
+    "district_km": "បាធាយ",
+    "health_centre_km": "ស្រុកប្រតិបត្តិបាធាយ",
+    "province_en": "Kampong Cham",
+    "district_en": "Batheay",
+    "health_centre_en": "Batheay Operational District"
+  },
+  {
+    "index": 61.0,
+    "hash": "07e6dce788740ceda54cd2d0954d21ac9bc75dc4",
+    "province_km": "កំពង់ចាម",
+    "district_km": "បាធាយ",
+    "health_centre_km": "មន្តីពេទ្យបង្អែកបាធាយ",
+    "province_en": "Kampong Cham",
+    "district_en": "Batheay",
+    "health_centre_en": "Batheay Referral Hospital"
+  },
+  {
+    "index": 62.0,
+    "hash": "86bf75b2bbd62827a4b17acd253ba75bf250fef8",
+    "province_km": "កំពង់ចាម",
+    "district_km": "បាធាយ",
+    "health_centre_km": "មណ្ឌលសុខភាពបាធាយ",
+    "province_en": "Kampong Cham",
+    "district_en": "Batheay",
+    "health_centre_en": "Batheay Health Center"
+  },
+  {
+    "index": 63.0,
+    "hash": "c08fe6c053bf258e9a27eba24631ac95fd443731",
+    "province_km": "កំពង់ចាម",
+    "district_km": "បាធាយ",
+    "health_centre_km": "មណ្ឌលសុខភាពជើងឆ្នុក",
+    "province_en": "Kampong Cham",
+    "district_en": "Batheay",
+    "health_centre_en": "Cheung Chhnok Health Center"
+  },
+  {
+    "index": 64.0,
+    "hash": "f5cb012deeae81b734495865f12ac2e450fa6387",
+    "province_km": "កំពង់ចាម",
+    "district_km": "បាធាយ",
+    "health_centre_km": "មណ្ឌលសុខភាពសំបូរ",
+    "province_en": "Kampong Cham",
+    "district_en": "Batheay",
+    "health_centre_en": "Sambour Health Center"
+  },
+  {
+    "index": 65.0,
+    "hash": "0d2d711c0f640949d5c25a2a2341ffe1eb14d419",
+    "province_km": "កំពង់ចាម",
+    "district_km": "បាធាយ",
+    "health_centre_km": "មណ្ឌលសុខភាពត្រប់",
+    "province_en": "Kampong Cham",
+    "district_en": "Batheay",
+    "health_centre_en": "Trab Health Center"
+  },
+  {
+    "index": 66.0,
+    "hash": "070d09d17a50d5c0a0438ba2961364a8a474eadc",
+    "province_km": "កំពង់ចាម",
+    "district_km": "បាធាយ",
+    "health_centre_km": "មណ្ឌលសុខភាពផ្អាវ",
+    "province_en": "Kampong Cham",
+    "district_en": "Batheay",
+    "health_centre_en": "Ph'av Health Center"
+  },
+  {
+    "index": 67.0,
+    "hash": "6df0c407afdccf8a015cb174257727b1678a21e0",
+    "province_km": "កំពង់ចាម",
+    "district_km": "បាធាយ",
+    "health_centre_km": "មណ្ឌលសុខភាពសណ្តែក",
+    "province_en": "Kampong Cham",
+    "district_en": "Batheay",
+    "health_centre_en": "Sandaek Health Center"
+  },
+  {
+    "index": 68.0,
+    "hash": "41a2a0f777596a3bf1a637d0a9dd2f95d65c1538",
+    "province_km": "កំពង់ចាម",
+    "district_km": "បាធាយ",
+    "health_centre_km": "មណ្ឌលសុខភាពទំនប់",
+    "province_en": "Kampong Cham",
+    "district_en": "Batheay",
+    "health_centre_en": "Tumnob Health Center"
+  },
+  {
+    "index": 69.0,
+    "hash": "802ec3cfb505b90ff6b107c228fc29d121887fff",
+    "province_km": "កំពង់ចាម",
+    "district_km": "បាធាយ",
+    "health_centre_km": "មណ្ឌលសុខភាពតាំងក្រសាំង",
+    "province_en": "Kampong Cham",
+    "district_en": "Batheay",
+    "health_centre_en": "Tang Krasang Health Center"
+  },
+  {
+    "index": 70.0,
+    "hash": "753941e41a0d5a31962e9e9598393d55118d7b79",
+    "province_km": "កំពង់ចាម",
+    "district_km": "បាធាយ",
+    "health_centre_km": "មណ្ឌលសុខភាពច្បារអំពៅ",
+    "province_en": "Kampong Cham",
+    "district_en": "Batheay",
+    "health_centre_en": "Chbar Ampov Health Center"
+  },
+  {
+    "index": 71.0,
+    "hash": "2ab128c5b4b70c45d4ffad58962937655d66c002",
+    "province_km": "កំពង់ចាម",
+    "district_km": "បាធាយ",
+    "health_centre_km": "មណ្ឌលសុខភាពជើងព្រៃ",
+    "province_en": "Kampong Cham",
+    "district_en": "Batheay",
+    "health_centre_en": "Cheung Prey Health Center"
+  },
+  {
+    "index": 72.0,
+    "hash": "f4ddfb606c4d669fd0e3bf447fc7fd6fbc6d94b0",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ស្ទឹងត្រង់",
+    "health_centre_km": "ស្រុកប្រតិបត្តិស្ទឹងត្រង់",
+    "province_en": "Kampong Cham",
+    "district_en": "Stung Trang",
+    "health_centre_en": "Stueng Trang Operational District"
+  },
+  {
+    "index": 73.0,
+    "hash": "98f98fa4239a02f1cadba864723c0b140cd7c88a",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ស្ទឹងត្រង់",
+    "health_centre_km": "មន្ទីរពេទ្យបង្អែក",
+    "province_en": "Kampong Cham",
+    "district_en": "Stung Trang",
+    "health_centre_en": "Stueng Trang Referral Hospital"
+  },
+  {
+    "index": 74.0,
+    "hash": "f49b478ff8a41945a0d0c5c699293e3c21538b20",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ស្ទឹងត្រង់",
+    "health_centre_km": "មណ្ឌលសុខភាពទួលព្រះឃ្លាំង",
+    "province_en": "Kampong Cham",
+    "district_en": "Stung Trang",
+    "health_centre_en": "Tuol Preah Khleang Health Center"
+  },
+  {
+    "index": 75.0,
+    "hash": "b9b06c10ce63503ae4f9d6a40fa4f83bfd0f5253",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ស្ទឹងត្រង់",
+    "health_centre_km": "មណ្ឌលសុខភាពមេសរជ្រៃ",
+    "province_en": "Kampong Cham",
+    "district_en": "Stung Trang",
+    "health_centre_en": "Me Sar Chrey Health Center"
+  },
+  {
+    "index": 76.0,
+    "hash": "c630989a38facc4df99afa89669e98c9bfbe0971",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ស្ទឹងត្រង់",
+    "health_centre_km": "មណ្ឌលសុខភាពសូភាស",
+    "province_en": "Kampong Cham",
+    "district_en": "Stung Trang",
+    "health_centre_en": "Soupheas Health Center"
+  },
+  {
+    "index": 77.0,
+    "hash": "bfe0c60019a8c5fcf5d69c8c0acb4e7811d74c30",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ស្ទឹងត្រង់",
+    "health_centre_km": "មណ្ឌលសុខភាពដងក្តារ",
+    "province_en": "Kampong Cham",
+    "district_en": "Stung Trang",
+    "health_centre_en": "Dang Kdar Health Center"
+  },
+  {
+    "index": 78.0,
+    "hash": "a72eb08a31ff54ea02a2e2f731a8985d6f2b6305",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ស្ទឹងត្រង់",
+    "health_centre_km": "មណ្ឌលសុខភាពអារក្សត្នោត",
+    "province_en": "Kampong Cham",
+    "district_en": "Stung Trang",
+    "health_centre_en": "Areaks Tnot Health Center"
+  },
+  {
+    "index": 79.0,
+    "hash": "3789ab99273239771b56d5b38b04a2824879c5f1",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ស្ទឹងត្រង់",
+    "health_centre_km": "មណ្ឌលសុខភាពពាមកោះស្នា",
+    "province_en": "Kampong Cham",
+    "district_en": "Stung Trang",
+    "health_centre_en": "Peam Kaoh Snar Health Center"
+  },
+  {
+    "index": 80.0,
+    "hash": "5bf5d18db8b60768ec03f1b3443023f10ccefa19",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ស្ទឹងត្រង់",
+    "health_centre_km": "មណ្ឌលសុខភាពខ្ពបតាងួន",
+    "province_en": "Kampong Cham",
+    "district_en": "Stung Trang",
+    "health_centre_en": "Khpob Ta Nguon Health Center"
+  },
+  {
+    "index": 81.0,
+    "hash": "467bcb7feed13aa3a99335159904252807c688e3",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ស្ទឹងត្រង់",
+    "health_centre_km": "មណ្ឌលសុខភាពទួលសំបួរ",
+    "province_en": "Kampong Cham",
+    "district_en": "Stung Trang",
+    "health_centre_en": "Tuol Sambuor Health Center"
+  },
+  {
+    "index": 82.0,
+    "hash": "c342a904033666b2f03bd4736c5b843ce33398aa",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ស្ទឹងត្រង់",
+    "health_centre_km": "មណ្ឌលសុខភាពព្រែកកក់",
+    "province_en": "Kampong Cham",
+    "district_en": "Stung Trang",
+    "health_centre_en": "Preak Kak Health Center"
+  },
+  {
+    "index": 83.0,
+    "hash": "0a7b602313be47fccc287ffa67fe77deb08c5918",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ស្ទឹងត្រង់",
+    "health_centre_km": "មណ្ឌលសុខភាពអូម្លូរ",
+    "province_en": "Kampong Cham",
+    "district_en": "Stung Trang",
+    "health_centre_en": "Ou Mlu Health Center"
+  },
+  {
+    "index": 84.0,
+    "hash": "b61fc90006d48de233756ccd214685cd0389f3df",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ស្ទឹងត្រង់",
+    "health_centre_km": "មណ្ឌលសុខភាពព្រែកបាក់",
+    "province_en": "Kampong Cham",
+    "district_en": "Stung Trang",
+    "health_centre_en": "Preaek Bak Health Center"
+  },
+  {
+    "index": 85.0,
+    "hash": "5ec5109a9bf2ae425fbebfcfb66a59968e830080",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ស្ទឹងត្រង់",
+    "health_centre_km": "មណ្ឌលសុខភាពមាឃ៣",
+    "province_en": "Kampong Cham",
+    "district_en": "Stung Trang",
+    "health_centre_en": "Meak Bei Health Center"
+  },
+  {
+    "index": 86.0,
+    "hash": "bce0d8fff8c7c8fdd4342044d6f3cc9d4bef42e5",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ជើងព្រៃ",
+    "health_centre_km": "ស្រុកប្រតិបត្តិ",
+    "province_en": "Kampong Cham",
+    "district_en": "Cheung Prey",
+    "health_centre_en": "Cheung Prey Executive District"
+  },
+  {
+    "index": 87.0,
+    "hash": "25324afd85df14d225df7ac01d99bba9b2505973",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ជើងព្រៃ",
+    "health_centre_km": "មន្ទីរពេទ្យបង្អែកជើងព្រៃ",
+    "province_en": "Kampong Cham",
+    "district_en": "Cheung Prey",
+    "health_centre_en": "Cheung Prey Referral Hospital"
+  },
+  {
+    "index": 88.0,
+    "hash": "ffe9a5501621738e701464095daa00775eb95216",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ជើងព្រៃ",
+    "health_centre_km": "មណ្ឌលសុខភាពស្គន់",
+    "province_en": "Kampong Cham",
+    "district_en": "Cheung Prey",
+    "health_centre_en": "Soutib (Skun) Health Center"
+  },
+  {
+    "index": 89.0,
+    "hash": "d2b591d32f1254565c0b70449a67d46be77d3011",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ជើងព្រៃ",
+    "health_centre_km": "មណ្ឌលសុខភាពស្ដើងជ័យ",
+    "province_en": "Kampong Cham",
+    "district_en": "Cheung Prey",
+    "health_centre_en": "Sdaeung Chey Health Center"
+  },
+  {
+    "index": 90.0,
+    "hash": "6aeae34c5740d732878831c1eb0634ed540846cf",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ជើងព្រៃ",
+    "health_centre_km": "មណ្ឌលសុខភាពស្អាង",
+    "province_en": "Kampong Cham",
+    "district_en": "Cheung Prey",
+    "health_centre_en": "Trapeang Kor (S'ang) Health Center"
+  },
+  {
+    "index": 91.0,
+    "hash": "b7254dc5aa1d683279015910ad04b2e6222fae73",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ជើងព្រៃ",
+    "health_centre_km": "មណ្ឌលសុខភាពដូនដុំ",
+    "province_en": "Kampong Cham",
+    "district_en": "Cheung Prey",
+    "health_centre_en": "Doun Dom Health Center"
+  },
+  {
+    "index": 92.0,
+    "hash": "1b322b5eba9adf3b2ee467a2af971edef944d265",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ជើងព្រៃ",
+    "health_centre_km": "មណ្ឌលសុខភាពខ្នុរដំបង",
+    "province_en": "Kampong Cham",
+    "district_en": "Cheung Prey",
+    "health_centre_en": "Khnor Dambang Health Center"
+  },
+  {
+    "index": 93.0,
+    "hash": "1be58763fcc6a1b5a0cc895237d4d251cb00bd9e",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ជើងព្រៃ",
+    "health_centre_km": "មណ្ឌលសុខភាពសំពងជ័យ",
+    "province_en": "Kampong Cham",
+    "district_en": "Cheung Prey",
+    "health_centre_en": "Sampong Chey Health Center"
+  },
+  {
+    "index": 94.0,
+    "hash": "3dfa62ef0eaaaee312f374ab13c649a7d7ff9d52",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ជើងព្រៃ",
+    "health_centre_km": "មណ្ឌលសុខភាពព្រីងជ្រុំ",
+    "province_en": "Kampong Cham",
+    "district_en": "Cheung Prey",
+    "health_centre_en": "Pring Chrum Health Center"
+  },
+  {
+    "index": 95.0,
+    "hash": "cdf756cbdd529aeb56222ad3d2a6d6d4643a62b4",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ស្រីសន្ធរ",
+    "health_centre_km": "មណ្ឌលសុខភាពព្រែករំដេង",
+    "province_en": "Kampong Cham",
+    "district_en": "Srei Santhor",
+    "health_centre_en": "Preaek Rumdeng Health Center"
+  },
+  {
+    "index": 96.0,
+    "hash": "fbd48acd19d20ce01de85f4859b23fe889962297",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ស្រីសន្ធរ",
+    "health_centre_km": "មណ្ឌលសុខភាពស្វាយសាច់ភ្នំ",
+    "province_en": "Kampong Cham",
+    "district_en": "Srei Santhor",
+    "health_centre_en": "Svay Khsach Phnum Health Center"
+  },
+  {
+    "index": 97.0,
+    "hash": "b711939c4eac1034d57d59370339ab01d6260158",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ស្រីសន្ធរ",
+    "health_centre_km": "មណ្ឌលសុខភាពព្រែកដំបូក",
+    "province_en": "Kampong Cham",
+    "district_en": "Srei Santhor",
+    "health_centre_en": "Preaek Dambouk Health Center"
+  },
+  {
+    "index": 98.0,
+    "hash": "b7a11b363759f7985bc7432e85c1e3abb141996c",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ស្រីសន្ធរ",
+    "health_centre_km": "មណ្ឌលសុខភាពទងត្រឡាច",
+    "province_en": "Kampong Cham",
+    "district_en": "Srei Santhor",
+    "health_centre_en": "Tong Tralach Health Center"
+  },
+  {
+    "index": 99.0,
+    "hash": "e2f07d3d8454fbed1c892cbc248e63d8a7ce0d33",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ស្រីសន្ធរ",
+    "health_centre_km": "មណ្ឌលសុខភាពព្រែកពោធិ៍",
+    "province_en": "Kampong Cham",
+    "district_en": "Srei Santhor",
+    "health_centre_en": "Preaek Pou Health Center"
+  },
+  {
+    "index": 100.0,
+    "hash": "365f4e1f9d713bead147ae9e7a0ec144c13e8e40",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ស្រីសន្ធរ",
+    "health_centre_km": "មណ្ឌលសុខភាពបារាយណ៏",
+    "province_en": "Kampong Cham",
+    "district_en": "Srei Santhor",
+    "health_centre_en": "Baray Health Center"
+  },
+  {
+    "index": 101.0,
+    "hash": "66658a85f298385606439dd01ffa88c8b57f06b1",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ស្រីសន្ធរ",
+    "health_centre_km": "មណ្ឌលសុខភាពមានជ័យ",
+    "province_en": "Kampong Cham",
+    "district_en": "Srei Santhor",
+    "health_centre_en": "Mean Chey Health Center"
+  },
+  {
+    "index": 102.0,
+    "hash": "085e19c529acf07ac92ec781962b3a7982ad9080",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ស្រីសន្ធរ",
+    "health_centre_km": "មណ្ឌលសុខភាពស្វាយពោធិ៍",
+    "province_en": "Kampong Cham",
+    "district_en": "Srei Santhor",
+    "health_centre_en": "Svay Pou Health Center"
+  },
+  {
+    "index": 103.0,
+    "hash": "27b6b2208ce2b065fec454cc43229a24d8be595f",
+    "province_km": "កំពង់ចាម",
+    "district_km": "ស្រីសន្ធរ",
+    "health_centre_km": "មណ្ឌលសុខភាពប្រាំយ៉ាម",
+    "province_en": "Kampong Cham",
+    "district_en": "Srei Santhor",
+    "health_centre_en": "Pram Yam Health Center"
+  },
+  {
+    "index": 104.0,
+    "hash": "74429e459596d330502c8bafb245a7c0fafe89d2",
+    "province_km": "កំពង់ចាម",
+    "district_km": "មន្ទីរពេទ្យបង្អែក ខេត្តកំពង់ចាម",
+    "health_centre_km": "អនុប្រធានមន្ទីរពេទ្យ",
+    "province_en": "Kampong Cham",
+    "district_en": "Referral Hospital, Kampong Cham Province",
+    "health_centre_en": "Deputy Chief of Hospital"
+  },
+  {
+    "index": 105.0,
+    "hash": "7dfca81cd377ece0fd7c0263bda050eb4f9e0956",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "ក្រុងសៀមរាប",
+    "health_centre_km": "មន្ទីរពេទ្យបង្អែកខេត្តសៀមរាប",
+    "province_en": "Siem Reap City",
+    "district_en": "Siem Reap City",
+    "health_centre_en": "Siem Reap Referral Hospital"
+  },
+  {
+    "index": 106.0,
+    "hash": "d39f5805e6ad19d377bf4fb6e03a3ef38e990153",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "ស្រុកប្រតិបតិ្តសៀមរាប",
+    "province_en": "Siem Reap City",
+    "district_en": "Siem Reap",
+    "health_centre_en": "Siem Reap Operational District"
+  },
+  {
+    "index": 107.0,
+    "hash": "49979ab99d141a68b12a6de31da11836d742209b",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាពសៀមរាប",
+    "province_en": "Siem Reap City",
+    "district_en": "Siem Reap",
+    "health_centre_en": "Siem Reap Health Center"
+  },
+  {
+    "index": 108.0,
+    "hash": "3aa9fcebf54234758d93bc2b2c147e4a91e5c95f",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាពមណ្ឌល០១",
+    "province_en": "Siem Reap City",
+    "district_en": "Siem Reap",
+    "health_centre_en": "Mondol 1 Health Center"
+  },
+  {
+    "index": 109.0,
+    "hash": "5322b5a15bca5c001823ad5f3c9fb928aad2e747",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាពគោកចក",
+    "province_en": "Siem Reap City",
+    "district_en": "Siem Reap",
+    "health_centre_en": "Kok Chak Health Center"
+  },
+  {
+    "index": 110.0,
+    "hash": "cfa4534dee90f391f9b3b078bbc21e8c73b6d5c9",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាពសំបួរ",
+    "province_en": "Siem Reap City",
+    "district_en": "Siem Reap",
+    "health_centre_en": "Sambuor Health Center"
+  },
+  {
+    "index": 111.0,
+    "hash": "395359922b2ef694f271e5f7793c44f48517385d",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាពក្របីរៀល",
+    "province_en": "Siem Reap City",
+    "district_en": "Siem Reap",
+    "health_centre_en": "Krabei Riel Health Center"
+  },
+  {
+    "index": 112.0,
+    "hash": "f245c08c402e3dd5c2d5321dbfb994c659324e42",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាពពោធិមានជ័យ",
+    "province_en": "Siem Reap City",
+    "district_en": "Siem Reap",
+    "health_centre_en": "Pou Banteay Chey Health Center"
+  },
+  {
+    "index": 113.0,
+    "hash": "6a33b165b01f0dd528235ca4341ffd8b9cf3bb65",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាពចុង ឃ្នៀស",
+    "province_en": "Siem Reap City",
+    "district_en": "Siem Reap",
+    "health_centre_en": "Chong Khnies Health Center"
+  },
+  {
+    "index": 114.0,
+    "hash": "081928dbffa623b3f29cf497800767c4700c4057",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាពស្រង៉ែ",
+    "province_en": "Siem Reap City",
+    "district_en": "Siem Reap",
+    "health_centre_en": "Srangae Health Center"
+  },
+  {
+    "index": 115.0,
+    "hash": "c6eec0fbeee40d5c72b9635e223cc27aaa1cbafe",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាពនគរធំ",
+    "province_en": "Siem Reap City",
+    "district_en": "Siem Reap",
+    "health_centre_en": "Nokor Thom Health Center"
+  },
+  {
+    "index": 116.0,
+    "hash": "40c155218ee23b09a869bbb34269edc0551060ee",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាពទឹក វិល",
+    "province_en": "Siem Reap City",
+    "district_en": "Siem Reap",
+    "health_centre_en": "Tuek Vil Health Center"
+  },
+  {
+    "index": 117.0,
+    "hash": "03b4febbb31a978c977b6e0e59534124178a40a3",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាពជ្រាវ",
+    "province_en": "Siem Reap City",
+    "district_en": "Siem Reap",
+    "health_centre_en": "Chreav Health Center"
+  },
+  {
+    "index": 118.0,
+    "hash": "562f68402c3f54407b49aab66579f91b8b5846f4",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាពអង្គរធំ",
+    "province_en": "Siem Reap City",
+    "district_en": "Angkor Thum",
+    "health_centre_en": "Angkor Thom Health Center"
+  },
+  {
+    "index": 119.0,
+    "hash": "c9886db53f1a9430b70cf36a6b676ac439670bf5",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាពស្វាយចេក",
+    "province_en": "Siem Reap City",
+    "district_en": "Angkor Thum",
+    "health_centre_en": "Svay Chek Health Center"
+  },
+  {
+    "index": 120.0,
+    "hash": "f5777961903460d2dc985ae3915e212b7f899c47",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាពពាក់ស្នែង",
+    "province_en": "Siem Reap City",
+    "district_en": "Angkor Thum",
+    "health_centre_en": "Peak Snaeng Health Center"
+  },
+  {
+    "index": 121.0,
+    "hash": "fd38285bc0b7f009594324d2697ee23d19263505",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាពជប់តាត្រាវ",
+    "province_en": "Siem Reap City",
+    "district_en": "Angkor Thum",
+    "health_centre_en": "Chob Ta Trav Health Center"
+  },
+  {
+    "index": 122.0,
+    "hash": "0790aa22176bc76fc9aeb81903fbf234c6563d83",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាពព្រះដាក់",
+    "province_en": "Siem Reap City",
+    "district_en": "Banteay Srei",
+    "health_centre_en": "Preah Dak Health Center"
+  },
+  {
+    "index": 123.0,
+    "hash": "ef106e0f9346f2a0ef4a4d69c2bd93fb5ce8a64d",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាពរំចេក",
+    "province_en": "Siem Reap City",
+    "district_en": "Banteay Srei",
+    "health_centre_en": "Rumchek Health Center"
+  },
+  {
+    "index": 124.0,
+    "hash": "c9d60c5efa39655d85464965c52205ab90f92eb2",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាពបន្ទាយស្រី",
+    "province_en": "Siem Reap City",
+    "district_en": "Banteay Srei",
+    "health_centre_en": "Banteay Srei Health Center"
+  },
+  {
+    "index": 125.0,
+    "hash": "7695ebec56f6a04230a1a6f7bf1a0d315eab641c",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាពត្បែង",
+    "province_en": "Siem Reap City",
+    "district_en": "Banteay Srei",
+    "health_centre_en": "Tbaeng Health Center"
+  },
+  {
+    "index": 126.0,
+    "hash": "9d3aa860e8256d34abd4ef8a8e8b469943a449ca",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាពកណ្តែក",
+    "province_en": "Siem Reap City",
+    "district_en": "Prasat Bakong",
+    "health_centre_en": "Kandaek Health Center"
+  },
+  {
+    "index": 127.0,
+    "hash": "c0feb39e8227f4d5832fb0a4de98f70adb696a07",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាពបាគង",
+    "province_en": "Siem Reap City",
+    "district_en": "Prasat Bakong",
+    "health_centre_en": "Bakong Health Center"
+  },
+  {
+    "index": 128.0,
+    "hash": "323287667db5dc21aedc7c79b2d447fc26d5b92f",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាព អំពិល",
+    "province_en": "Siem Reap City",
+    "district_en": "Prasat Bakong",
+    "health_centre_en": "Ampil Health Center"
+  },
+  {
+    "index": 129.0,
+    "hash": "d7651f12dcb1edce41491faa88d1ad89f54b068b",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាពមានជ័យ",
+    "province_en": "Siem Reap City",
+    "district_en": "Prasat Bakong",
+    "health_centre_en": "Mean Chey Health Center"
+  },
+  {
+    "index": 130.0,
+    "hash": "231b8b3724bcd25a5307774856b05ae873fe4a19",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាពត្រពាំងធំ",
+    "province_en": "Siem Reap City",
+    "district_en": "Prasat Bakong",
+    "health_centre_en": "Trapeang Thum Health Center"
+  },
+  {
+    "index": 131.0,
+    "hash": "6d00cab54b1ce70312a60975e5432df01e1ee1e9",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាពកន្រ្ទាំង",
+    "province_en": "Siem Reap City",
+    "district_en": "Prasat Bakong",
+    "health_centre_en": "Kantreang Health Center"
+  },
+  {
+    "index": 132.0,
+    "hash": "c96f1d48da61319b7444df0d9a98b1cc8217014d",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាពបល្ល័ង្គ",
+    "province_en": "Siem Reap City",
+    "district_en": "Prasat Bakong",
+    "health_centre_en": "Ballangk Health Center"
+  },
+  {
+    "index": 133.0,
+    "hash": "9fb4b24931cf225523dba20ec9377692019a80d7",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាពរុនតាឯក",
+    "province_en": "Siem Reap City",
+    "district_en": "Banteay Srei",
+    "health_centre_en": "Run Ta Aek Health Center"
+  },
+  {
+    "index": 134.0,
+    "hash": "a7b8376998692391e7b2758ee712d4b2e980b36e",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាពឃុនរាម",
+    "province_en": "Siem Reap City",
+    "district_en": "Banteay Srei",
+    "health_centre_en": "Khun Ream Health Center"
+  },
+  {
+    "index": 135.0,
+    "hash": "a9a308edfbcf8f58e752e71039e44a6dcf5fcfe6",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សៀមរាប",
+    "health_centre_km": "មណ្ឌលសុខភាព កំពង់ភ្លុក",
+    "province_en": "Siem Reap City",
+    "district_en": "Prasat Bakong",
+    "health_centre_en": "Kampong Phluk Health Center"
+  },
+  {
+    "index": 136.0,
+    "hash": "cd4018696845da57dbad7f3f494c43be9b1b4465",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សូទ្រនីគម",
+    "health_centre_km": "ស្រុកប្រតិបត្តិសូទ្រនិគម",
+    "province_en": "Siem Reap City",
+    "district_en": "Soutr Nikom",
+    "health_centre_en": "Soutr Nikom Operational District"
+  },
+  {
+    "index": 137.0,
+    "hash": "63e88e496903faa6f2f1c68102475ffb07327983",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សូទ្រនីគម",
+    "health_centre_km": "មន្ទីរពេទ្យបង្អែកសូទ្រនិគម",
+    "province_en": "Siem Reap City",
+    "district_en": "Soutr Nikom",
+    "health_centre_en": "Soutr Nikom Referral Hospital"
+  },
+  {
+    "index": 138.0,
+    "hash": "6fe7c47fd5916e0de9d97e64c95af558fb28361e",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សូទ្រនីគម",
+    "health_centre_km": "មណ្ឌលសុខភាពសំរោង",
+    "province_en": "Siem Reap City",
+    "district_en": "Soutr Nikom",
+    "health_centre_en": "Samraong Health Center"
+  },
+  {
+    "index": 139.0,
+    "hash": "3da91e820a682429627f468492b353b75a5869bf",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សូទ្រនីគម",
+    "health_centre_km": "មណ្ឌលសុខភាពពពេល",
+    "province_en": "Siem Reap City",
+    "district_en": "Soutr Nikom",
+    "health_centre_en": "Popel Health Center"
+  },
+  {
+    "index": 140.0,
+    "hash": "bd05bf507145352388ef4402437663e2cd9d639f",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សូទ្រនីគម",
+    "health_centre_km": "មណ្ឌលសុខភាពតាយ៉ែក",
+    "province_en": "Siem Reap City",
+    "district_en": "Soutr Nikom",
+    "health_centre_en": "Ta Yaek Health Center"
+  },
+  {
+    "index": 141.0,
+    "hash": "f201a391b76f1ac055354701d097a4d65e1e2bba",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សូទ្រនីគម",
+    "health_centre_km": "មណ្ឌលសុខភាព ចាន់ស",
+    "province_en": "Siem Reap City",
+    "district_en": "Soutr Nikom",
+    "health_centre_en": "Chan Sa Health Center"
+  },
+  {
+    "index": 142.0,
+    "hash": "ee10ae5c3b4932f5145033a0df55d04a0baa4307",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សូទ្រនីគម",
+    "health_centre_km": "មណ្ឌលសុខភាពខ្ចាស់",
+    "province_en": "Siem Reap City",
+    "district_en": "Soutr Nikom",
+    "health_centre_en": "Khchas Health Center"
+  },
+  {
+    "index": 143.0,
+    "hash": "1be82981a0382e310f63a60ff125ab902931442d",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សូទ្រនីគម",
+    "health_centre_km": "មណ្ឌលសុខភាពដំដែក",
+    "province_en": "Siem Reap City",
+    "district_en": "Soutr Nikom",
+    "health_centre_en": "Dam Daek Health Center"
+  },
+  {
+    "index": 144.0,
+    "hash": "8c34c393293c793c9f2c0399f1dc29b37739c956",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សូទ្រនីគម",
+    "health_centre_km": "មណ្ឌលសុខភាព កំពង់ឃ្លាំង",
+    "province_en": "Siem Reap City",
+    "district_en": "Soutr Nikom",
+    "health_centre_en": "Kampong Khleang Health Center"
+  },
+  {
+    "index": 145.0,
+    "hash": "4275d6f2931ebdb98162cf58a91f7da90643488a",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សូទ្រនីគម",
+    "health_centre_km": "មណ្ឌលសុខភាពដានរុន",
+    "province_en": "Siem Reap City",
+    "district_en": "Soutr Nikom",
+    "health_centre_en": "Dan Run Health Center"
+  },
+  {
+    "index": 146.0,
+    "hash": "a600b45bdc6774e68ec576dc1a7a639309a58f4a",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សូទ្រនីគម",
+    "health_centre_km": "មណ្ឌលសុខភាព កៀនសង្កែ",
+    "province_en": "Siem Reap City",
+    "district_en": "Soutr Nikom",
+    "health_centre_en": "Kien Sangkae Health Center"
+  },
+  {
+    "index": 147.0,
+    "hash": "e603a50b325478b2062ec060e12f163a7ab8b677",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សូទ្រនីគម",
+    "health_centre_km": "មណ្ឌលសុខភាពស្វាយលើ",
+    "province_en": "Siem Reap City",
+    "district_en": "Svay Leu",
+    "health_centre_en": "Svay Leu Health Center"
+  },
+  {
+    "index": 148.0,
+    "hash": "aed9eba361b5cc5a29c08ddcdb30e137aa358cee",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សូទ្រនីគម",
+    "health_centre_km": "មណ្ឌលសុខភាពខ្នងភ្នំ",
+    "province_en": "Siem Reap City",
+    "district_en": "Svay Leu",
+    "health_centre_en": "Khnang Phnum Health Center"
+  },
+  {
+    "index": 149.0,
+    "hash": "18536bf09c322b460217ee7a6a923d043b2a321e",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សូទ្រនីគម",
+    "health_centre_km": "មណ្ឌលសុខភាពកន្តួត",
+    "province_en": "Siem Reap City",
+    "district_en": "Svay Leu",
+    "health_centre_en": "Kantuot Health Center"
+  },
+  {
+    "index": 150.0,
+    "hash": "cef0deb5510c589c0e1e36aee72511f37e61b9d0",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សូទ្រនីគម",
+    "health_centre_km": "មណ្ឌលសុខភាពខ្នាពោធិ៍",
+    "province_en": "Siem Reap City",
+    "district_en": "Soutr Nikom",
+    "health_centre_en": "Khnar Pou Health Center"
+  },
+  {
+    "index": 151.0,
+    "hash": "e66288fe7cf6a5438aa61dd78d7485f663d12402",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សូទ្រនីគម",
+    "health_centre_km": "មណ្ឌលសុខភាពឫស្សីលក",
+    "province_en": "Siem Reap City",
+    "district_en": "Chi Kraeng",
+    "health_centre_en": "Ruessei Lok Health Center"
+  },
+  {
+    "index": 152.0,
+    "hash": "03a66b237779592da95bdc7274888b469340555b",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សូទ្រនីគម",
+    "health_centre_km": "មណ្ឌលសុខភាពសង្វើយ",
+    "province_en": "Siem Reap City",
+    "district_en": "Chi Kraeng",
+    "health_centre_en": "Sangvaeuy Health Center"
+  },
+  {
+    "index": 153.0,
+    "hash": "d1aec4b74b8186978ab9794174dae70bfd0c3421",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សូទ្រនីគម",
+    "health_centre_km": "មណ្ឌលសុខភាព គោកធ្លកក្រោម",
+    "province_en": "Siem Reap City",
+    "district_en": "Chi Kraeng",
+    "health_centre_en": "Kouk Thlok Kraom Health Center"
+  },
+  {
+    "index": 154.0,
+    "hash": "359fa9d04df3bd47712c8362d2cc621962e1bede",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សូទ្រនីគម",
+    "health_centre_km": "មណ្ឌលសុខភាពគោកធ្លកលើ",
+    "province_en": "Siem Reap City",
+    "district_en": "Chi Kraeng",
+    "health_centre_en": "Kouk Thlok Leu Health Center"
+  },
+  {
+    "index": 155.0,
+    "hash": "4df8125f759951c3628b952746bb37d8a8519b70",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សូទ្រនីគម",
+    "health_centre_km": "មណ្ឌលសុខភាព កំពង់ក្តី",
+    "province_en": "Siem Reap City",
+    "district_en": "Chi Kraeng",
+    "health_centre_en": "Kampong Kdei Health Center"
+  },
+  {
+    "index": 156.0,
+    "hash": "9001ee2819ef6994be0598dc320c3fb8c1312bd7",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សូទ្រនីគម",
+    "health_centre_km": "មណ្ឌលសុខភាពជីក្រែង",
+    "province_en": "Siem Reap City",
+    "district_en": "Chi Kraeng",
+    "health_centre_en": "Chi Kraeng Health Center"
+  },
+  {
+    "index": 157.0,
+    "hash": "02f7a3fbd60784b09a3f41cc892373251aff96b3",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សូទ្រនីគម",
+    "health_centre_km": "មណ្ឌលសុខភាព អន្លង់សំណរ",
+    "province_en": "Siem Reap City",
+    "district_en": "Chi Kraeng",
+    "health_centre_en": "Anlong Samnar Health Center"
+  },
+  {
+    "index": 158.0,
+    "hash": "28d5d243414b1b2070d574476899fb72302c9d86",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សូទ្រនីគម",
+    "health_centre_km": "មណ្ឌលសុខភាពស្ពានត្នោត",
+    "province_en": "Siem Reap City",
+    "district_en": "Chi Kraeng",
+    "health_centre_en": "Spean Tnaot Health Center"
+  },
+  {
+    "index": 159.0,
+    "hash": "4e077916389ca09c321b65d4fff6b91c39a1f67b",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សូទ្រនីគម",
+    "health_centre_km": "មណ្ឌលសុខភាពល្វែងឫស្សី",
+    "province_en": "Siem Reap City",
+    "district_en": "Chi Kraeng",
+    "health_centre_en": "Lveaeng Ruessei Health Center"
+  },
+  {
+    "index": 160.0,
+    "hash": "8098b468c6935d4459162bd6ca1c459e7a715b92",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សូទ្រនីគម",
+    "health_centre_km": "មណ្ឌលសុខភាព ពង្រក្រោម",
+    "province_en": "Siem Reap City",
+    "district_en": "Chi Kraeng",
+    "health_centre_en": "Pongro Kraom Health Center"
+  },
+  {
+    "index": 161.0,
+    "hash": "768c1481347d7a0c1d9154f8d6b8bf039b887d92",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សូទ្រនីគម",
+    "health_centre_km": "មណ្ឌលសុខភាពពង្រលើ",
+    "province_en": "Siem Reap City",
+    "district_en": "Chi Kraeng",
+    "health_centre_en": "Pongro Leu Health Center"
+  },
+  {
+    "index": 162.0,
+    "hash": "09f1b0129b1c979566c92dd6ce71ec0eda9eedbe",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "សូទ្រនីគម",
+    "health_centre_km": "មណ្ឌលសុខភាពខ្វាវ",
+    "province_en": "Siem Reap City",
+    "district_en": "Chi Kraeng",
+    "health_centre_en": "Khvav Health Center"
+  },
+  {
+    "index": 163.0,
+    "hash": "3023705624633c741260447eff051fa7f144ed6c",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "អង្គរជុំ",
+    "health_centre_km": "ស្រុកប្រតិបតិ្ត អង្គរជុំ",
+    "province_en": "Siem Reap City",
+    "district_en": "Angkor Chum",
+    "health_centre_en": "Angkor Chum Operational District"
+  },
+  {
+    "index": 164.0,
+    "hash": "b204a6dc9fa2775bbc149e4bda7abf63e934d2ee",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "អង្គរជុំ",
+    "health_centre_km": "មន្ទីរពេទ្យបង្អែក អង្គរជុំ",
+    "province_en": "Siem Reap City",
+    "district_en": "Angkor Chum",
+    "health_centre_en": "Angkor Chum Referral Hospital"
+  },
+  {
+    "index": 165.0,
+    "hash": "29cd3b16869665b7a7def08f143767cd27b0050d",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "អង្គរជុំ",
+    "health_centre_km": "មណ្ឌលសុខភាព អង្គរជុំ",
+    "province_en": "Siem Reap City",
+    "district_en": "Angkor Chum",
+    "health_centre_en": "Angkor Chum Health Center"
+  },
+  {
+    "index": 166.0,
+    "hash": "5d6f4bc6c7337430356844be7936f007b632dbf6",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "អង្គរជុំ",
+    "health_centre_km": "មន្ទីរពេទ្យបង្អែក ពួក",
+    "province_en": "Siem Reap City",
+    "district_en": "Puok",
+    "health_centre_en": "Puok Referral Hospital"
+  },
+  {
+    "index": 167.0,
+    "hash": "ac2c143b998e80af44222401da3f7e4e4fc0d51c",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "អង្គរជុំ",
+    "health_centre_km": "មណ្ឌលសុខភាពពួក",
+    "province_en": "Siem Reap City",
+    "district_en": "Puok",
+    "health_centre_en": "Puo Health Center"
+  },
+  {
+    "index": 168.0,
+    "hash": "c02fe451a917c6e06057098ee011b7cd434a893f",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "អង្គរជុំ",
+    "health_centre_km": "មណ្ឌលសុខភាពសំរោងយា",
+    "province_en": "Siem Reap City",
+    "district_en": "Puok",
+    "health_centre_en": "Samraong Yea Health Center"
+  },
+  {
+    "index": 169.0,
+    "hash": "c2a256d8732c7e963320df8f01aaf4ffac8beff0",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "អង្គរជុំ",
+    "health_centre_km": "មណ្ឌលសុខភាពដូនកែវ",
+    "province_en": "Siem Reap City",
+    "district_en": "Puok",
+    "health_centre_en": "Doun Kaev Health Center"
+  },
+  {
+    "index": 170.0,
+    "hash": "d00287cb4756bf818ebd334ba106a159e845b20d",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "អង្គរជុំ",
+    "health_centre_km": "មណ្ឌលសុខភាពខ្នាត",
+    "province_en": "Siem Reap City",
+    "district_en": "Puok",
+    "health_centre_en": "Khnat Health Center"
+  },
+  {
+    "index": 171.0,
+    "hash": "07ca2852e0d0d68d3543a4331f7f77d24b76efc3",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "អង្គរជុំ",
+    "health_centre_km": "មណ្ឌលសុខភាពដំណាក់ស្លាញ",
+    "province_en": "Siem Reap City",
+    "district_en": "Puok",
+    "health_centre_en": "Damnak Slanh Health Center"
+  },
+  {
+    "index": 172.0,
+    "hash": "850abee9eb0063539a1a508b70c5357f52406c8a",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "អង្គរជុំ",
+    "health_centre_km": "មណ្ឌលសុខភាពសសរស្ដម្ភ",
+    "province_en": "Siem Reap City",
+    "district_en": "Puok",
+    "health_centre_en": "Sasar Sdam Health Center"
+  },
+  {
+    "index": 173.0,
+    "hash": "bc603244abbc56eceaf7ce476c02dd51ba19dab2",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "អង្គរជុំ",
+    "health_centre_km": "មណ្ឌលសុខភាពព្រៃជ្រូក",
+    "province_en": "Siem Reap City",
+    "district_en": "Puok",
+    "health_centre_en": "Prey Chruk Health Center"
+  },
+  {
+    "index": 174.0,
+    "hash": "3c504feee712d259a70617c4f4a1e5773ec4b353",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "អង្គរជុំ",
+    "health_centre_km": "មណ្ឌលសុខភាពយាង",
+    "province_en": "Siem Reap City",
+    "district_en": "Puok",
+    "health_centre_en": "Yeang Health Center"
+  },
+  {
+    "index": 175.0,
+    "hash": "7e20055a08dbfd3bdddc7a04d765cf7a82ac69ad",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "អង្គរជុំ",
+    "health_centre_km": "មណ្ឌលសុខភាពចារឈូក",
+    "province_en": "Siem Reap City",
+    "district_en": "Angkor Chum",
+    "health_centre_en": "Char Chhuk Health Center"
+  },
+  {
+    "index": 176.0,
+    "hash": "6957b31bbb98f9cea2947f16172206502a3dd965",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "អង្គរជុំ",
+    "health_centre_km": "មណ្ឌលសុខភាពគោល",
+    "province_en": "Siem Reap City",
+    "district_en": "Angkor Chum",
+    "health_centre_en": "Koul Health Center"
+  },
+  {
+    "index": 177.0,
+    "hash": "3b247de1a819e7f7aae793173255f784e2decf62",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "អង្គរជុំ",
+    "health_centre_km": "មណ្ឌលសុខភាពស្រែខ្វាវ",
+    "province_en": "Siem Reap City",
+    "district_en": "Angkor Chum",
+    "health_centre_en": "Srae Khvav Health Center"
+  },
+  {
+    "index": 178.0,
+    "hash": "2e808e1d68d002139a7c05ef52bea6b92e532f3c",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "អង្គរជុំ",
+    "health_centre_km": "មណ្ឌលសុខភាពនគរភាស",
+    "province_en": "Siem Reap City",
+    "district_en": "Angkor Chum",
+    "health_centre_en": "Nokor Pheas Health Center"
+  },
+  {
+    "index": 179.0,
+    "hash": "85d67aead58a5a2f17f84603471c90f1aeb08b3a",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "អង្គរជុំ",
+    "health_centre_km": "មណ្ឌលសុខភាពគោកដូង",
+    "province_en": "Siem Reap City",
+    "district_en": "Angkor Chum",
+    "health_centre_en": "Kouk Doung Health Center"
+  },
+  {
+    "index": 180.0,
+    "hash": "c71d3093ff5ad331d8c10bd8feee88c317d279c6",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "អង្គរជុំ",
+    "health_centre_km": "មណ្ឌលសុខភាពស្វាយស",
+    "province_en": "Siem Reap City",
+    "district_en": "Varin",
+    "health_centre_en": "Svay Sa Health Center"
+  },
+  {
+    "index": 181.0,
+    "hash": "b8e725fe689578f9cb77e74469130d81cf8b4806",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "អង្គរជុំ",
+    "health_centre_km": "មណ្ឌលសុខភាពវ៉ារិន",
+    "province_en": "Siem Reap City",
+    "district_en": "Varin",
+    "health_centre_en": "Varin Health Center"
+  },
+  {
+    "index": 182.0,
+    "hash": "cce1c35c222583b001b37332c2e40d513c3e7714",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "អង្គរជុំ",
+    "health_centre_km": "មណ្ឌលសុខភាពស្រែណូយ",
+    "province_en": "Siem Reap City",
+    "district_en": "Varin",
+    "health_centre_en": "Srae Nouy Health Center"
+  },
+  {
+    "index": 183.0,
+    "hash": "aa3cf540991c4eb104b8d7b6653868c94e98f640",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "អង្គរជុំ",
+    "health_centre_km": "មណ្ឌលសុខភាពល្វាក្រាំង",
+    "province_en": "Siem Reap City",
+    "district_en": "Varin",
+    "health_centre_en": "Lvea Krang Health Center"
+  },
+  {
+    "index": 184.0,
+    "hash": "2ee3d212060391958ac4fac5685ed39ec928f8ba",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "អង្គរជុំ",
+    "health_centre_km": "មណ្ឌលសុខភាពរើល",
+    "province_en": "Siem Reap City",
+    "district_en": "Puok",
+    "health_centre_en": "Reul Health Center"
+  },
+  {
+    "index": 185.0,
+    "hash": "e5c04ef7185761859c0fc358b763ce135a0f8b53",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "អង្គរជុំ",
+    "health_centre_km": "ត្រីមណ្ឌលសុខភាពត្រីញ័រ",
+    "province_en": "Siem Reap City",
+    "district_en": "Puok",
+    "health_centre_en": "Trei Nhoar Health Center"
+  },
+  {
+    "index": 186.0,
+    "hash": "cec758b2cc8699d5c853940ac96b026b771f3f40",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "អង្គរជុំ",
+    "health_centre_km": "មណ្ឌលសុខភាពពោធិទ្រាយ",
+    "province_en": "Siem Reap City",
+    "district_en": "Puok",
+    "health_centre_en": "Pou Treay Health Center"
+  },
+  {
+    "index": 187.0,
+    "hash": "a886b64c832c4ecfc5dfb0927ba5631c288a4734",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "អង្គរជុំ",
+    "health_centre_km": "មណ្ឌលសុខភាពបត់",
+    "province_en": "Siem Reap City",
+    "district_en": "Angkor Chum",
+    "health_centre_en": "Bat Health Center"
+  },
+  {
+    "index": 188.0,
+    "hash": "3cb4fc2414df4205a0f8ffad5f9e94168f1314e7",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "ក្រឡាញ់",
+    "health_centre_km": "ស្រុកប្រតិបតិ្តក្រឡាញ់",
+    "province_en": "Siem Reap City",
+    "district_en": "Kralanh",
+    "health_centre_en": "Kralanh Operational District"
+  },
+  {
+    "index": 189.0,
+    "hash": "4bfe8b8ed075f5c880d8739b9e615c8ffb32ad6d",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "ក្រឡាញ់",
+    "health_centre_km": "មន្ទីរពេទ្យបង្អែកក្រឡាញ់",
+    "province_en": "Siem Reap City",
+    "district_en": "Kralanh",
+    "health_centre_en": "Kralanh Referral Hospital"
+  },
+  {
+    "index": 190.0,
+    "hash": "709b45277ed6730c69d56e978149c3fa49a222f2",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "ក្រឡាញ់",
+    "health_centre_km": "មណ្ឌលសុខភាពក្រឡាញ់",
+    "province_en": "Siem Reap City",
+    "district_en": "Kralanh",
+    "health_centre_en": "Kralanh Health Center"
+  },
+  {
+    "index": 191.0,
+    "hash": "a2d4fe1254c921c872744b600583ff0ac8babe98",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "ក្រឡាញ់",
+    "health_centre_km": "មណ្ឌលសុខភាពកំពង់ថ្កូវ",
+    "province_en": "Siem Reap City",
+    "district_en": "Kralanh",
+    "health_centre_en": "Kampong Thkov Health Center"
+  },
+  {
+    "index": 192.0,
+    "hash": "97f69876a1f21c6ed7c70d58b529713eb7ee55ce",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "ក្រឡាញ់",
+    "health_centre_km": "មណ្ឌលសុខភាពស្រណាល",
+    "province_en": "Siem Reap City",
+    "district_en": "Kralanh",
+    "health_centre_en": "Sranal Health Center"
+  },
+  {
+    "index": 193.0,
+    "hash": "74f4a5c08858aaa1e098716be75ce9de26623b1a",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "ក្រឡាញ់",
+    "health_centre_km": "មណ្ឌលសុខភាពរោងគោ",
+    "province_en": "Siem Reap City",
+    "district_en": "Kralanh",
+    "health_centre_en": "Roung Kou Health Center"
+  },
+  {
+    "index": 194.0,
+    "hash": "f8598cc3239d367d901e94699d676413f14790e5",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "ក្រឡាញ់",
+    "health_centre_km": "មណ្ឌលសុខភាពចន្លាស់ដៃ",
+    "province_en": "Siem Reap City",
+    "district_en": "Kralanh",
+    "health_centre_en": "Chanleas Dai Health Center"
+  },
+  {
+    "index": 195.0,
+    "hash": "6c6a1f4c506b2115414bae796e14af6b9734e5e4",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "ក្រឡាញ់",
+    "health_centre_km": "មណ្ឌលសុខភាពសែនសុខ",
+    "province_en": "Siem Reap City",
+    "district_en": "Kralanh",
+    "health_centre_en": "Saen Sokh Health Center"
+  },
+  {
+    "index": 196.0,
+    "hash": "abb659a40f244714c36401ddcd4bc1e9b179318e",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "ក្រឡាញ់",
+    "health_centre_km": "មណ្ឌលសុខភាពស្នួល",
+    "province_en": "Siem Reap City",
+    "district_en": "Kralanh",
+    "health_centre_en": "Snuol Health Center"
+  },
+  {
+    "index": 197.0,
+    "hash": "e2e16437ba1ff9ab76fb491c8791a63860adb754",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "ក្រឡាញ់",
+    "health_centre_km": "មណ្ឌលសុខភាពក្រូចគរ",
+    "province_en": "Siem Reap City",
+    "district_en": "Kralanh",
+    "health_centre_en": "Krouch Kor Health Center"
+  },
+  {
+    "index": 198.0,
+    "hash": "5ed95dbd6f307bc6efdced430103753d6852edf5",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "ក្រឡាញ់",
+    "health_centre_km": "មណ្ឌលសុខភាពស្រីស្នំ",
+    "province_en": "Siem Reap City",
+    "district_en": "Srei Snam",
+    "health_centre_en": "Srei Snam Health Center"
+  },
+  {
+    "index": 199.0,
+    "hash": "24e27498ee935c7d33da4136f97b2ab0ed236a4d",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "ក្រឡាញ់",
+    "health_centre_km": "មណ្ឌលសុខភាពស្លែងស្ពាន",
+    "province_en": "Siem Reap City",
+    "district_en": "Srei Snam",
+    "health_centre_en": "Slaeng Spean Health Center"
+  },
+  {
+    "index": 200.0,
+    "hash": "31187e18753ef2c94f51f580741e8d8dfb90e883",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "ក្រឡាញ់",
+    "health_centre_km": "មណ្ឌលសុខភាពប្រិយ៍",
+    "province_en": "Siem Reap City",
+    "district_en": "Srei Snam",
+    "health_centre_en": "Prei Health Center"
+  },
+  {
+    "index": 201.0,
+    "hash": "df2aa0e9d74fc5635ef58f6899922d98cac07e2a",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "ក្រឡាញ់",
+    "health_centre_km": "មណ្ឌលសុខភាពតាអាន",
+    "province_en": "Siem Reap City",
+    "district_en": "Kralanh",
+    "health_centre_en": "Ta An Health Center"
+  },
+  {
+    "index": 202.0,
+    "hash": "1e938a932b178518c828571153c150ab1476256a",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "ក្រឡាញ់",
+    "health_centre_km": "មណ្ឌលសុខភាពត្រាំសសរ",
+    "province_en": "Siem Reap City",
+    "district_en": "Srei Snam",
+    "health_centre_en": "Tram Sasar Health Center"
+  },
+  {
+    "index": 203.0,
+    "hash": "9dd79311dbe216f1045af56cd1a12f424f3fb80f",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "ក្រឡាញ់",
+    "health_centre_km": "មណ្ឌលសុខភាពមោង",
+    "province_en": "Siem Reap City",
+    "district_en": "Srei Snam",
+    "health_centre_en": "Moung Health Center"
+  },
+  {
+    "index": 204.0,
+    "hash": "de156ebcae606acbb5a21ea2cd8d85be0cac3104",
+    "province_km": "ក្រុងសៀមរាប",
+    "district_km": "ក្រឡាញ់",
+    "health_centre_km": "មណ្ឌលសុខភាពដូនសុខ",
+    "province_en": "Siem Reap City",
+    "district_en": "Srei Snam",
+    "health_centre_en": "Daok Sok Health Center"
+  },
+  {
+    "index": 205.0,
+    "hash": "d2f8e0d4444df4e98f1950d5824e9f2da6973b84",
+    "province_km": "រតនគិរី",
+    "district_km": "បានលុង",
+    "health_centre_km": "មន្ទីរសុខាភិបាល",
+    "province_en": "Rattanakiri",
+    "district_en": "Ban Lung Municipality",
+    "health_centre_en": "Department of Health"
+  },
+  {
+    "index": 206.0,
+    "hash": "1ac644e3691db12d6d9c6e9573d3e363bb155d45",
+    "province_km": "រតនគិរី",
+    "district_km": "បានលុង",
+    "health_centre_km": "មន្ទីរពេទ្យខេត្ត",
+    "province_en": "Rattanakiri",
+    "district_en": "Ban Lung Municipality",
+    "health_centre_en": "Provincial Hospital"
+  },
+  {
+    "index": 207.0,
+    "hash": "e6e6b2573ca680c686f7240ec943b59201ff1ab2",
+    "province_km": "រតនគិរី",
+    "district_km": "បានលុង",
+    "health_centre_km": "ស្រុកប្រតិបត្តិបានលុង",
+    "province_en": "Rattanakiri",
+    "district_en": "Ban Lung Municipality",
+    "health_centre_en": "Ban Lung Operational District"
+  },
+  {
+    "index": 208.0,
+    "hash": "450f3b833c6d57b7e7bfa9bbbd1b7bdf0a983de9",
+    "province_km": "រតនគិរី",
+    "district_km": "បានលុង",
+    "health_centre_km": "មណ្ឌលសុខភាពបានលុង",
+    "province_en": "Rattanakiri",
+    "district_en": "Ban Lung Municipality",
+    "health_centre_en": "Ban Lung Health Center"
+  },
+  {
+    "index": 209.0,
+    "hash": "ae495067792320b4a4443192c0a13b7f39a90555",
+    "province_km": "រតនគិរី",
+    "district_km": "បានលុង",
+    "health_centre_km": "មណ្ឌលសុខភាពកាចាញ",
+    "province_en": "Rattanakiri",
+    "district_en": "Ban Lung Municipality",
+    "health_centre_en": "Kachanh Health Center"
+  },
+  {
+    "index": 210.0,
+    "hash": "8ab74c85575d0b2eedfcb9624b9649339b8dada2",
+    "province_km": "រតនគិរី",
+    "district_km": "អូរជុំ",
+    "health_centre_km": "មណ្ឌលសុខភាពអូរជុំ",
+    "province_en": "Rattanakiri",
+    "district_en": "Ou Chum",
+    "health_centre_en": "Ou Chum Health Center"
+  },
+  {
+    "index": 211.0,
+    "hash": "e82504fa93ffe2c5bae046e65b4038bfa8eccdf7",
+    "province_km": "រតនគិរី",
+    "district_km": "តាវែង",
+    "health_centre_km": "មណ្ឌលសុខភាពតាវែង",
+    "province_en": "Rattanakiri",
+    "district_en": "Ta Veaeng",
+    "health_centre_en": "Ta Veaeng Health Center"
+  },
+  {
+    "index": 212.0,
+    "hash": "a17f6d2f1da09463e879c05e5e575094c20c8383",
+    "province_km": "រតនគិរី",
+    "district_km": "វើនសៃ",
+    "health_centre_km": "មណ្ឌលសុខភាពវ៉ើនសៃ",
+    "province_en": "Rattanakiri",
+    "district_en": "Veun Sai",
+    "health_centre_en": "Veun Sai Health Center"
+  },
+  {
+    "index": 213.0,
+    "hash": "22a6f79a993173361796ad2a488febaac39660bc",
+    "province_km": "រតនគិរី",
+    "district_km": "វើនសៃ",
+    "health_centre_km": "មណ្ឌលសុខភាពកាចូន",
+    "province_en": "Rattanakiri",
+    "district_en": "Veun Sai",
+    "health_centre_en": "Ka Choun Health Center"
+  },
+  {
+    "index": 214.0,
+    "hash": "5af71111e906b20078d0a9a7af61326334727c85",
+    "province_km": "រតនគិរី",
+    "district_km": "វើនសៃ",
+    "health_centre_km": "មណ្ឌលសុខភាពវីរៈជ័យ",
+    "province_en": "Rattanakiri",
+    "district_en": "Veun Sai",
+    "health_centre_en": "Virachey Health Center"
+  },
+  {
+    "index": 215.0,
+    "hash": "30b2b5076d20cca195684a748ee79f24e347c3b3",
+    "province_km": "រតនគិរី",
+    "district_km": "កូនមុំ",
+    "health_centre_km": "មណ្ឌលសុខភាពកូនមុំ",
+    "province_en": "Rattanakiri",
+    "district_en": "Koun Mom",
+    "health_centre_en": "Koun Mom Health Center"
+  },
+  {
+    "index": 216.0,
+    "hash": "817516f2d62ed28df66f9bce667a54bf7fe92c7c",
+    "province_km": "រតនគិរី",
+    "district_km": "លំផាត់",
+    "health_centre_km": "មណ្ឌលសុខភាពលំផាត់",
+    "province_en": "Rattanakiri",
+    "district_en": "Lumphat",
+    "health_centre_en": "Lumphat Health Center"
+  },
+  {
+    "index": 217.0,
+    "hash": "3c1a3dde06cbb2e0dee7a3116d8af83b292caaa5",
+    "province_km": "រតនគិរី",
+    "district_km": "លំផាត់",
+    "health_centre_km": "មណ្ឌលសុខភាពជំរុំបីស្រុក",
+    "province_en": "Rattanakiri",
+    "district_en": "Lumphat",
+    "health_centre_en": "Chum Rom Bei Srok Health Center"
+  },
+  {
+    "index": 218.0,
+    "hash": "f8040f1d2568d9b574f44ad8f8a407e690c666a4",
+    "province_km": "រតនគិរី",
+    "district_km": "អូរជុំ",
+    "health_centre_km": "មណ្ឌលសុខភាពសាមគ្គី",
+    "province_en": "Rattanakiri",
+    "district_en": "Ou Chum",
+    "health_centre_en": "Sameakki Health Center"
+  },
+  {
+    "index": 219.0,
+    "hash": "ca96e360ee9fb92f676471543d53cd565a47b9b4",
+    "province_km": "រតនគិរី",
+    "district_km": "លំផាត់",
+    "health_centre_km": "មណ្ឌលសុខភាពសេដា",
+    "province_en": "Rattanakiri",
+    "district_en": "Lumphat",
+    "health_centre_en": "Seda Health Center"
+  },
+  {
+    "index": 220.0,
+    "hash": "cde4bfaeddd69b8e500e0dd223bd9864e061a69b",
+    "province_km": "រតនគិរី",
+    "district_km": "អូរជុំ",
+    "health_centre_km": "មណ្ឌលសុខភាពប៉ូយ",
+    "province_en": "Rattanakiri",
+    "district_en": "Ou Chum",
+    "health_centre_en": "Pouy Health Center"
+  },
+  {
+    "index": 221.0,
+    "hash": "f0ee63d0b3183cc325c4bf376d8945eeefcab368",
+    "province_km": "រតនគិរី",
+    "district_km": "កូនមុំ",
+    "health_centre_km": "មណ្ឌលសុខភាពតឺន",
+    "province_en": "Rattanakiri",
+    "district_en": "Koun Mom",
+    "health_centre_en": "Teun Health Center"
+  },
+  {
+    "index": 222.0,
+    "hash": "aea873185e4a36c71e98ddffd80c5da7669f694e",
+    "province_km": "រតនគិរី",
+    "district_km": "លំំផាត់",
+    "health_centre_km": "មណ្ឌលសុខភាពល្បាំង១",
+    "province_en": "Rattanakiri",
+    "district_en": "Lumphat",
+    "health_centre_en": "Lbang Muoy Health Center"
+  },
+  {
+    "index": 223.0,
+    "hash": "e7ba7625ebc8499567fc880ede3797a62b2f4cbe",
+    "province_km": "រតនគិរី",
+    "district_km": "កូនមុំ",
+    "health_centre_km": "មណ្ឌលសុខភាពស្រែអង្គ្រង",
+    "province_en": "Rattanakiri",
+    "district_en": "Koun Mom",
+    "health_centre_en": "Srae Angkrorng Health Center"
+  },
+  {
+    "index": 224.0,
+    "hash": "b2d0518a56d8e4bff04b763c610e627add07ea2d",
+    "province_km": "រតនគិរី",
+    "district_km": "វើនសៃ",
+    "health_centre_km": "មណ្ឌលសុខភាពភ្នំកុក",
+    "province_en": "Rattanakiri",
+    "district_en": "Veun Sai",
+    "health_centre_en": "Phnum Kok Health Center"
+  },
+  {
+    "index": 225.0,
+    "hash": "a3e9e24ffbbd3306413d0280db2603effd262670",
+    "province_km": "រតនគិរី",
+    "district_km": "វើនសៃ",
+    "health_centre_km": "មណ្ឌលសុខភាពកោះពាក្យ",
+    "province_en": "Rattanakiri",
+    "district_en": "Veun Sai",
+    "health_centre_en": "Kaoh Peak Health Center"
+  },
+  {
+    "index": 226.0,
+    "hash": "e93c896ac93000f86fe9b3449e7d3e715e1dc3d3",
+    "province_km": "រតនគិរី",
+    "district_km": "បរកែវ",
+    "health_centre_km": "ស្រុកប្រតិបត្តិបរកែវ",
+    "province_en": "Rattanakiri",
+    "district_en": "Bar Kaev",
+    "health_centre_en": "Bar Kaev Operational District"
+  },
+  {
+    "index": 227.0,
+    "hash": "1bfefd9bd4d1a6b151ffc2cac60352d0d50523a4",
+    "province_km": "រតនគិរី",
+    "district_km": "បរកែវ",
+    "health_centre_km": "មន្ទីរពេទ្យបង្អែកបរកែវ",
+    "province_en": "Rattanakiri",
+    "district_en": "Bar Kaev",
+    "health_centre_en": "Bar Kaev Referral Hospital"
+  },
+  {
+    "index": 228.0,
+    "hash": "e202d7f1322c10f0d2c0de974a6001f627a4763f",
+    "province_km": "រតនគិរី",
+    "district_km": "អណ្តូងមាស",
+    "health_centre_km": "មណ្ឌលសុខភាពអណ្តូងពេជ្រ",
+    "province_en": "Rattanakiri",
+    "district_en": "Andoung Meas",
+    "health_centre_en": "Andung Pic Health Center"
+  },
+  {
+    "index": 229.0,
+    "hash": "b9606b8a69cdd88b0909bb773992fab5b047551e",
+    "province_km": "រតនគិរី",
+    "district_km": "បរកែវ",
+    "health_centre_km": "មណ្ឌលសុខភាពកិចុង",
+    "province_en": "Rattanakiri",
+    "district_en": "Bar Kaev",
+    "health_centre_en": "Keh Chong Health Center"
+  },
+  {
+    "index": 230.0,
+    "hash": "f076572702bac61d15cc9ea243ca6ecce1c9486e",
+    "province_km": "រតនគិរី",
+    "district_km": "បរកែវ",
+    "health_centre_km": "មណ្ឌលសុខភាពលុងឃុង",
+    "province_en": "Rattanakiri",
+    "district_en": "Bar Kaev",
+    "health_centre_en": "Lung Khung Health Center"
+  },
+  {
+    "index": 231.0,
+    "hash": "25022c0d31fb0c10140cbff3475fa09b982cb988",
+    "province_km": "រតនគិរី",
+    "district_km": "អូរយ៉ាដាវ",
+    "health_centre_km": "មណ្ឌលសុខភាពអូរយ៉ាដាវ",
+    "province_en": "Rattanakiri",
+    "district_en": "Ou Ya Dav",
+    "health_centre_en": "Ou Ya Dav Health Center"
+  },
+  {
+    "index": 232.0,
+    "hash": "f43baa934a6ce01b94185f24c713ef657fbecbaa",
+    "province_km": "រតនគិរី",
+    "district_km": "អូរយ៉ាដាវ",
+    "health_centre_km": "មណ្ឌលសុខភាពបរខាំ",
+    "province_en": "Rattanakiri",
+    "district_en": "Ou Ya Dav",
+    "health_centre_en": "Bar Kham Health Center"
+  },
+  {
+    "index": 233.0,
+    "hash": "60c9be02582952ada620873ce07b4da38bbdcc78",
+    "province_km": "រតនគិរី",
+    "district_km": "អូរយ៉ាដាវ",
+    "health_centre_km": "មណ្ឌលសុខភាពសោមធំ",
+    "province_en": "Rattanakiri",
+    "district_en": "Ou Ya Dav",
+    "health_centre_en": "Saom Thum Health Center"
+  },
+  {
+    "index": 234.0,
+    "hash": "5bc90fe1a6e31b247de76707a069384ff0283ec1",
+    "province_km": "រតនគិរី",
+    "district_km": "អណ្តូងមាស",
+    "health_centre_km": "មណ្ឌលសុខភាពម៉ាលិក",
+    "province_en": "Rattanakiri",
+    "district_en": "Andoung Meas",
+    "health_centre_en": "Malik Health Center"
+  },
+  {
+    "index": 235.0,
+    "hash": "e586103fe41411b7a7fb807d2631f919b1d1511c",
+    "province_km": "រតនគិរី",
+    "district_km": "អណ្តូងមាស",
+    "health_centre_km": "មណ្ឌលសុខភាពអណ្តូងមាស",
+    "province_en": "Rattanakiri",
+    "district_en": "Andoung Meas",
+    "health_centre_en": "Andoung Meas Health Center"
+  },
+  {
+    "index": 236.0,
+    "hash": "0d18e4228ff0cf9ae27252f3e2816afe6e7504e3",
+    "province_km": "រតនគិរី",
+    "district_km": "អណ្តូងមាស",
+    "health_centre_km": "មណ្ឌលសុខភាពតាឡាវ",
+    "province_en": "Rattanakiri",
+    "district_en": "Andoung Meas",
+    "health_centre_en": "Ta Lav Health Center"
+  },
+  {
+    "index": 237.0,
+    "hash": "df09fbb3e1af24870b6080e14849d225951b35c4",
+    "province_km": "រតនគិរី",
+    "district_km": "អណ្តូងមាស",
+    "health_centre_km": "មណ្ឌលសុខភាពញ៉ាង",
+    "province_en": "Rattanakiri",
+    "district_en": "Andoung Meas",
+    "health_centre_en": "Nhang Health Center"
+  },
+  {
+    "index": 238.0,
+    "hash": "c97016a9a79518c3722751b85f0a30f9034d5186",
+    "province_km": "រតនគិរី",
+    "district_km": "បរកែវ",
+    "health_centre_km": "មណ្ឌលសុខភាពទីងចាក់",
+    "province_en": "Rattanakiri",
+    "district_en": "Bar Kaev",
+    "health_centre_en": "Ting Chak Health Center"
+  }
+]

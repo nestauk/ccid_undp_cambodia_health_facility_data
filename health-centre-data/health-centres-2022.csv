@@ -1,0 +1,240 @@
+index,hash,province_km,district_km,health_centre_km,province_en,district_en,health_centre_en
+0,0f4170c689c4a0eea19f1ab7ee97ecf8fa302428,កំពង់ចាម,ព្រៃឈរ,ស្រុកប្រតិបត្តិព្រៃឈរ,Kampong Cham,Prey Chhor,Prey Chhor Operational District
+1,798495a52f2b2e2c59efec393d0f6d637ee3670f,កំពង់ចាម,ព្រៃឈរ,មន្ទីរពេទ្យបង្អែកព្រៃឈរ,Kampong Cham,Prey Chhor,Prey Chhor Referral Hospital
+2,f61862ae858de893c0be5604c0ddbe8f64561b7c,កំពង់ចាម,ព្រៃឈរ,មណ្ឌលសុខភាពស្រង៉ែ,Kampong Cham,Prey Chhor,Sragnae Health Center
+3,4f47dab6cfc55e2ac8a0013c6bdbe2e961107357,កំពង់ចាម,ព្រៃឈរ,មណ្ឌលសុខភាពជ្រៃវៀន,Kampong Cham,Prey Chhor,Chrey Vien Health Center
+4,2c04eb08fd72ed4a22d0e102278e763303e64b5e,កំពង់ចាម,ព្រៃឈរ,មណ្ឌលសុខភាពល្វា,Kampong Cham,Prey Chhor,Lvea Health Center
+5,0f732caf28ea919a1f7b0c89ceac4566f93f3d38,កំពង់ចាម,ព្រៃឈរ,មណ្ឌលសុខភាពគរ,Kampong Cham,Prey Chhor,Kor Health Center
+6,24d77c0e08c83d21b54b6f913ad8d2dae171ca3a,កំពង់ចាម,ព្រៃឈរ,មណ្ឌលសុខភាពថ្មពូន,Kampong Cham,Prey Chhor,Thma Pun Health Center
+7,dacb68a5b6b0a8b271050e8928e8e2c75fa3ee16,កំពង់ចាម,ព្រៃឈរ,មណ្ឌលសុខភាពក្រូច,Kampong Cham,Prey Chhor,Krouch Health Center
+8,d86fd0c508121c4db367f567cd5450885f1d7ba2,កំពង់ចាម,ព្រៃឈរ,មណ្ឌលសុខភាពតុងរ៉ុង,Kampong Cham,Prey Chhor,Tong Rong Health Center
+9,02ebd157954f95892670405be3174432921f7423,កំពង់ចាម,ព្រៃឈរ,មណ្ឌលសុខភាពសូរសែន្យ,Kampong Cham,Prey Chhor,Sour Saen Health Center
+10,78c88880dc953fbd6f7748315d5a5d6e44a54835,កំពង់ចាម,ព្រៃឈរ,មណ្ឌលសុខភាពមៀន,Kampong Cham,Prey Chhor,Mien Health Center
+11,42c20212c90bf1d57fb72c05a924485a3e3752bc,កំពង់ចាម,ព្រៃឈរ,មណ្ឌលសុខភាពត្រពាំងព្រះ,Kampong Cham,Prey Chhor,Trapeang Preah Health Center
+12,583cd757090721af3bb5a4a53fb947376d4b5354,កំពង់ចាម,កំពង់ចាម/កំពង់សៀម,ប្រធានការិ.សុខាភិបាលស្រុកប្រតិ កច-កំពង់សៀម,Kampong Cham,Kampong Cham / Kampong Cham,"Head of Office of Heath, Operational District of Kampong Siem, Kampong Cham Province"
+13,29971c17a442e3f150495dc07e746a5d62a4d819,កំពង់ចាម,កំពង់ចាម/កំពង់សៀម,ស្រុកប្រតិ កច-កំពង់សៀម,Kampong Cham,Kampong Cham / Kampong Cham,Operational District of Kampong Siem
+14,4bf2d063b3bd9d4029e085092c4ef7ce60a159a7,កំពង់ចាម,កំពង់ចាម/កំពង់សៀម,មណ្ឌលសុខភាព វាលវង់,Kampong Cham,Kampong Cham / Kampong Cham,Veal Vong Health Center
+15,e15ec6312580e929926af8bbd42e6c497d74cc19,កំពង់ចាម,កំពង់ចាម/កំពង់សៀម,មណ្ឌលសុខភាព បឹងកុក,Kampong Cham,Kampong Cham / Kampong Cham,Boeng Kok Health Center
+16,697b3ff7e840c57ea6c5d7aa1ca8b6c31ab8ecbe,កំពង់ចាម,កំពង់ចាម/កំពង់សៀម,មណ្ឌលសុខភាពសំបួរមាស,Kampong Cham,Kampong Cham / Kampong Cham,Sambuor Meas Health Center
+17,0f0ec1e09a9070df16edc273b08e4723dc09f52c,កំពង់ចាម,កំពង់ចាម/កំពង់សៀម,មណ្ឌលសុខភាព កោះរកា,Kampong Cham,Kampong Cham / Kampong Cham,Kaoh Roka Health Center
+18,81fba3157315e9bedaad25ac3a576ebe45526421,កំពង់ចាម,កំពង់ចាម/កំពង់សៀម,មណ្ឌលសុខភាព គគរ,Kampong Cham,Kampong Cham / Kampong Cham,Kokor Health Center
+19,f2000e7bd587b8e0915d05a60530a79f959122ed,កំពង់ចាម,កំពង់ចាម/កំពង់សៀម,មណ្ឌលសុខភាព កោះមិត្ត,Kampong Cham,Kampong Cham / Kampong Cham,Kaoh Mitt Health Center
+20,62231da64188a6bbb788440f6ccb00aac96eff34,កំពង់ចាម,កំពង់ចាម/កំពង់សៀម,មណ្ឌលសុខភាពហាន់ជ័យ,Kampong Cham,Kampong Cham / Kampong Cham,Hanchey Health Center
+21,6cc3c4d1ec99d917b35d21ef4919a15edf7216f6,កំពង់ចាម,កំពង់ចាម/កំពង់សៀម,មណ្ឌលសុខភាពកោះសំរោង,Kampong Cham,Kampong Cham / Kampong Cham,Kaoh Samraong Health Center
+22,6f2f6843c7e7a0dfa53278387351f160a91e9984,កំពង់ចាម,កំពង់ចាម/កំពង់សៀម,មណ្ឌលសុខភាព​ក្រឡា,Kampong Cham,Kampong Cham / Kampong Cham,Krala Health Center
+23,ac2a58907165977cf0c2208f8e1758eb76ea9d77,កំពង់ចាម,កំពង់ចាម/កំពង់សៀម,មណ្ឌលសុខភាព​ទ្រាន,Kampong Cham,Kampong Cham / Kampong Cham,Trean Health Center
+24,a6032766b317a38b153d6ebf6b7db966f763e30b,កំពង់ចាម,កំពង់ចាម/កំពង់សៀម,មណ្ឌលសុខភាព​វិហារធំ,Kampong Cham,Kampong Cham / Kampong Cham,Vihear Thum Health Center
+25,019efdeffc7334f6586d130dcaf2f117dc958266,កំពង់ចាម,កំពង់ចាម/កំពង់សៀម,មណ្ឌលសុខភាព​អំពិល,Kampong Cham,Kampong Cham / Kampong Cham,Ampil Health Center
+26,4b9dd205437ee1ac840d2ed4bcb2ddb0fcf74ddf,កំពង់ចាម,កំពង់ចាម/កំពង់សៀម,មណ្ឌលសុខភាព​ស្រក,Kampong Cham,Kampong Cham / Kampong Cham,Srak Health Center
+27,8913977d39cb4dbef3f5def5fe4116a907cc9916,កំពង់ចាម,កំពង់ចាម/កំពង់សៀម,មណ្ឌលសុខភាពកៀនជ្រៃ,Kampong Cham,Kampong Cham / Kampong Cham,Kien Chrey Health Center
+28,603b40506945785874305798057de704b1f66248,កំពង់ចាម,កំពង់ចាម/កំពង់សៀម,មណ្ឌលសុខភាពអូរស្វាយ,Kampong Cham,Kampong Cham / Kampong Cham,Ou Svay Health Center
+29,688114bb1615b33366d853467194635fd1bdb305,កំពង់ចាម,ចំការលើ,ស្រុកប្រតិបត្តិចំការលើ,Kampong Cham,Chamkar Leu,Chamkar Leu Operational District
+30,af9aadb27ca966934a4ac56a48d8359d5dccbb76,កំពង់ចាម,ចំការលើ,ប្រធានមន្ទីរពេទ្យបង្អែកចំការលើ,Kampong Cham,Chamkar Leu,Head of Chamkar Leu Referral Hospital
+31,59aa9e3a10e51934bd039f6517d1a9a633e453b0,កំពង់ចាម,ចំការលើ,មន្ទីរពេទ្យបង្អែកចំការលើ,Kampong Cham,Chamkar Leu,Chamkar Leu Referral Hospital
+32,c1adcc8fdb2f00e8231e73d5cd285e22c63d35e5,កំពង់ចាម,ចំការលើ,មណ្ឌលសុខភាពដូនធី,Kampong Cham,Chamkar Leu,Doun Thi Health Center
+33,1f7bfbf365ca4c5095f1d151ea7610398e5063bd,កំពង់ចាម,ចំការលើ,មណ្ឌលសុខភាពបុសខ្នុរ,Kampong Cham,Chamkar Leu,Bos Khnor Health Center
+34,0d5191b7d332e21516b9ff68950edbeb2f7142c2,កំពង់ចាម,ចំការលើ,មណ្ឌលសុខភាពស្វាយមាស,Kampong Cham,Chamkar Leu,Svay Meas Health Center 
+35,610b3173bbb646fe9503c52616faba470a387c23,កំពង់ចាម,ចំការលើ,មណ្ឌលសុខភាព តាអុង,Kampong Cham,Chamkar Leu,Ta Ong Health Center
+36,85671902d98e7b6aa69ae17a91d420055f5c6bd3,កំពង់ចាម,ចំការលើ,មណ្ឌលសុខភាព តាំងក្រង់,Kampong Cham,Chamkar Leu,Taing Krong Health Center
+37,001770d9aafb406121a069a36fde52d32f147083,កំពង់ចាម,ចំការលើ,មណ្ឌលសុខភាព ស្វាយទាប,Kampong Cham,Chamkar Leu,Svay Teab Health Center 
+38,8d81583b0e5f24454f76f4e7d3fbcf8136c1d237,កំពង់ចាម,ចំការលើ,មណ្ឌលសុខភាព តាប្រុក,Kampong Cham,Chamkar Leu,Ta Prok Health Center
+39,d8a971ef4e6156e14e6fc08385761663499499ea,កំពង់ចាម,ចំការលើ,មណ្ឌលសុខភាព ចំការអណ្តូង,Kampong Cham,Chamkar Leu,Chamkar Andoung Health Center
+40,d1aa35c8a77d9ed24c59de61651919e93a2e5c49,កំពង់ចាម,ចំការលើ,មណ្ឌលសុខភាព ល្វាលើ,Kampong Cham,Chamkar Leu,Lvea Leu Health Center
+41,4ce18eddede5dafa26399971b532cb5900bdecf6,កំពង់ចាម,ចំការលើ,មណ្គលសុខភាព ស្ពី,Kampong Cham,Chamkar Leu,Spueu Health Center
+42,ab878369ee0d63c4d3dac9f01882a2e3c6002a2d,កំពង់ចាម,ចំការលើ,មណ្ឌលសុខភាព ជយោ,Kampong Cham,Chamkar Leu,Cheyyou Health Center
+43,e9fd61230dc017d87fa645579199f00c65efa565,កំពង់ចាម,កងមាស,មន្ទីរពេទ្យបង្អែកកងមាស,Kampong Cham,Kang Meas,Kang Meas Referral Hospital
+44,0c58372d16a963def4779da75ef743e7460e038a,កំពង់ចាម,កងមាស,មណ្ឌលសុខភាពពាមជីកង,Kampong Cham,Kang Meas,Peam Chi Kang Health Center
+45,9e13433a43cc0dff5edac87ed2cc3d4b58369e36,កំពង់ចាម,កងមាស,មណ្ឌលសុខភាពព្រែកក្របៅ,Kampong Cham,Kang Meas,Preaek Krabau Health Center
+46,23df5fa5bd74836965cf834f1f56c2d312ea360b,កំពង់ចាម,កងមាស,មណ្ឌលសុខភាពអង្គរបាន,Kampong Cham,Kang Meas,Angkor Ban Health Center
+47,0cf37935219302385f5e2df6c35cd87a2ad8aa44,កំពង់ចាម,កងមាស,មណ្ឌលសុខភាពសូរគង,Kampong Cham,Kang Meas,Sour Kong Health Center
+48,29859da030c54dd53ed499d44b7b57784e32e11d,កំពង់ចាម,កងមាស,មណ្ឌលសុខភាពរាយប៉ាយ,Kampong Cham,Kang Meas,Reay Pay Health Center
+49,7e6013facb6277c0efa0f4322c6f7d4cb8bf0298,កំពង់ចាម,កងមាស,មណ្ឌលសុខភាពខ្ចៅ,Kampong Cham,Kang Meas,Khchau Health Center
+50,d4b7e82bfc911d6c4c5370039073b09f023e9784,កំពង់ចាម,កងមាស,មណ្ឌលសុខភាពរកាអារ,Kampong Cham,Kang Meas,Roka Ar Health Center
+51,5bb0a8837852d78d87627f8ae67b23d4f91f5c6a,កំពង់ចាម,កងមាស,មណ្ឌលសុខភាពស្តៅ,Kampong Cham,Kang Meas,Sdau Health Center
+52,52b65129fbb4bdd347fc50ae9d8f543b185c66f6,កំពង់ចាម,កោះសូទិន,ស្រុកប្រតិបត្តិកោះសូទិន,Kampong Cham,Koh Sotin,Kaoh Soutin Health Operational District
+53,361d81140e40dcd737d7d5ac3161663fddcfb97c,កំពង់ចាម,កោះសូទិន,មណ្ឌលសុខភាពព្រែកតានង់,Kampong Cham,Koh Sotin,Preaek Ta Nong Health Center
+54,099373797f9569f33b16b7d482d2a8ad4003fd25,កំពង់ចាម,កោះសូទិន,មណ្ឌលសុខភាពមហាខ្ញូង,Kampong Cham,Koh Sotin,Moha Khnhoung Health Center
+55,41a7322f43cd09e47bf7b5fbab628bacc8e06276,កំពង់ចាម,កោះសូទិន,មណ្ឌលសុខភាពកោះសូទិន,Kampong Cham,Koh Sotin,Kaoh Sotin Health Center
+56,5869bd79a3485e50b4d5f5f20d7dc91da5569d35,កំពង់ចាម,កោះសូទិន,មណ្ឌលសុខភាពពាមប្រធ្នោះ,Kampong Cham,Koh Sotin,Peamor Health Center
+57,9837b562013624fabcb6ca2ba13c9a0ce9312335,កំពង់ចាម,កោះសូទិន,មណ្ឌលសុខភាពល្វេ,Kampong Cham,Koh Sotin,Lve Health Center
+58,53ccce209788b846f33ef137b398685d6eeffda0,កំពង់ចាម,កោះសូទិន,មណ្ឌលសុខភាពកំពង់រាប,Kampong Cham,Koh Sotin,Kampong Reab Health Center
+59,f3a0139587eff11dc7517e8c9599e91e405fdf78,កំពង់ចាម,កោះសូទិន,មណ្ឌលសុខភាពពង្រ មហាលាភ,Kampong Cham,Koh Sotin,Pongro Health Center
+60,cbe2e74386512b3d5f3b665e6e05c28930baa9ed,កំពង់ចាម,បាធាយ,ស្រុកប្រតិបត្តិបាធាយ,Kampong Cham,Batheay,Batheay Operational District
+61,07e6dce788740ceda54cd2d0954d21ac9bc75dc4,កំពង់ចាម,បាធាយ,មន្តីពេទ្យបង្អែកបាធាយ,Kampong Cham,Batheay,Batheay Referral Hospital
+62,86bf75b2bbd62827a4b17acd253ba75bf250fef8,កំពង់ចាម,បាធាយ,មណ្ឌលសុខភាពបាធាយ,Kampong Cham,Batheay,Batheay Health Center
+63,c08fe6c053bf258e9a27eba24631ac95fd443731,កំពង់ចាម,បាធាយ,មណ្ឌលសុខភាពជើងឆ្នុក,Kampong Cham,Batheay,Cheung Chhnok Health Center
+64,f5cb012deeae81b734495865f12ac2e450fa6387,កំពង់ចាម,បាធាយ,មណ្ឌលសុខភាពសំបូរ,Kampong Cham,Batheay,Sambour Health Center
+65,0d2d711c0f640949d5c25a2a2341ffe1eb14d419,កំពង់ចាម,បាធាយ,មណ្ឌលសុខភាពត្រប់,Kampong Cham,Batheay,Trab Health Center
+66,070d09d17a50d5c0a0438ba2961364a8a474eadc,កំពង់ចាម,បាធាយ,មណ្ឌលសុខភាពផ្អាវ,Kampong Cham,Batheay,Ph'av Health Center
+67,6df0c407afdccf8a015cb174257727b1678a21e0,កំពង់ចាម,បាធាយ,មណ្ឌលសុខភាពសណ្តែក,Kampong Cham,Batheay,Sandaek Health Center
+68,41a2a0f777596a3bf1a637d0a9dd2f95d65c1538,កំពង់ចាម,បាធាយ,មណ្ឌលសុខភាពទំនប់,Kampong Cham,Batheay,Tumnob Health Center
+69,802ec3cfb505b90ff6b107c228fc29d121887fff,កំពង់ចាម,បាធាយ,មណ្ឌលសុខភាពតាំងក្រសាំង,Kampong Cham,Batheay,Tang Krasang Health Center
+70,753941e41a0d5a31962e9e9598393d55118d7b79,កំពង់ចាម,បាធាយ,មណ្ឌលសុខភាពច្បារអំពៅ,Kampong Cham,Batheay,Chbar Ampov Health Center
+71,2ab128c5b4b70c45d4ffad58962937655d66c002,កំពង់ចាម,បាធាយ,មណ្ឌលសុខភាពជើងព្រៃ,Kampong Cham,Batheay,Cheung Prey Health Center
+72,f4ddfb606c4d669fd0e3bf447fc7fd6fbc6d94b0,កំពង់ចាម,ស្ទឹងត្រង់,ស្រុកប្រតិបត្តិស្ទឹងត្រង់,Kampong Cham,Stung Trang,Stueng Trang Operational District
+73,98f98fa4239a02f1cadba864723c0b140cd7c88a,កំពង់ចាម,ស្ទឹងត្រង់,មន្ទីរពេទ្យបង្អែក,Kampong Cham,Stung Trang,Stueng Trang Referral Hospital
+74,f49b478ff8a41945a0d0c5c699293e3c21538b20,កំពង់ចាម,ស្ទឹងត្រង់,មណ្ឌលសុខភាពទួលព្រះឃ្លាំង,Kampong Cham,Stung Trang,Tuol Preah Khleang Health Center
+75,b9b06c10ce63503ae4f9d6a40fa4f83bfd0f5253,កំពង់ចាម,ស្ទឹងត្រង់,មណ្ឌលសុខភាពមេសរជ្រៃ,Kampong Cham,Stung Trang,Me Sar Chrey Health Center
+76,c630989a38facc4df99afa89669e98c9bfbe0971,កំពង់ចាម,ស្ទឹងត្រង់,មណ្ឌលសុខភាពសូភាស,Kampong Cham,Stung Trang,Soupheas Health Center
+77,bfe0c60019a8c5fcf5d69c8c0acb4e7811d74c30,កំពង់ចាម,ស្ទឹងត្រង់,មណ្ឌលសុខភាពដងក្តារ,Kampong Cham,Stung Trang,Dang Kdar Health Center
+78,a72eb08a31ff54ea02a2e2f731a8985d6f2b6305,កំពង់ចាម,ស្ទឹងត្រង់,មណ្ឌលសុខភាពអារក្សត្នោត,Kampong Cham,Stung Trang,Areaks Tnot Health Center
+79,3789ab99273239771b56d5b38b04a2824879c5f1,កំពង់ចាម,ស្ទឹងត្រង់,មណ្ឌលសុខភាពពាមកោះស្នា,Kampong Cham,Stung Trang,Peam Kaoh Snar Health Center
+80,5bf5d18db8b60768ec03f1b3443023f10ccefa19,កំពង់ចាម,ស្ទឹងត្រង់,មណ្ឌលសុខភាពខ្ពបតាងួន,Kampong Cham,Stung Trang,Khpob Ta Nguon Health Center
+81,467bcb7feed13aa3a99335159904252807c688e3,កំពង់ចាម,ស្ទឹងត្រង់,មណ្ឌលសុខភាពទួលសំបួរ,Kampong Cham,Stung Trang,Tuol Sambuor Health Center
+82,c342a904033666b2f03bd4736c5b843ce33398aa,កំពង់ចាម,ស្ទឹងត្រង់,មណ្ឌលសុខភាពព្រែកកក់,Kampong Cham,Stung Trang,Preak Kak Health Center
+83,0a7b602313be47fccc287ffa67fe77deb08c5918,កំពង់ចាម,ស្ទឹងត្រង់,មណ្ឌលសុខភាពអូម្លូរ,Kampong Cham,Stung Trang,Ou Mlu Health Center
+84,b61fc90006d48de233756ccd214685cd0389f3df,កំពង់ចាម,ស្ទឹងត្រង់,មណ្ឌលសុខភាពព្រែកបាក់,Kampong Cham,Stung Trang,Preaek Bak Health Center
+85,5ec5109a9bf2ae425fbebfcfb66a59968e830080,កំពង់ចាម,ស្ទឹងត្រង់,មណ្ឌលសុខភាពមាឃ៣,Kampong Cham,Stung Trang,Meak Bei Health Center
+86,bce0d8fff8c7c8fdd4342044d6f3cc9d4bef42e5,កំពង់ចាម,ជើងព្រៃ,ស្រុកប្រតិបត្តិ,Kampong Cham,Cheung Prey,Cheung Prey Executive District
+87,25324afd85df14d225df7ac01d99bba9b2505973,កំពង់ចាម,ជើងព្រៃ,មន្ទីរពេទ្យបង្អែកជើងព្រៃ,Kampong Cham,Cheung Prey,Cheung Prey Referral Hospital
+88,ffe9a5501621738e701464095daa00775eb95216,កំពង់ចាម,ជើងព្រៃ,មណ្ឌលសុខភាពស្គន់,Kampong Cham,Cheung Prey,Soutib (Skun) Health Center
+89,d2b591d32f1254565c0b70449a67d46be77d3011,កំពង់ចាម,ជើងព្រៃ,មណ្ឌលសុខភាពស្ដើងជ័យ,Kampong Cham,Cheung Prey,Sdaeung Chey Health Center
+90,6aeae34c5740d732878831c1eb0634ed540846cf,កំពង់ចាម,ជើងព្រៃ,មណ្ឌលសុខភាពស្អាង,Kampong Cham,Cheung Prey,Trapeang Kor (S'ang) Health Center
+91,b7254dc5aa1d683279015910ad04b2e6222fae73,កំពង់ចាម,ជើងព្រៃ,មណ្ឌលសុខភាពដូនដុំ,Kampong Cham,Cheung Prey,Doun Dom Health Center
+92,1b322b5eba9adf3b2ee467a2af971edef944d265,កំពង់ចាម,ជើងព្រៃ,មណ្ឌលសុខភាពខ្នុរដំបង,Kampong Cham,Cheung Prey,Khnor Dambang Health Center
+93,1be58763fcc6a1b5a0cc895237d4d251cb00bd9e,កំពង់ចាម,ជើងព្រៃ,មណ្ឌលសុខភាពសំពងជ័យ,Kampong Cham,Cheung Prey,Sampong Chey Health Center
+94,3dfa62ef0eaaaee312f374ab13c649a7d7ff9d52,កំពង់ចាម,ជើងព្រៃ,មណ្ឌលសុខភាពព្រីងជ្រុំ,Kampong Cham,Cheung Prey,Pring Chrum Health Center
+95,cdf756cbdd529aeb56222ad3d2a6d6d4643a62b4,កំពង់ចាម,ស្រីសន្ធរ,មណ្ឌលសុខភាពព្រែករំដេង,Kampong Cham,Srei Santhor,Preaek Rumdeng Health Center
+96,fbd48acd19d20ce01de85f4859b23fe889962297,កំពង់ចាម,ស្រីសន្ធរ,មណ្ឌលសុខភាពស្វាយសាច់ភ្នំ,Kampong Cham,Srei Santhor,Svay Khsach Phnum Health Center
+97,b711939c4eac1034d57d59370339ab01d6260158,កំពង់ចាម,ស្រីសន្ធរ,មណ្ឌលសុខភាពព្រែកដំបូក,Kampong Cham,Srei Santhor,Preaek Dambouk Health Center
+98,b7a11b363759f7985bc7432e85c1e3abb141996c,កំពង់ចាម,ស្រីសន្ធរ,មណ្ឌលសុខភាពទងត្រឡាច,Kampong Cham,Srei Santhor,Tong Tralach Health Center
+99,e2f07d3d8454fbed1c892cbc248e63d8a7ce0d33,កំពង់ចាម,ស្រីសន្ធរ,មណ្ឌលសុខភាពព្រែកពោធិ៍,Kampong Cham,Srei Santhor,Preaek Pou Health Center
+100,365f4e1f9d713bead147ae9e7a0ec144c13e8e40,កំពង់ចាម,ស្រីសន្ធរ,មណ្ឌលសុខភាពបារាយណ៏,Kampong Cham,Srei Santhor,Baray Health Center
+101,66658a85f298385606439dd01ffa88c8b57f06b1,កំពង់ចាម,ស្រីសន្ធរ,មណ្ឌលសុខភាពមានជ័យ,Kampong Cham,Srei Santhor,Mean Chey Health Center
+102,085e19c529acf07ac92ec781962b3a7982ad9080,កំពង់ចាម,ស្រីសន្ធរ,មណ្ឌលសុខភាពស្វាយពោធិ៍,Kampong Cham,Srei Santhor,Svay Pou Health Center
+103,27b6b2208ce2b065fec454cc43229a24d8be595f,កំពង់ចាម,ស្រីសន្ធរ,មណ្ឌលសុខភាពប្រាំយ៉ាម,Kampong Cham,Srei Santhor,Pram Yam Health Center
+104,74429e459596d330502c8bafb245a7c0fafe89d2,កំពង់ចាម,មន្ទីរពេទ្យបង្អែក ខេត្តកំពង់ចាម,អនុប្រធានមន្ទីរពេទ្យ,Kampong Cham,"Referral Hospital, Kampong Cham Province",Deputy Chief of Hospital
+105,7dfca81cd377ece0fd7c0263bda050eb4f9e0956,ក្រុងសៀមរាប,ក្រុងសៀមរាប,មន្ទីរពេទ្យបង្អែកខេត្តសៀមរាប,Siem Reap City,Siem Reap City,Siem Reap Referral Hospital
+106,d39f5805e6ad19d377bf4fb6e03a3ef38e990153,ក្រុងសៀមរាប,សៀមរាប,ស្រុកប្រតិបតិ្តសៀមរាប,Siem Reap City,Siem Reap,Siem Reap Operational District
+107,49979ab99d141a68b12a6de31da11836d742209b,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាពសៀមរាប,Siem Reap City,Siem Reap,Siem Reap Health Center
+108,3aa9fcebf54234758d93bc2b2c147e4a91e5c95f,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាពមណ្ឌល០១,Siem Reap City,Siem Reap,Mondol 1 Health Center
+109,5322b5a15bca5c001823ad5f3c9fb928aad2e747,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាពគោកចក,Siem Reap City,Siem Reap,Kok Chak Health Center
+110,cfa4534dee90f391f9b3b078bbc21e8c73b6d5c9,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាពសំបួរ,Siem Reap City,Siem Reap,Sambuor Health Center
+111,395359922b2ef694f271e5f7793c44f48517385d,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាពក្របីរៀល,Siem Reap City,Siem Reap,Krabei Riel Health Center
+112,f245c08c402e3dd5c2d5321dbfb994c659324e42,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាពពោធិមានជ័យ,Siem Reap City,Siem Reap,Pou Banteay Chey Health Center
+113,6a33b165b01f0dd528235ca4341ffd8b9cf3bb65,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាពចុង ឃ្នៀស,Siem Reap City,Siem Reap,Chong Khnies Health Center
+114,081928dbffa623b3f29cf497800767c4700c4057,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាពស្រង៉ែ,Siem Reap City,Siem Reap,Srangae Health Center
+115,c6eec0fbeee40d5c72b9635e223cc27aaa1cbafe,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាពនគរធំ,Siem Reap City,Siem Reap,Nokor Thom Health Center
+116,40c155218ee23b09a869bbb34269edc0551060ee,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាពទឹក វិល,Siem Reap City,Siem Reap,Tuek Vil Health Center
+117,03b4febbb31a978c977b6e0e59534124178a40a3,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាពជ្រាវ,Siem Reap City,Siem Reap,Chreav Health Center
+118,562f68402c3f54407b49aab66579f91b8b5846f4,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាពអង្គរធំ,Siem Reap City,Angkor Thum,Angkor Thom Health Center
+119,c9886db53f1a9430b70cf36a6b676ac439670bf5,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាពស្វាយចេក,Siem Reap City,Angkor Thum,Svay Chek Health Center
+120,f5777961903460d2dc985ae3915e212b7f899c47,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាពពាក់ស្នែង,Siem Reap City,Angkor Thum,Peak Snaeng Health Center
+121,fd38285bc0b7f009594324d2697ee23d19263505,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាពជប់តាត្រាវ,Siem Reap City,Angkor Thum,Chob Ta Trav Health Center
+122,0790aa22176bc76fc9aeb81903fbf234c6563d83,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាពព្រះដាក់,Siem Reap City,Banteay Srei,Preah Dak Health Center
+123,ef106e0f9346f2a0ef4a4d69c2bd93fb5ce8a64d,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាពរំចេក,Siem Reap City,Banteay Srei,Rumchek Health Center
+124,c9d60c5efa39655d85464965c52205ab90f92eb2,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាពបន្ទាយស្រី,Siem Reap City,Banteay Srei,Banteay Srei Health Center
+125,7695ebec56f6a04230a1a6f7bf1a0d315eab641c,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាពត្បែង,Siem Reap City,Banteay Srei,Tbaeng Health Center
+126,9d3aa860e8256d34abd4ef8a8e8b469943a449ca,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាពកណ្តែក,Siem Reap City,Prasat Bakong,Kandaek Health Center
+127,c0feb39e8227f4d5832fb0a4de98f70adb696a07,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាពបាគង,Siem Reap City,Prasat Bakong,Bakong Health Center
+128,323287667db5dc21aedc7c79b2d447fc26d5b92f,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាព អំពិល,Siem Reap City,Prasat Bakong,Ampil Health Center
+129,d7651f12dcb1edce41491faa88d1ad89f54b068b,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាពមានជ័យ,Siem Reap City,Prasat Bakong,Mean Chey Health Center
+130,231b8b3724bcd25a5307774856b05ae873fe4a19,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាពត្រពាំងធំ,Siem Reap City,Prasat Bakong,Trapeang Thum Health Center
+131,6d00cab54b1ce70312a60975e5432df01e1ee1e9,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាពកន្រ្ទាំង,Siem Reap City,Prasat Bakong,Kantreang Health Center
+132,c96f1d48da61319b7444df0d9a98b1cc8217014d,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាពបល្ល័ង្គ,Siem Reap City,Prasat Bakong,Ballangk Health Center
+133,9fb4b24931cf225523dba20ec9377692019a80d7,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាពរុនតាឯក,Siem Reap City,Banteay Srei,Run Ta Aek Health Center
+134,a7b8376998692391e7b2758ee712d4b2e980b36e,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាពឃុនរាម,Siem Reap City,Banteay Srei,Khun Ream Health Center
+135,a9a308edfbcf8f58e752e71039e44a6dcf5fcfe6,ក្រុងសៀមរាប,សៀមរាប,មណ្ឌលសុខភាព កំពង់ភ្លុក,Siem Reap City,Prasat Bakong,Kampong Phluk Health Center
+136,cd4018696845da57dbad7f3f494c43be9b1b4465,ក្រុងសៀមរាប,សូទ្រនីគម,ស្រុកប្រតិបត្តិសូទ្រនិគម,Siem Reap City,Soutr Nikom,Soutr Nikom Operational District
+137,63e88e496903faa6f2f1c68102475ffb07327983,ក្រុងសៀមរាប,សូទ្រនីគម,មន្ទីរពេទ្យបង្អែកសូទ្រនិគម,Siem Reap City,Soutr Nikom,Soutr Nikom Referral Hospital
+138,6fe7c47fd5916e0de9d97e64c95af558fb28361e,ក្រុងសៀមរាប,សូទ្រនីគម,មណ្ឌលសុខភាពសំរោង,Siem Reap City,Soutr Nikom,Samraong Health Center
+139,3da91e820a682429627f468492b353b75a5869bf,ក្រុងសៀមរាប,សូទ្រនីគម,មណ្ឌលសុខភាពពពេល,Siem Reap City,Soutr Nikom,Popel Health Center
+140,bd05bf507145352388ef4402437663e2cd9d639f,ក្រុងសៀមរាប,សូទ្រនីគម,មណ្ឌលសុខភាពតាយ៉ែក,Siem Reap City,Soutr Nikom,Ta Yaek Health Center
+141,f201a391b76f1ac055354701d097a4d65e1e2bba,ក្រុងសៀមរាប,សូទ្រនីគម,មណ្ឌលសុខភាព ចាន់ស,Siem Reap City,Soutr Nikom,Chan Sa Health Center
+142,ee10ae5c3b4932f5145033a0df55d04a0baa4307,ក្រុងសៀមរាប,សូទ្រនីគម,មណ្ឌលសុខភាពខ្ចាស់,Siem Reap City,Soutr Nikom,Khchas Health Center
+143,1be82981a0382e310f63a60ff125ab902931442d,ក្រុងសៀមរាប,សូទ្រនីគម,មណ្ឌលសុខភាពដំដែក,Siem Reap City,Soutr Nikom,Dam Daek Health Center
+144,8c34c393293c793c9f2c0399f1dc29b37739c956,ក្រុងសៀមរាប,សូទ្រនីគម,មណ្ឌលសុខភាព កំពង់ឃ្លាំង,Siem Reap City,Soutr Nikom,Kampong Khleang Health Center
+145,4275d6f2931ebdb98162cf58a91f7da90643488a,ក្រុងសៀមរាប,សូទ្រនីគម,មណ្ឌលសុខភាពដានរុន,Siem Reap City,Soutr Nikom,Dan Run Health Center
+146,a600b45bdc6774e68ec576dc1a7a639309a58f4a,ក្រុងសៀមរាប,សូទ្រនីគម,មណ្ឌលសុខភាព កៀនសង្កែ,Siem Reap City,Soutr Nikom,Kien Sangkae Health Center
+147,e603a50b325478b2062ec060e12f163a7ab8b677,ក្រុងសៀមរាប,សូទ្រនីគម,មណ្ឌលសុខភាពស្វាយលើ,Siem Reap City,Svay Leu,Svay Leu Health Center
+148,aed9eba361b5cc5a29c08ddcdb30e137aa358cee,ក្រុងសៀមរាប,សូទ្រនីគម,មណ្ឌលសុខភាពខ្នងភ្នំ,Siem Reap City,Svay Leu,Khnang Phnum Health Center
+149,18536bf09c322b460217ee7a6a923d043b2a321e,ក្រុងសៀមរាប,សូទ្រនីគម,មណ្ឌលសុខភាពកន្តួត,Siem Reap City,Svay Leu,Kantuot Health Center
+150,cef0deb5510c589c0e1e36aee72511f37e61b9d0,ក្រុងសៀមរាប,សូទ្រនីគម,មណ្ឌលសុខភាពខ្នាពោធិ៍,Siem Reap City,Soutr Nikom,Khnar Pou Health Center
+151,e66288fe7cf6a5438aa61dd78d7485f663d12402,ក្រុងសៀមរាប,សូទ្រនីគម,មណ្ឌលសុខភាពឫស្សីលក,Siem Reap City,Chi Kraeng,Ruessei Lok Health Center
+152,03a66b237779592da95bdc7274888b469340555b,ក្រុងសៀមរាប,សូទ្រនីគម,មណ្ឌលសុខភាពសង្វើយ,Siem Reap City,Chi Kraeng,Sangvaeuy Health Center
+153,d1aec4b74b8186978ab9794174dae70bfd0c3421,ក្រុងសៀមរាប,សូទ្រនីគម,មណ្ឌលសុខភាព គោកធ្លកក្រោម,Siem Reap City,Chi Kraeng,Kouk Thlok Kraom Health Center
+154,359fa9d04df3bd47712c8362d2cc621962e1bede,ក្រុងសៀមរាប,សូទ្រនីគម,មណ្ឌលសុខភាពគោកធ្លកលើ,Siem Reap City,Chi Kraeng,Kouk Thlok Leu Health Center
+155,4df8125f759951c3628b952746bb37d8a8519b70,ក្រុងសៀមរាប,សូទ្រនីគម,មណ្ឌលសុខភាព កំពង់ក្តី,Siem Reap City,Chi Kraeng,Kampong Kdei Health Center
+156,9001ee2819ef6994be0598dc320c3fb8c1312bd7,ក្រុងសៀមរាប,សូទ្រនីគម,មណ្ឌលសុខភាពជីក្រែង,Siem Reap City,Chi Kraeng,Chi Kraeng Health Center
+157,02f7a3fbd60784b09a3f41cc892373251aff96b3,ក្រុងសៀមរាប,សូទ្រនីគម,មណ្ឌលសុខភាព អន្លង់សំណរ,Siem Reap City,Chi Kraeng,Anlong Samnar Health Center
+158,28d5d243414b1b2070d574476899fb72302c9d86,ក្រុងសៀមរាប,សូទ្រនីគម,មណ្ឌលសុខភាពស្ពានត្នោត,Siem Reap City,Chi Kraeng,Spean Tnaot Health Center
+159,4e077916389ca09c321b65d4fff6b91c39a1f67b,ក្រុងសៀមរាប,សូទ្រនីគម,មណ្ឌលសុខភាពល្វែងឫស្សី,Siem Reap City,Chi Kraeng,Lveaeng Ruessei Health Center
+160,8098b468c6935d4459162bd6ca1c459e7a715b92,ក្រុងសៀមរាប,សូទ្រនីគម,មណ្ឌលសុខភាព ពង្រក្រោម,Siem Reap City,Chi Kraeng,Pongro Kraom Health Center
+161,768c1481347d7a0c1d9154f8d6b8bf039b887d92,ក្រុងសៀមរាប,សូទ្រនីគម,មណ្ឌលសុខភាពពង្រលើ,Siem Reap City,Chi Kraeng,Pongro Leu Health Center
+162,09f1b0129b1c979566c92dd6ce71ec0eda9eedbe,ក្រុងសៀមរាប,សូទ្រនីគម,មណ្ឌលសុខភាពខ្វាវ,Siem Reap City,Chi Kraeng,Khvav Health Center
+163,3023705624633c741260447eff051fa7f144ed6c,ក្រុងសៀមរាប,អង្គរជុំ,ស្រុកប្រតិបតិ្ត អង្គរជុំ,Siem Reap City,Angkor Chum,Angkor Chum Operational District
+164,b204a6dc9fa2775bbc149e4bda7abf63e934d2ee,ក្រុងសៀមរាប,អង្គរជុំ,មន្ទីរពេទ្យបង្អែក អង្គរជុំ,Siem Reap City,Angkor Chum,Angkor Chum Referral Hospital
+165,29cd3b16869665b7a7def08f143767cd27b0050d,ក្រុងសៀមរាប,អង្គរជុំ,មណ្ឌលសុខភាព អង្គរជុំ,Siem Reap City,Angkor Chum,Angkor Chum Health Center
+166,5d6f4bc6c7337430356844be7936f007b632dbf6,ក្រុងសៀមរាប,អង្គរជុំ,មន្ទីរពេទ្យបង្អែក ពួក,Siem Reap City,Puok,Puok Referral Hospital
+167,ac2c143b998e80af44222401da3f7e4e4fc0d51c,ក្រុងសៀមរាប,អង្គរជុំ,មណ្ឌលសុខភាពពួក,Siem Reap City,Puok,Puo Health Center
+168,c02fe451a917c6e06057098ee011b7cd434a893f,ក្រុងសៀមរាប,អង្គរជុំ,មណ្ឌលសុខភាពសំរោងយា,Siem Reap City,Puok,Samraong Yea Health Center
+169,c2a256d8732c7e963320df8f01aaf4ffac8beff0,ក្រុងសៀមរាប,អង្គរជុំ,មណ្ឌលសុខភាពដូនកែវ,Siem Reap City,Puok,Doun Kaev Health Center
+170,d00287cb4756bf818ebd334ba106a159e845b20d,ក្រុងសៀមរាប,អង្គរជុំ,មណ្ឌលសុខភាពខ្នាត,Siem Reap City,Puok,Khnat Health Center
+171,07ca2852e0d0d68d3543a4331f7f77d24b76efc3,ក្រុងសៀមរាប,អង្គរជុំ,មណ្ឌលសុខភាពដំណាក់ស្លាញ,Siem Reap City,Puok,Damnak Slanh Health Center
+172,850abee9eb0063539a1a508b70c5357f52406c8a,ក្រុងសៀមរាប,អង្គរជុំ,មណ្ឌលសុខភាពសសរស្ដម្ភ,Siem Reap City,Puok,Sasar Sdam Health Center
+173,bc603244abbc56eceaf7ce476c02dd51ba19dab2,ក្រុងសៀមរាប,អង្គរជុំ,មណ្ឌលសុខភាពព្រៃជ្រូក,Siem Reap City,Puok,Prey Chruk Health Center
+174,3c504feee712d259a70617c4f4a1e5773ec4b353,ក្រុងសៀមរាប,អង្គរជុំ,មណ្ឌលសុខភាពយាង,Siem Reap City,Puok,Yeang Health Center
+175,7e20055a08dbfd3bdddc7a04d765cf7a82ac69ad,ក្រុងសៀមរាប,អង្គរជុំ,មណ្ឌលសុខភាពចារឈូក,Siem Reap City,Angkor Chum,Char Chhuk Health Center
+176,6957b31bbb98f9cea2947f16172206502a3dd965,ក្រុងសៀមរាប,អង្គរជុំ,មណ្ឌលសុខភាពគោល,Siem Reap City,Angkor Chum,Koul Health Center
+177,3b247de1a819e7f7aae793173255f784e2decf62,ក្រុងសៀមរាប,អង្គរជុំ,មណ្ឌលសុខភាពស្រែខ្វាវ,Siem Reap City,Angkor Chum,Srae Khvav Health Center
+178,2e808e1d68d002139a7c05ef52bea6b92e532f3c,ក្រុងសៀមរាប,អង្គរជុំ,មណ្ឌលសុខភាពនគរភាស,Siem Reap City,Angkor Chum,Nokor Pheas Health Center
+179,85d67aead58a5a2f17f84603471c90f1aeb08b3a,ក្រុងសៀមរាប,អង្គរជុំ,មណ្ឌលសុខភាពគោកដូង,Siem Reap City,Angkor Chum,Kouk Doung Health Center
+180,c71d3093ff5ad331d8c10bd8feee88c317d279c6,ក្រុងសៀមរាប,អង្គរជុំ,មណ្ឌលសុខភាពស្វាយស,Siem Reap City,Varin,Svay Sa Health Center
+181,b8e725fe689578f9cb77e74469130d81cf8b4806,ក្រុងសៀមរាប,អង្គរជុំ,មណ្ឌលសុខភាពវ៉ារិន,Siem Reap City,Varin,Varin Health Center
+182,cce1c35c222583b001b37332c2e40d513c3e7714,ក្រុងសៀមរាប,អង្គរជុំ,មណ្ឌលសុខភាពស្រែណូយ,Siem Reap City,Varin,Srae Nouy Health Center
+183,aa3cf540991c4eb104b8d7b6653868c94e98f640,ក្រុងសៀមរាប,អង្គរជុំ,មណ្ឌលសុខភាពល្វាក្រាំង,Siem Reap City,Varin,Lvea Krang Health Center
+184,2ee3d212060391958ac4fac5685ed39ec928f8ba,ក្រុងសៀមរាប,អង្គរជុំ,មណ្ឌលសុខភាពរើល,Siem Reap City,Puok,Reul Health Center
+185,e5c04ef7185761859c0fc358b763ce135a0f8b53,ក្រុងសៀមរាប,អង្គរជុំ,ត្រីមណ្ឌលសុខភាពត្រីញ័រ,Siem Reap City,Puok,Trei Nhoar Health Center
+186,cec758b2cc8699d5c853940ac96b026b771f3f40,ក្រុងសៀមរាប,អង្គរជុំ,មណ្ឌលសុខភាពពោធិទ្រាយ,Siem Reap City,Puok,Pou Treay Health Center
+187,a886b64c832c4ecfc5dfb0927ba5631c288a4734,ក្រុងសៀមរាប,អង្គរជុំ,មណ្ឌលសុខភាពបត់,Siem Reap City,Angkor Chum,Bat Health Center
+188,3cb4fc2414df4205a0f8ffad5f9e94168f1314e7,ក្រុងសៀមរាប,ក្រឡាញ់,ស្រុកប្រតិបតិ្តក្រឡាញ់,Siem Reap City,Kralanh,Kralanh Operational District
+189,4bfe8b8ed075f5c880d8739b9e615c8ffb32ad6d,ក្រុងសៀមរាប,ក្រឡាញ់,មន្ទីរពេទ្យបង្អែកក្រឡាញ់,Siem Reap City,Kralanh,Kralanh Referral Hospital
+190,709b45277ed6730c69d56e978149c3fa49a222f2,ក្រុងសៀមរាប,ក្រឡាញ់,មណ្ឌលសុខភាពក្រឡាញ់,Siem Reap City,Kralanh,Kralanh Health Center
+191,a2d4fe1254c921c872744b600583ff0ac8babe98,ក្រុងសៀមរាប,ក្រឡាញ់,មណ្ឌលសុខភាពកំពង់ថ្កូវ,Siem Reap City,Kralanh,Kampong Thkov Health Center
+192,97f69876a1f21c6ed7c70d58b529713eb7ee55ce,ក្រុងសៀមរាប,ក្រឡាញ់,មណ្ឌលសុខភាពស្រណាល,Siem Reap City,Kralanh,Sranal Health Center
+193,74f4a5c08858aaa1e098716be75ce9de26623b1a,ក្រុងសៀមរាប,ក្រឡាញ់,មណ្ឌលសុខភាពរោងគោ,Siem Reap City,Kralanh,Roung Kou Health Center
+194,f8598cc3239d367d901e94699d676413f14790e5,ក្រុងសៀមរាប,ក្រឡាញ់,មណ្ឌលសុខភាពចន្លាស់ដៃ,Siem Reap City,Kralanh,Chanleas Dai Health Center
+195,6c6a1f4c506b2115414bae796e14af6b9734e5e4,ក្រុងសៀមរាប,ក្រឡាញ់,មណ្ឌលសុខភាពសែនសុខ,Siem Reap City,Kralanh,Saen Sokh Health Center
+196,abb659a40f244714c36401ddcd4bc1e9b179318e,ក្រុងសៀមរាប,ក្រឡាញ់,មណ្ឌលសុខភាពស្នួល,Siem Reap City,Kralanh,Snuol Health Center
+197,e2e16437ba1ff9ab76fb491c8791a63860adb754,ក្រុងសៀមរាប,ក្រឡាញ់,មណ្ឌលសុខភាពក្រូចគរ,Siem Reap City,Kralanh,Krouch Kor Health Center
+198,5ed95dbd6f307bc6efdced430103753d6852edf5,ក្រុងសៀមរាប,ក្រឡាញ់,មណ្ឌលសុខភាពស្រីស្នំ,Siem Reap City,Srei Snam,Srei Snam Health Center
+199,24e27498ee935c7d33da4136f97b2ab0ed236a4d,ក្រុងសៀមរាប,ក្រឡាញ់,មណ្ឌលសុខភាពស្លែងស្ពាន,Siem Reap City,Srei Snam,Slaeng Spean Health Center
+200,31187e18753ef2c94f51f580741e8d8dfb90e883,ក្រុងសៀមរាប,ក្រឡាញ់,មណ្ឌលសុខភាពប្រិយ៍,Siem Reap City,Srei Snam,Prei Health Center
+201,df2aa0e9d74fc5635ef58f6899922d98cac07e2a,ក្រុងសៀមរាប,ក្រឡាញ់,មណ្ឌលសុខភាពតាអាន,Siem Reap City,Kralanh,Ta An Health Center
+202,1e938a932b178518c828571153c150ab1476256a,ក្រុងសៀមរាប,ក្រឡាញ់,មណ្ឌលសុខភាពត្រាំសសរ,Siem Reap City,Srei Snam,Tram Sasar Health Center
+203,9dd79311dbe216f1045af56cd1a12f424f3fb80f,ក្រុងសៀមរាប,ក្រឡាញ់,មណ្ឌលសុខភាពមោង,Siem Reap City,Srei Snam,Moung Health Center
+204,de156ebcae606acbb5a21ea2cd8d85be0cac3104,ក្រុងសៀមរាប,ក្រឡាញ់,មណ្ឌលសុខភាពដូនសុខ,Siem Reap City,Srei Snam,Daok Sok Health Center
+205,d2f8e0d4444df4e98f1950d5824e9f2da6973b84,រតនគិរី,បានលុង,មន្ទីរសុខាភិបាល,Rattanakiri,Ban Lung Municipality,Department of Health
+206,1ac644e3691db12d6d9c6e9573d3e363bb155d45,រតនគិរី,បានលុង,មន្ទីរពេទ្យខេត្ត,Rattanakiri,Ban Lung Municipality,Provincial Hospital
+207,e6e6b2573ca680c686f7240ec943b59201ff1ab2,រតនគិរី,បានលុង,ស្រុកប្រតិបត្តិបានលុង,Rattanakiri,Ban Lung Municipality,Ban Lung Operational District
+208,450f3b833c6d57b7e7bfa9bbbd1b7bdf0a983de9,រតនគិរី,បានលុង,មណ្ឌលសុខភាពបានលុង,Rattanakiri,Ban Lung Municipality,Ban Lung Health Center
+209,ae495067792320b4a4443192c0a13b7f39a90555,រតនគិរី,បានលុង,មណ្ឌលសុខភាពកាចាញ,Rattanakiri,Ban Lung Municipality,Kachanh Health Center
+210,8ab74c85575d0b2eedfcb9624b9649339b8dada2,រតនគិរី,អូរជុំ,មណ្ឌលសុខភាពអូរជុំ,Rattanakiri,Ou Chum,Ou Chum Health Center
+211,e82504fa93ffe2c5bae046e65b4038bfa8eccdf7,រតនគិរី,តាវែង,មណ្ឌលសុខភាពតាវែង,Rattanakiri,Ta Veaeng,Ta Veaeng Health Center
+212,a17f6d2f1da09463e879c05e5e575094c20c8383,រតនគិរី,វើនសៃ,មណ្ឌលសុខភាពវ៉ើនសៃ,Rattanakiri,Veun Sai,Veun Sai Health Center
+213,22a6f79a993173361796ad2a488febaac39660bc,រតនគិរី,វើនសៃ,មណ្ឌលសុខភាពកាចូន,Rattanakiri,Veun Sai,Ka Choun Health Center
+214,5af71111e906b20078d0a9a7af61326334727c85,រតនគិរី,វើនសៃ,មណ្ឌលសុខភាពវីរៈជ័យ,Rattanakiri,Veun Sai,Virachey Health Center
+215,30b2b5076d20cca195684a748ee79f24e347c3b3,រតនគិរី,កូនមុំ,មណ្ឌលសុខភាពកូនមុំ,Rattanakiri,Koun Mom,Koun Mom Health Center
+216,817516f2d62ed28df66f9bce667a54bf7fe92c7c,រតនគិរី,លំផាត់,មណ្ឌលសុខភាពលំផាត់,Rattanakiri,Lumphat,Lumphat Health Center
+217,3c1a3dde06cbb2e0dee7a3116d8af83b292caaa5,រតនគិរី,លំផាត់,មណ្ឌលសុខភាពជំរុំបីស្រុក,Rattanakiri,Lumphat,Chum Rom Bei Srok Health Center
+218,f8040f1d2568d9b574f44ad8f8a407e690c666a4,រតនគិរី,អូរជុំ,មណ្ឌលសុខភាពសាមគ្គី,Rattanakiri,Ou Chum,Sameakki Health Center
+219,ca96e360ee9fb92f676471543d53cd565a47b9b4,រតនគិរី,លំផាត់,មណ្ឌលសុខភាពសេដា,Rattanakiri,Lumphat,Seda Health Center
+220,cde4bfaeddd69b8e500e0dd223bd9864e061a69b,រតនគិរី,អូរជុំ,មណ្ឌលសុខភាពប៉ូយ,Rattanakiri,Ou Chum,Pouy Health Center
+221,f0ee63d0b3183cc325c4bf376d8945eeefcab368,រតនគិរី,កូនមុំ,មណ្ឌលសុខភាពតឺន,Rattanakiri,Koun Mom,Teun Health Center
+222,aea873185e4a36c71e98ddffd80c5da7669f694e,រតនគិរី,លំំផាត់,មណ្ឌលសុខភាពល្បាំង១,Rattanakiri,Lumphat,Lbang Muoy Health Center
+223,e7ba7625ebc8499567fc880ede3797a62b2f4cbe,រតនគិរី,កូនមុំ,មណ្ឌលសុខភាពស្រែអង្គ្រង,Rattanakiri,Koun Mom,Srae Angkrorng Health Center
+224,b2d0518a56d8e4bff04b763c610e627add07ea2d,រតនគិរី,វើនសៃ,មណ្ឌលសុខភាពភ្នំកុក,Rattanakiri,Veun Sai,Phnum Kok Health Center
+225,a3e9e24ffbbd3306413d0280db2603effd262670,រតនគិរី,វើនសៃ,មណ្ឌលសុខភាពកោះពាក្យ,Rattanakiri,Veun Sai,Kaoh Peak Health Center
+226,e93c896ac93000f86fe9b3449e7d3e715e1dc3d3,រតនគិរី,បរកែវ,ស្រុកប្រតិបត្តិបរកែវ,Rattanakiri,Bar Kaev,Bar Kaev Operational District
+227,1bfefd9bd4d1a6b151ffc2cac60352d0d50523a4,រតនគិរី,បរកែវ,មន្ទីរពេទ្យបង្អែកបរកែវ,Rattanakiri,Bar Kaev,Bar Kaev Referral Hospital
+228,e202d7f1322c10f0d2c0de974a6001f627a4763f,រតនគិរី,អណ្តូងមាស,មណ្ឌលសុខភាពអណ្តូងពេជ្រ,Rattanakiri,Andoung Meas,Andung Pic Health Center
+229,b9606b8a69cdd88b0909bb773992fab5b047551e,រតនគិរី,បរកែវ,មណ្ឌលសុខភាពកិចុង,Rattanakiri,Bar Kaev,Keh Chong Health Center
+230,f076572702bac61d15cc9ea243ca6ecce1c9486e,រតនគិរី,បរកែវ,មណ្ឌលសុខភាពលុងឃុង,Rattanakiri,Bar Kaev,Lung Khung Health Center
+231,25022c0d31fb0c10140cbff3475fa09b982cb988,រតនគិរី,អូរយ៉ាដាវ,មណ្ឌលសុខភាពអូរយ៉ាដាវ,Rattanakiri,Ou Ya Dav,Ou Ya Dav Health Center
+232,f43baa934a6ce01b94185f24c713ef657fbecbaa,រតនគិរី,អូរយ៉ាដាវ,មណ្ឌលសុខភាពបរខាំ,Rattanakiri,Ou Ya Dav,Bar Kham Health Center
+233,60c9be02582952ada620873ce07b4da38bbdcc78,រតនគិរី,អូរយ៉ាដាវ,មណ្ឌលសុខភាពសោមធំ,Rattanakiri,Ou Ya Dav,Saom Thum Health Center
+234,5bc90fe1a6e31b247de76707a069384ff0283ec1,រតនគិរី,អណ្តូងមាស,មណ្ឌលសុខភាពម៉ាលិក,Rattanakiri,Andoung Meas,Malik Health Center
+235,e586103fe41411b7a7fb807d2631f919b1d1511c,រតនគិរី,អណ្តូងមាស,មណ្ឌលសុខភាពអណ្តូងមាស,Rattanakiri,Andoung Meas,Andoung Meas Health Center
+236,0d18e4228ff0cf9ae27252f3e2816afe6e7504e3,រតនគិរី,អណ្តូងមាស,មណ្ឌលសុខភាពតាឡាវ,Rattanakiri,Andoung Meas,Ta Lav Health Center
+237,df09fbb3e1af24870b6080e14849d225951b35c4,រតនគិរី,អណ្តូងមាស,មណ្ឌលសុខភាពញ៉ាង,Rattanakiri,Andoung Meas,Nhang Health Center
+238,c97016a9a79518c3722751b85f0a30f9034d5186,រតនគិរី,បរកែវ,មណ្ឌលសុខភាពទីងចាក់,Rattanakiri,Bar Kaev,Ting Chak Health Center

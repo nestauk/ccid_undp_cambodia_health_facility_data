@@ -15,6 +15,7 @@ This is a data repair tool for the UNDP Cambodia project. It's a small solution 
   - `ReIndexFriendlinessAndSpeed` - fixes 0-indexed values found for `friendless` and `speed`
   - `AddConflictResolutionValues` - adds values for `_version`, `_lastChangedAt`, `_deleted`
   - `MigrateToYobolHealthCentreFeedback` - converts to simpler, flatter, `YobolHealthCentreFeedback` data type
+  - `SetMissingDistrictValues` - applies district data to feedback that does not have district information
 - `write-enable` - Determines whether to write back to the database or not. Values are:
   - `true` - write enabled, write changes to the database
   - `false` - this is a dry run, enact the changes but do not write back
@@ -36,7 +37,11 @@ This operation adds sensible default values for the conflict resolution fields t
 
 ### `MigrateToYobolHealthCentreFeedback`
 
-This operation converts exisating `SortableSemanticFeedback` data items into `YobolHealthCentreFeedback` items, and stores them in the table defined in `parameter`.
+This operation converts existing `SortableSemanticFeedback` data items into `YobolHealthCentreFeedback` items, and stores them in the table defined in `parameter`.
+
+### `SetMissingDistrictValues`
+
+This operation adds district information to `YobolHealthCentreFeedback` data items that do not have it set. Provide the path to `health-centres-2022.csv` in `parameter`.
 
 ## Projects
 
