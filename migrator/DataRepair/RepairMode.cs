@@ -8,6 +8,7 @@ namespace DataRepair
 		AddConflictResolutionValues, // add missing values for DataStore conflict resolution
 		MigrateToYobolHealthCentreFeedback, // migrate to the 4th iteration data structure
 		SetMissingDistrictValues, // set district values that were not been stored during beta
+		MigrateToYobolHealthFeedback, // migrate to 5th iteration data structure
 	}
 }
 

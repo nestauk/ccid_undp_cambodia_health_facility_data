@@ -48,6 +48,13 @@ switch (mode)
         await SetMissingDistrictValues.RepairAsync(table, health_centre_csv_path, write);
         break;
 
+    case RepairMode.MigrateToYobolHealthFeedback:
+        Console.WriteLine("Migrating to YobolHealthFeedback...");
+        Console.WriteLine();
+        var target_table_hff = args[3]!;
+        await MigrateToYobolHealthFacilityFeedback.RepairAsync(table, target_table_hff, write);
+        break;
+
     default:
         Console.WriteLine($"{mode} not supported.");
         break;

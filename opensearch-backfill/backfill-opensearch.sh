@@ -6,6 +6,9 @@
 
 # Comment these lines to re-enable the script
 echo "This script has already been run - and should not be needed again."
+echo "If you need to run this script against fresh data, and a fresh Open Search index,"
+echo "get new values for TABLE_NAME, LAMBDA_ARN, TABLE_STREAM_ARN. These are available"
+echo "in the AWS Console (take a look at the dynamodb table and its stream settings)."
 exit 0
 
 # Start
@@ -25,16 +28,16 @@ REGION="ap-southeast-1"
 
 # dev parameters
 if [[ "$ENVIRO" == 'dev' ]]; then
-   TABLE_NAME="SortableSemanticFeedback-n26gdt6xnfdxbj7sar6xeqdoju-dev"
+   TABLE_NAME="YobolHealthCentreFeedback-n26gdt6xnfdxbj7sar6xeqdoju-dev"
    LAMBDA_ARN="arn:aws:lambda:ap-southeast-1:251687087743:function:amplify-undpcambodiaplatf-OpenSearchStreamingLambd-clVLE6mtAVYe"
-   TABLE_STREAM_ARN="arn:aws:dynamodb:ap-southeast-1:251687087743:table/SortableSemanticFeedback-n26gdt6xnfdxbj7sar6xeqdoju-dev/stream/2023-06-21T09:59:59.473"
+   TABLE_STREAM_ARN="arn:aws:dynamodb:ap-southeast-1:251687087743:table/YobolHealthCentreFeedback-n26gdt6xnfdxbj7sar6xeqdoju-dev/stream/2023-07-26T15:22:45.042"
 fi
 
 # production parameters
 if [[ "$ENVIRO" == 'prod' ]]; then
-   TABLE_NAME="SortableSemanticFeedback-rgtqen7offgm7dxbxvnapczgmy-production"
+   TABLE_NAME="YobolHealthCentreFeedback-rgtqen7offgm7dxbxvnapczgmy-production"
    LAMBDA_ARN="arn:aws:lambda:ap-southeast-1:251687087743:function:amplify-undpcambodiaplatf-OpenSearchStreamingLambd-NgxL4oNGnKPX"
-   TABLE_STREAM_ARN="arn:aws:dynamodb:ap-southeast-1:251687087743:table/SortableSemanticFeedback-rgtqen7offgm7dxbxvnapczgmy-production/stream/2023-06-21T23:27:10.179"
+   TABLE_STREAM_ARN="arn:aws:dynamodb:ap-southeast-1:251687087743:table/YobolHealthCentreFeedback-rgtqen7offgm7dxbxvnapczgmy-production/stream/2023-07-27T15:36:04.332"
 fi
 
 if [[ -z "$TABLE_NAME" ]]; then

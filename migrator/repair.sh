@@ -18,6 +18,7 @@ if [[ -z "$MODE" ]]; then
    echo " - AddConflictResolutionValues"
    echo " - MigrateToYobolHealthCentreFeedback"
    echo " - SetMissingDistrictValues"
+   echo " - MigrateToYobolHealthFacilityFeedback"
    exit 1
 fi
 
@@ -31,11 +32,13 @@ fi
 if [[ "$ENV" == 'prod' ]]; then
    # prod table
    # TABLE="SortableSemanticFeedback-rgtqen7offgm7dxbxvnapczgmy-production" # old SortableSemanticFeedback format
-   TABLE="YobolHealthCentreFeedback-rgtqen7offgm7dxbxvnapczgmy-production" # new YobolHealthCentreFeedback format
+   # TABLE="YobolHealthCentreFeedback-rgtqen7offgm7dxbxvnapczgmy-production" # old YobolHealthCentreFeedback format
+   TABLE="YobolHealthFeedback-rgtqen7offgm7dxbxvnapczgmy-production" # new YobolHealthFeedback format
 else
    # dev table
    # TABLE="SortableSemanticFeedback-n26gdt6xnfdxbj7sar6xeqdoju-dev" # old SortableSemanticFeedback format
-   TABLE="YobolHealthCentreFeedback-n26gdt6xnfdxbj7sar6xeqdoju-dev" # new YobolHealthCentreFeedback format
+   TABLE="YobolHealthCentreFeedback-n26gdt6xnfdxbj7sar6xeqdoju-dev" # old YobolHealthCentreFeedback format
+   TABLE="YobolHealthFeedback-n26gdt6xnfdxbj7sar6xeqdoju-dev" # new YobolHealthFeedback format
 fi
 
 # mode and cutoff date. modes:
