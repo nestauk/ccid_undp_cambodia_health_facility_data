@@ -19,6 +19,7 @@ if [[ -z "$MODE" ]]; then
    echo " - MigrateToYobolHealthCentreFeedback"
    echo " - SetMissingDistrictValues"
    echo " - MigrateToYobolHealthFacilityFeedback"
+   echo " - ImportSemanticFeedbackToYobolHealthFeedback"
    exit 1
 fi
 
@@ -37,7 +38,7 @@ if [[ "$ENV" == 'prod' ]]; then
 else
    # dev table
    # TABLE="SortableSemanticFeedback-n26gdt6xnfdxbj7sar6xeqdoju-dev" # old SortableSemanticFeedback format
-   TABLE="YobolHealthCentreFeedback-n26gdt6xnfdxbj7sar6xeqdoju-dev" # old YobolHealthCentreFeedback format
+   # TABLE="YobolHealthCentreFeedback-n26gdt6xnfdxbj7sar6xeqdoju-dev" # old YobolHealthCentreFeedback format
    TABLE="YobolHealthFeedback-n26gdt6xnfdxbj7sar6xeqdoju-dev" # new YobolHealthFeedback format
 fi
 
