@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YobolShared", "YobolShared\YobolShared.csproj", "{9E66E0C9-E996-43FE-9272-1B95F793834B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataRepair", "DataRepair\DataRepair.csproj", "{7A40785A-7B35-42C9-9D8D-7A562E0E6D7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E66E0C9-E996-43FE-9272-1B95F793834B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E66E0C9-E996-43FE-9272-1B95F793834B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E66E0C9-E996-43FE-9272-1B95F793834B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E66E0C9-E996-43FE-9272-1B95F793834B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A40785A-7B35-42C9-9D8D-7A562E0E6D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A40785A-7B35-42C9-9D8D-7A562E0E6D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A40785A-7B35-42C9-9D8D-7A562E0E6D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A40785A-7B35-42C9-9D8D-7A562E0E6D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCB12AA3-79CE-4E9A-A5D2-D4D96D86581E}
+	EndGlobalSection
+EndGlobal
