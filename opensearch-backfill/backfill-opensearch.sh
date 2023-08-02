@@ -28,16 +28,16 @@ REGION="ap-southeast-1"
 
 # dev parameters
 if [[ "$ENVIRO" == 'dev' ]]; then
-   TABLE_NAME="YobolHealthCentreFeedback-n26gdt6xnfdxbj7sar6xeqdoju-dev"
-   LAMBDA_ARN="arn:aws:lambda:ap-southeast-1:251687087743:function:amplify-undpcambodiaplatf-OpenSearchStreamingLambd-clVLE6mtAVYe"
-   TABLE_STREAM_ARN="arn:aws:dynamodb:ap-southeast-1:251687087743:table/YobolHealthCentreFeedback-n26gdt6xnfdxbj7sar6xeqdoju-dev/stream/2023-07-26T15:22:45.042"
+   TABLE_NAME="YobolHealthFeedback-5h5to2vxs5hzrpnqmwpwbjoigy-preview"
+   LAMBDA_ARN="arn:aws:lambda:ap-southeast-1:782079840132:function:amplify-undpcambodiaplatf-OpenSearchStreamingLambd-li46v7jR2Kre"
+   TABLE_STREAM_ARN="arn:aws:dynamodb:ap-southeast-1:782079840132:table/YobolHealthFeedback-5h5to2vxs5hzrpnqmwpwbjoigy-preview/stream/2023-07-28T15:14:08.495"
 fi
 
 # production parameters
 if [[ "$ENVIRO" == 'prod' ]]; then
-   TABLE_NAME="YobolHealthCentreFeedback-rgtqen7offgm7dxbxvnapczgmy-production"
-   LAMBDA_ARN="arn:aws:lambda:ap-southeast-1:251687087743:function:amplify-undpcambodiaplatf-OpenSearchStreamingLambd-NgxL4oNGnKPX"
-   TABLE_STREAM_ARN="arn:aws:dynamodb:ap-southeast-1:251687087743:table/YobolHealthCentreFeedback-rgtqen7offgm7dxbxvnapczgmy-production/stream/2023-07-27T15:36:04.332"
+   TABLE_NAME="YobolHealthFeedback-t634f7gn55blnkiqkrfqmm3mre-production"
+   LAMBDA_ARN="arn:aws:lambda:ap-southeast-1:782079840132:function:amplify-undpcambodiaplatf-OpenSearchStreamingLambd-zmK9HGPL057c"
+   TABLE_STREAM_ARN="arn:aws:dynamodb:ap-southeast-1:782079840132:table/YobolHealthFeedback-t634f7gn55blnkiqkrfqmm3mre-production/stream/2023-07-28T15:44:26.245"
 fi
 
 if [[ -z "$TABLE_NAME" ]]; then
