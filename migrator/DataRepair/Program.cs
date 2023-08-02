@@ -20,25 +20,10 @@ switch (mode)
         Console.WriteLine($"Options: {string.Join(", ", Enum.GetValues<RepairMode>())}");
         return;
 
-    case RepairMode.ReIndexFriendlinessAndSpeed:
-        Console.WriteLine("Repairing values for friendliness and speed...");
-        var date = DateTime.Parse(param!);
-        Console.WriteLine("Before: " + date.ToString());
-        Console.WriteLine();
-        await ReIndexFriendlinessAndSpeed.RepairAsync(table, date, write);
-        break;
-
-    case RepairMode.AddConflictResolutionValues:
+    case RepairMode.SetConflictResolutionValues:
         Console.WriteLine("Adding missing conflict resolution values...");
         Console.WriteLine();
-        await AddConflictResolutionValues.RepairAsync(table, write);
-        break;
-
-    case RepairMode.MigrateToYobolHealthCentreFeedback:
-        Console.WriteLine("Migrating to HealthCentreFeedback...");
-        Console.WriteLine();
-        var target_table = args[3]!;
-        await MigrateToYobolHealthCentreFeedback.RepairAsync(table, target_table, write);
+        await SetConflictResolutionValues.RepairAsync(table, write);
         break;
 
     case RepairMode.SetMissingDistrictValues:
@@ -46,13 +31,6 @@ switch (mode)
         Console.WriteLine();
         var health_centre_csv_path = args[3]!;
         await SetMissingDistrictValues.RepairAsync(table, health_centre_csv_path, write);
-        break;
-
-    case RepairMode.MigrateToYobolHealthFeedback:
-        Console.WriteLine("Migrating to YobolHealthFeedback...");
-        Console.WriteLine();
-        var target_table_hff = args[3]!;
-        await MigrateToYobolHealthFacilityFeedback.RepairAsync(table, target_table_hff, write);
         break;
 
     default:

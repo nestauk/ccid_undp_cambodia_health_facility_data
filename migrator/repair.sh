@@ -14,12 +14,8 @@ fi
 # if MODE is not provided
 if [[ -z "$MODE" ]]; then
    echo "Please provide mode as the second argument. Options are:"
-   echo " - ReIndexFriendlinessAndSpeed"
-   echo " - AddConflictResolutionValues"
-   echo " - MigrateToYobolHealthCentreFeedback"
+   echo " - SetConflictResolutionValues"
    echo " - SetMissingDistrictValues"
-   echo " - MigrateToYobolHealthFacilityFeedback"
-   echo " - ImportSemanticFeedbackToYobolHealthFeedback"
    exit 1
 fi
 
@@ -30,16 +26,11 @@ if [[ -z "$WRITE" ]]; then
 fi
 
 # if ENV is "prod" then use the production table, otherwise use the dev table
+
 if [[ "$ENV" == 'prod' ]]; then
-   # prod table
-   # TABLE="SortableSemanticFeedback-rgtqen7offgm7dxbxvnapczgmy-production" # old SortableSemanticFeedback format
-   # TABLE="YobolHealthCentreFeedback-rgtqen7offgm7dxbxvnapczgmy-production" # old YobolHealthCentreFeedback format
-   TABLE="YobolHealthFeedback-rgtqen7offgm7dxbxvnapczgmy-production" # new YobolHealthFeedback format
+   TABLE="YobolHealthFeedback-t634f7gn55blnkiqkrfqmm3mre-production" # CPDD production table
 else
-   # dev table
-   # TABLE="SortableSemanticFeedback-n26gdt6xnfdxbj7sar6xeqdoju-dev" # old SortableSemanticFeedback format
-   # TABLE="YobolHealthCentreFeedback-n26gdt6xnfdxbj7sar6xeqdoju-dev" # old YobolHealthCentreFeedback format
-   TABLE="YobolHealthFeedback-n26gdt6xnfdxbj7sar6xeqdoju-dev" # new YobolHealthFeedback format
+   TABLE="YobolHealthFeedback-5h5to2vxs5hzrpnqmwpwbjoigy-preview" # CPDD preview table
 fi
 
 # mode and cutoff date. modes:

@@ -1,8 +1,9 @@
+using System.Text.Json;
 using Amazon.DynamoDBv2;
 using Amazon.DynamoDBv2.DataModel;
 using Amazon.DynamoDBv2.DocumentModel;
 
-public class AddConflictResolutionValues
+public class SetConflictResolutionValues
 {
     public static async Task RepairAsync(string tableName, bool write)
     {
@@ -30,8 +31,8 @@ public class AddConflictResolutionValues
 
             Console.WriteLine("Preparing items...");
             var itemsToFix = items
-                .Select(context.FromDocument<SortableSemanticFeedback>);
-            // .Where(ssf => ssf._version == null);
+                .Select(context.FromDocument<YobolHealthCentreFeedback>)
+                .ToList();
 
             Console.WriteLine($"{itemsToFix.Count()} SortableSemanticFeedback items to repair.");
 
@@ -58,8 +59,8 @@ public class AddConflictResolutionValues
         }
     }
 
-    public static int ToAwsTimestamp(DateTime dateTime)
+    public static long ToAwsTimestamp(DateTime dateTime)
     {
-        return (int)(dateTime - new DateTime(1970, 1, 1)).TotalSeconds;
+        return (long)(dateTime - new DateTime(1970, 1, 1)).TotalMilliseconds;
     }
 }
