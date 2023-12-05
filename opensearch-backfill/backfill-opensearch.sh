@@ -16,10 +16,16 @@ echo "Backfilling data from DynamoDB to OpenSearch..."
 echo
 
 # parameters
-ENVIRO=$1
+PROFILE=$1
+ENVIRO=$2
+
+if [[ -z "$PROFILE" ]]; then
+   echo "Please provide profile as the first argument."
+   exit 1
+fi
 
 if [[ -z "$ENVIRO" ]]; then
-   echo "Please provide environment as the first argument. Options are: dev, prod"
+   echo "Please provide environment as the second argument. Options are: dev, prod"
    exit 1
 fi
 
@@ -29,15 +35,15 @@ REGION="ap-southeast-1"
 # dev parameters
 if [[ "$ENVIRO" == 'dev' ]]; then
    TABLE_NAME="YobolHealthFeedback-5h5to2vxs5hzrpnqmwpwbjoigy-preview"
-   LAMBDA_ARN="arn:aws:lambda:ap-southeast-1:782079840132:function:amplify-undpcambodiaplatf-OpenSearchStreamingLambd-li46v7jR2Kre"
    TABLE_STREAM_ARN="arn:aws:dynamodb:ap-southeast-1:782079840132:table/YobolHealthFeedback-5h5to2vxs5hzrpnqmwpwbjoigy-preview/stream/2023-07-28T15:14:08.495"
+   LAMBDA_ARN="arn:aws:lambda:ap-southeast-1:782079840132:function:amplify-undpcambodiaplatf-OpenSearchStreamingLambd-li46v7jR2Kre"
 fi
 
 # production parameters
 if [[ "$ENVIRO" == 'prod' ]]; then
    TABLE_NAME="YobolHealthFeedback-t634f7gn55blnkiqkrfqmm3mre-production"
-   LAMBDA_ARN="arn:aws:lambda:ap-southeast-1:782079840132:function:amplify-undpcambodiaplatf-OpenSearchStreamingLambd-zmK9HGPL057c"
    TABLE_STREAM_ARN="arn:aws:dynamodb:ap-southeast-1:782079840132:table/YobolHealthFeedback-t634f7gn55blnkiqkrfqmm3mre-production/stream/2023-07-28T15:44:26.245"
+   LAMBDA_ARN="arn:aws:lambda:ap-southeast-1:782079840132:function:amplify-undpcambodiaplatf-OpenSearchStreamingLambd-zmK9HGPL057c"
 fi
 
 if [[ -z "$TABLE_NAME" ]]; then
@@ -45,6 +51,7 @@ if [[ -z "$TABLE_NAME" ]]; then
    exit 1
 fi
 
+echo "Profile:          $PROFILE"
 echo "Environment:      $ENVIRO"
 echo "Region:           $REGION"
 echo "Table name:       $TABLE_NAME"
@@ -52,8 +59,9 @@ echo "Lambda ARN:       $LAMBDA_ARN"
 echo "Table stream ARN: $TABLE_STREAM_ARN"
 echo
 
-python3 ./backfill-opensearch.py \
-   --rn $REGION \
-   --tn $TABLE_NAME \
-   --lf $LAMBDA_ARN \
-   --esarn $TABLE_STREAM_ARN
+aws-vault exec $PROFILE --region $REGION -- \
+   python3 ./backfill-opensearch.py \
+      --rn $REGION \
+      --tn $TABLE_NAME \
+      --lf $LAMBDA_ARN \
+      --esarn $TABLE_STREAM_ARN
